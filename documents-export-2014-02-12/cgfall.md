@@ -2,7 +2,7 @@
 
 Section 1
 =========
-# Tournament administration
+## Tournament administration
 
 1.1 Staff
 The administration will be: [STAFF]
@@ -24,7 +24,7 @@ Official communication will take place via the forum on L4Dnation.com.
 
 Section 2
 =========
-#Tournament format, standings, and tiebreaks
+##Tournament format, standings, and tiebreaks
 
 2.1 Format
 
@@ -73,7 +73,7 @@ round pairings.
 
 Section 3
 =========
-#Team registration
+##Team registration
 
 3.1 Registration link Teams must register by:
 
@@ -90,7 +90,7 @@ after the registration deadline.
 
 Section 4
 =========
-#Servers
+##Servers
 
 The match servers will be selected according to the following process.
 
@@ -120,7 +120,7 @@ CIRCUMSTANCES WHATSOEVER WILL LATE RESULTS BE ACCEPTED. (See Section
 
 Section 5
 =========
-# Match scheduling and match rules
+## Match scheduling and match rules
 
 5.1 Rounds and scheduling
 Pairings and brackets for each round will be posted weekly on Monday.
@@ -235,7 +235,7 @@ other action will be taken according to the circumstances.
 
 Section 6
 =========
-#Addons and configuration
+##Addons and configuration
 
 The following guidelines will assist the competitors in understanding
 the intentions of the tournament directors. However, the tournament
@@ -304,7 +304,7 @@ forbidden, even when disconnecting or reconnecting from the server.
 
 Section 7
 =========
-#Behavior and etiquette
+##Behavior and etiquette
 
 7.1 Conduct
 Players are expected to conduct themselves politely and professionally
