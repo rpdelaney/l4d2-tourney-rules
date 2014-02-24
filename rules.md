@@ -8,18 +8,18 @@ The administration will be: [STAFF]
 
 ######1.1.1 Conflicts of interest
 
-Staff may participate in the tournament. Where there may be an appearance of a
-conflict of interest, a tournament director will yield to a counterpart.
+Staff may participate in the tournament. Where there may be an appearance of
+a conflict of interest, a tournament director will yield to a counterpart.
 
 #####1.2 Disputes
 
-The Tournament Director is the sole arbiter of all disputes. Their
-decisions are final and cannot be appealed.
+The Tournament Director is the sole arbiter of all disputes. Their decisions
+are final and cannot be appealed.
 
 #####1.3 Sanctions
 
-The tournament directors reserve the right to impose any sanction on any
-team or individual player at their sole discretion.
+The tournament directors reserve the right to impose any sanction on any team
+or individual player at their sole discretion.
 
 #####1.4 Official communication
 
@@ -61,9 +61,9 @@ Consult a tournament director with any questions about the format.
 For information on the Swiss System, you can review the following
 links:
 
-* Wikipedia,
-* World Chess Federation,
-* Swiss tournament rules DCI Tournament Handbook
+* [Wikipedia](http://https://en.wikipedia.org/wiki/Swiss-system_tournament)
+* [World Chess Federation](http://http://www.fide.com/component/handbook/?id=84&view=article)
+* [Wizards of the Coast](http://http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
 
 #####2.2 Deadlines
 
@@ -295,40 +295,40 @@ prizes.
 
 The following modifications are PERMITTED:
 
-######6.2.1
+######6.2.1 Menu
 All modifications to the Left 4 Dead 2 user interface that do not
 alter, nor interact with the in-game user experience, nor provide
 additional information about the game state (e.g. ZoneMenu, menu music,
 menu fonts, menu shortcuts, etc)
 
-######6.2.2
+######6.2.2 HUDs
 Modifying HUDs and crosshairs
 
-######6.2.3
+######6.2.3 Gun models
 Modifying or removing gun models and reload animations
 
-######6.2.4
+######6.2.4 Tank music
 Modifying “tank music” including altering the volume
 
-######6.2.5
+######6.2.5 Blue tint
 Modifying or removing the blue tint while spawning special infected in
 “ghost mode”
 
-######6.2.6
+######6.2.6 Red tint
 Modifying or removing the red tint while spawned as special infected or
 tank
 
-######6.2.7
+######6.2.7 Console variables ("cvars")
 In-game configuration files and scripts that do not exploit “cheat”
 cvars, as noted on the official List of cvars, and do not circumvent
 cvars blocked by the competitive configuration (e.g.  mat_hdr). The
 wait command is allowed.
 
-######6.2.8
+######6.2.8 Command-line arguments
 Command-line arguments that do not exploit nor allow the player to
 exploit “cheat” cvars
 
-######6.2.9
+######6.2.9 GUI options
 Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables
 
@@ -370,7 +370,7 @@ Players are expected to conduct themselves politely and professionally
 during the match. Abusive or harassing conduct toward other players,
 spectators, or tournament administrators will not be tolerated.
 
-#####7.2 "Taunt" sound effects
+#####7.2 Sound effects
 Players may not trigger sound-effects to taunt, harass, annoy, or
 confuse other players. This includes but IS NOT LIMITED to:
 
