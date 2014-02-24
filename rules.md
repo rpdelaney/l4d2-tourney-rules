@@ -28,35 +28,36 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament format, standings, and tiebreaks
 
 #####2.1 Format
-
 This will be a Swiss System tournament of [NUMBER] rounds. A match win
 will score 1 point; a tie scores a half point; a loss or forfeit scores
 0 points.
 
 ######2.1.1 Pairings
-
-For the first round, matches will be paired according to the judgment of the
-tournament director. For subsequent rounds, teams will be paired at random
-against other teams with the same score of Won : Lost games. There will be no
-eliminations due to poor results or lost games.
+For the first round, matches will be paired according to the judgment
+of the tournament director. For subsequent rounds, teams will be paired
+at random against other teams with the same score of Won : Lost games.
+There will be no eliminations due to poor results or lost games.
 
 ######2.1.2 Double jeopardy
-Under no circumstances will two competitors face each other more than once.
+Under no circumstances will two competitors face each other more than
+once.
 
+######2.1.3 Awarding a bye
+In the event that a round must be paired with an uneven number of
+participants, a bye will be awarded to the lowest ranked participant in
+the lowest score group.
 
 ######2.1.4 Tiebreakers
-
-Ties will be broken by the following criteria, descending:
+Ties will be broken by the following criteria, descending (see [Neustadtl Score](http://https://en.wikipedia.org/wiki/Sonneborn-Berger_score)):
 
 1. The result of the head-to-head matchup of the tied participants, if
 applicable.
 2. The sum of conventional scores of the teams each participant has
-beaten, with the greater combined score automatically winning the
-tiebreaker. (see [nEUSTADTL SCORE])
+defeated.
 
-Consult a tournament director with any questions about the format.
-
-######2.1.6 Further reading
+######2.1.6 More information
+If you have any questions about the Swiss System, contact a Tournament
+Director or the author.
 
 For information on the Swiss System, you can review the following
 links:
