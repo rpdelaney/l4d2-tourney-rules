@@ -1,4 +1,4 @@
-﻿Last modified: Sun Feb 16 18:23:11 PST 2014
+﻿Last modified: Mon Feb 24 12:32:32 PST 2014
 
 ##Section 1: Tournament administration
 
@@ -379,3 +379,7 @@ other recognizable game element.
 Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
+
+<!--
+vim: filetype=markdown wrapmargin=79
+-->
