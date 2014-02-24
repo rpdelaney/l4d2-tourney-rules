@@ -1,29 +1,27 @@
 ﻿Last modified: Sun Feb 16 18:23:11 PST 2014
 
-Section 1
-=========
-## Tournament administration
+##Section 1 - Tournament administration
 
-1.1 Staff
+#####1.1 Staff
 
 The administration will be: [STAFF]
 
-1.1.1 Conflicts of interest.
+######1.1.1 Conflicts of interest.
 
 Staff may participate in the tournament. Where there may be an appearance of a
 conflict of interest, a tournament director will yield to a counterpart.
 
-1.2 Disputes
+#####1.2 Disputes
 
 The Tournament Director is the sole arbiter of all disputes. Their
 decisions are final and cannot be appealed.
 
-1.3 Sanctions
+#####1.3 Sanctions
 
 The tournament directors reserve the right to impose any sanction on any
 team or individual player at their sole discretion.
 
-1.4 Official communication
+#####1.4 Official communication
 
 Official communication will take place via the forum on L4Dnation.com.
 
