@@ -84,10 +84,12 @@ links:
 
 #####2.2 Deadlines
 
-Because the pairings for each round are based on prior round scoring,
-each round cannot be paired until every match from the previous round is
-completed. Therefore, there will be a ZERO TOLERANCE policy for matches
-that remain unplayed past the round deadline.
+Because the pairings based on prior round scoring, the next round
+cannot be paired until all the results of the previous round have been
+reported.
+
+Therefore, there will be a *ZERO TOLERANCE* policy for matches that
+remain unreported past the round deadline.
 
 #####2.3 Maps
 
