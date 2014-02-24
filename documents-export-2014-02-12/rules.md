@@ -39,7 +39,7 @@ For the first round, matches will be paired according to the judgment of
 the tournament director. For subsequent rounds, teams will be paired at
 random against other teams with the same score of Won : Lost games.
 
-######2.1.2 Under no circumstances will two teams will play each other more
+<H6>2.1.2</H6> Under no circumstances will two teams will play each other more
 than once.
 
 ######2.1.3 There will be no eliminations due to poor results or lost
