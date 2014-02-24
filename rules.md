@@ -113,8 +113,7 @@ Servers with 60 tickrate will be preferred, unless both teams agree
 to another tickrate.
 
 #####4.4
-Servers with DoS protection are always given priority unless they
-are outside the continental United States.
+Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
 
 #####4.5
 If both teams have a server but cannot agree on which server to
@@ -124,11 +123,6 @@ ping for all the competitors.
 #####4.6
 If no available server can be found after this process has been
 exhausted, a Tournament Director must be contacted immediately.
-
-#####4.7
-Matches may be delayed to find a suitable server, but UNDER NO
-CIRCUMSTANCES WHATSOEVER WILL LATE RESULTS BE ACCEPTED. (See Section
-2.2)
 
 ##Section 5: Match scheduling and match rules
 
