@@ -1,4 +1,20 @@
-﻿Last modified: Mon Feb 24 12:32:32 PST 2014
+﻿##Section 0: Readme
+####l4d2-tourney-rules
+This file provides a standardized ruleset for Left 4 Dead 2
+tournaments.
+
+####Legal
+Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
+distribute and/or modify this document under the terms of the GNU Free
+Documentation License, Version 1.3 or any later version published by
+the Free Software Foundation; with no Invariant Sections, no
+Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is
+included in the file titled "LICENSE".
+
+Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
+logo are trademarks and/or registered trademarks of Valve Corporation.
+All other trademarks are property of their respective owners.
+[Homepage](https://github.com/rpdelaney/l4d2-tourney-rules)
 
 ##Section 1: Tournament administration
 
