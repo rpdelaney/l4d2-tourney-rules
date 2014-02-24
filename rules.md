@@ -77,10 +77,8 @@ that remain unplayed past the round deadline.
 
 ######2.3.1 [MAP POOL]
 
-######2.3.2 The map schedule for each round will be posted with the first
-round pairings.
-
-######2.3.3 All finales will be played except for The Parish finale.
+######2.3.2 Finales
+All finales will be played except for The Parish finale.
 
 ##Section 3: Team registration
 
