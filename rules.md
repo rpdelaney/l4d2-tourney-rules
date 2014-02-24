@@ -133,26 +133,21 @@ CIRCUMSTANCES WHATSOEVER WILL LATE RESULTS BE ACCEPTED. (See Section
 ##Section 5: Match scheduling and match rules
 
 #####5.1 Rounds and scheduling
-
 Pairings and brackets for each round will be posted weekly on Monday.
-Results must be submitted by the following Sunday at midnight [TIME
-ZONE].
 
 ######5.1.1 Scheduling deadline
+Matches must be scheduled before the following Wednesday at midnight.
 
-Matches must be scheduled by the posted scheduling deadline.  Scheduled
-match times can be submitted by posting in the tournament thread only.
-Teams are encouraged to begin negotiating the schedule early;
-irreconcilable conflicts must be brought to the attention of the staff
-before the scheduling deadline.
+Teams are encouraged to begin negotiating the schedule early; conflicts
+must be brought to the attention of the staff before the deadline.
 
 ######5.1.2 Reporting deadline
+Results must be submitted, with a screenshot, by the following Sunday at
+midnight. Failure to report weekly round results before the deadline
+will result in a double forfeit. Under no circumstances whatsoever will
+extensions be granted.
 
-Results must be posted with a screenshot to the thread for the round on
-L4DNation. Failure to report weekly round results by the deadline will
-result in a double forfeit.
-
-######5.1.3
+######5.1.3 Scheduling duties
 Any player on the roster may perform scheduling duties.
 
 ######5.1.4
