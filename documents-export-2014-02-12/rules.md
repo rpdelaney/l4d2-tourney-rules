@@ -162,12 +162,10 @@ the server IP need not be reported publicly.
 
 #####5.2 Tardiness
 
-######5.2.1
 Each team has 15 minutes after the scheduled time to have 4
 players in the server and readied up. The standard penalty for failure
 will be a forfeit loss of the match.
 
-######5.2.2
 Each team is permitted one (1) 10-minute break per match, and
 only between rounds. Extra breaks require the consent of both the other
 team, and the admins or casters.
