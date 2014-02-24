@@ -162,10 +162,6 @@ extensions be granted.
 ######5.1.3 Scheduling duties
 Any player on the roster may perform scheduling duties.
 
-######5.1.4
-Each team must agree on the server at the time the match is scheduled.
-However, the server IP need not be reported publicly.
-
 #####5.2 Tardiness
 
 Each team has 15 minutes after the scheduled time to have 4 players in
