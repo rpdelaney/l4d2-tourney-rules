@@ -326,8 +326,9 @@ competitive configuration (e.g.  mat_hdr)
 Command-line arguments that do not exploit nor allow the player to exploit
 “cheat” cvars
 
-######6.2.9 Any configuration setting that can be altered using the standard
-in-game menu options or legal console variables
+######6.2.9
+Any configuration setting that can be altered using the standard in-game menu
+options or legal console variables
 
 #####6.3 Forbidden modifications
 
