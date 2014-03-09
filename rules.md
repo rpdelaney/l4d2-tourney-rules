@@ -232,6 +232,9 @@ re-record after disconnecting from the server for any reason.
 Each competitor must take a screenshot whenever asked by anyone in the
 server.
 
+Each team is allowed up to one (1) pause per round to request
+screenshots.
+
 ######5.7.4 Privacy
 Competitors are never required to provide demos or screenshots to
 anyone except the staff. They are confidential and will not be shared.
@@ -239,9 +242,11 @@ anyone except the staff. They are confidential and will not be shared.
 ######5.7.5 Responsibility is with you
 It is each competitor’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
-manner.  Failure to submit demos or screenshots on the request of the
-TD will result at minimum in a zero score for the associated rounds,
-and possible suspension of the player from the tournament.
+manner.
+
+Failure to submit demos or screenshots on the request of the staff will
+result at minimum in a zero score for the associated rounds, and
+possible suspension of the player from the tournament.
 
 #####5.9 Illegal techniques
 
@@ -256,6 +261,13 @@ partial reduction of match score.
 It is illegal for either side to hit the “Moustaschio” button on c2m4.
 The penalty for infractions will be a zero score for the round, or a
 700 point penalty to overall match score, whichever is greater.
+
+######5.9.3 Tank parking
+If an AI tank stops advancing for any reason, the survivors must be
+notified within in a reasonable time.
+
+Intentionally positioning a tank so that it cannot advance when AI
+controlled is not allowed.
 
 #####5.10 Glitches
 
