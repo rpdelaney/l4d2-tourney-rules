@@ -139,7 +139,7 @@ use, the match will be played on the server with the most even average
 ping for all the competitors.
 
 #####4.6
-If no available server can be found after this process has been
+If no suitable server can be found after this process has been
 exhausted, a Tournament Director must be contacted immediately.
 
 ##Section 5: Match scheduling and match rules
@@ -163,7 +163,6 @@ extensions be granted.
 Any player on the roster may perform scheduling duties.
 
 #####5.2 Tardiness
-
 Each team has 15 minutes after the scheduled time to have 4 players in
 the server and readied up. The standard penalty for failure will be a
 forfeit loss of the match.
@@ -173,7 +172,6 @@ between rounds. Extra breaks require the consent of both the other
 team, and the admins or casters.
 
 #####5.3 Casting
-
 The players agree that the matches may be casted according to the usual
 process. Servers should have room for up to two casters, two cameramen,
 and an admin. Access to mumble servers for ‘war rooms’ is appreciated
