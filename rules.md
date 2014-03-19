@@ -22,7 +22,7 @@ All other trademarks are property of their respective owners.
 
 The administration will be:
 - an entire sleeve of fig newtons
-#- http://steamcommunity.com/id/fignewtons
+#- (http://steamcommunity.com/id/fignewtons)
 #- ryan dot delaney gmail com
 #- GPG key-id: 4096R/B63436F1C9E7771B
 
@@ -64,7 +64,7 @@ participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group.
 
 ######2.1.4 Tiebreakers
-Ties will be broken by the following criteria, descending (see [Neustadtl Score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score)):
+Ties will be broken by the following criteria, descending ( see [Neustadtl Score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score) ):
 
 1. The result of the head-to-head matchup of the tied participants, if
 applicable.
@@ -75,9 +75,9 @@ defeated.
 For information on the Swiss System, you can review the following
 links:
 
-* [Wikipedia](http://https://en.wikipedia.org/wiki/Swiss-system_tournament)
-* [World Chess Federation](http://http://www.fide.com/component/handbook/?id=84&view=article)
-* [Wizards of the Coast](http://http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
+* [Wikipedia](https://en.wikipedia.org/wiki/Swiss-system_tournament)
+* [World Chess Federation](http://www.fide.com/component/handbook/?id=84&view=article)
+* [Wizards of the Coast](http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
 
 If you have any further questions about the Swiss System, contact a
 Tournament Director or the author.
@@ -91,9 +91,8 @@ Therefore, there will be a *ZERO TOLERANCE* policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
-
-- Death Toll
 - Dead Center
+- Death Toll
 - Hard Rain
 - Swamp Fever
 - Dark Carnival
