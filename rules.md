@@ -7,10 +7,10 @@ tournaments.
 ####Legal
 Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
 distribute and/or modify this document under the terms of the GNU Free
-Documentation License, Version 1.3 or any later version published by
-the Free Software Foundation; with no Invariant Sections, no
-Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is
-included in the file titled "LICENSE".
+Documentation License, Version 1.3 or any later version published by the
+Free Software Foundation; with no Invariant Sections, no Front-Cover
+Texts, and no Back-Cover Texts. A copy of the license is included in the
+file titled "LICENSE".
 
 Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
 logo are trademarks and/or registered trademarks of Valve Corporation.
@@ -20,31 +20,31 @@ All other trademarks are property of their respective owners.
 
 #####1.1 Staff
 
-The administration will be: [STAFF]
-
-######1.1.1 Conflicts of interest
-
-Staff may participate in the tournament. Where there may be an appearance of
-a conflict of interest, a tournament director will yield to a counterpart.
+The administration will be:
+- an entire sleeve of fig newtons
+#- http://steamcommunity.com/id/fignewtons
+#- ryan dot delaney gmail com
+#- GPG key-id: 4096R/B63436F1C9E7771B
 
 #####1.2 Disputes
-
-The Tournament Director is the sole arbiter of all disputes. Their decisions
-are final and cannot be appealed.
+The Tournament Director is the sole arbiter and court of last resort for
+all disputes. His decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
-
 The tournament directors reserve the right to impose any sanction on any team
 or individual player at their sole discretion.
 
-#####1.4 Official communication
+#####1.4 Conflicts of interest
+Staff may participate in the tournament. Where there may be an appearance of
+a conflict of interest, a tournament director will yield to a counterpart.
 
+#####1.4 Official communication
 Official communication will take place via the forum on L4Dnation.com.
 
 ##Section 2: Tournament format, standings, and tiebreaks
 
 #####2.1 Format
-This will be a Swiss System tournament of [NUMBER] rounds. A match win
+This will be a Swiss System tournament of [TBD] rounds. A match win
 will score 1 point; a tie scores a half point; a loss or forfeit scores
 0 points.
 
@@ -56,7 +56,7 @@ There will be no eliminations due to poor results or lost games.
 
 ######2.1.2 Double jeopardy
 Under no circumstances will two competitors face each other more than
-once.
+once during the tournament.
 
 ######2.1.3 Awarding a bye
 In the event that a round must be paired with an uneven number of
@@ -64,17 +64,14 @@ participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group.
 
 ######2.1.4 Tiebreakers
-Ties will be broken by the following criteria, descending (see [Neustadtl Score](http://https://en.wikipedia.org/wiki/Sonneborn-Berger_score)):
+Ties will be broken by the following criteria, descending (see [Neustadtl Score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score)):
 
 1. The result of the head-to-head matchup of the tied participants, if
 applicable.
 2. The sum of conventional scores of the teams each participant has
 defeated.
 
-######2.1.6 More information
-If you have any questions about the Swiss System, contact a Tournament
-Director or the author.
-
+######2.1.5 More information
 For information on the Swiss System, you can review the following
 links:
 
@@ -82,8 +79,10 @@ links:
 * [World Chess Federation](http://http://www.fide.com/component/handbook/?id=84&view=article)
 * [Wizards of the Coast](http://http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
 
-#####2.2 Deadlines
+If you have any further questions about the Swiss System, contact a
+Tournament Director or the author.
 
+#####2.2 Deadlines
 Because the pairings based on prior round scoring, the next round
 cannot be paired until all the results of the previous round have been
 reported.
@@ -93,7 +92,12 @@ remain unreported past the round deadline.
 
 #####2.3 Maps
 
-######2.3.1 [MAP POOL]
+- Death Toll
+- Dead Center
+- Hard Rain
+- Swamp Fever
+- Dark Carnival
+- The Parish
 
 ######2.3.2 Finales
 All finales will be played except for The Parish finale.
@@ -101,8 +105,7 @@ All finales will be played except for The Parish finale.
 ##Section 3: Team registration
 
 #####3.1 Registration
-
-Teams may register by... [PROCESS]
+Teams may register by filling out the [web form](https://docs.google.com/forms/d/18L6KR5lgGzh2wGbD1M6YTDMxRqU1c9CXWK-A_gAYatU/viewform).
 
 #####3.2 Registration deadline
 The deadline for registrations is midnight on [DATE]. Late registrations
@@ -114,44 +117,44 @@ competitor who drops from a roster may not re-join with another team
 after the registration deadline.
 
 ##Section 4: Servers
-
 The match servers will be approved according to the following criteria:
 
-#####4.1
-The server must be dedicated and hosted by a reputable hosting
-company inside the continental United States.
+#####4.1 Hosting
+The server must be dedicated and hosted by a reputable hosting company
+inside the continental United States.
 
-#####4.2
+#####4.2 Configuration
 The server will have an up to date and working installation of the
-configuration. The version to be played will be posted with the pairings
-each round.
+configuration and plugins. The version to be played will be posted with
+the pairings each round.
 
-#####4.3
+#####4.3 Tickrate
 Servers with 60 tickrate will be preferred, unless both teams agree
 to another tickrate.
 
-#####4.4
+#####4.4 DOS protection
 Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
 
-#####4.5
-If both teams have a server but cannot agree on which server to
-use, the match will be played on the server with the most even average
-ping for all the competitors.
-
-#####4.6
-If no suitable server can be found after this process has been
-exhausted, a Tournament Director must be contacted immediately.
+#####4.5 Disagreements
+If both teams have a server but cannot agree on which server to use, the
+match will be played on the server that satisfies the above criteria and
+has most even average ping for all the competitors.
 
 ##Section 5: Match scheduling and match rules
 
 #####5.1 Rounds and scheduling
 Pairings and brackets for each round will be posted weekly on Monday.
 
+Players are strongly encouraged to use the free online scheduling tool
+at [whenisgood.net](http://whenisgood.net): it is free, functional, does
+not require registration, and supports time zones.
+
 ######5.1.1 Scheduling deadline
 Matches must be scheduled before the following Wednesday at midnight.
 
-Teams are encouraged to begin negotiating the schedule early; conflicts
-must be brought to the attention of the staff before the deadline.
+Teams are encouraged to begin negotiating the schedule early; delinquent
+scheduling must be brought to the attention of the staff before the
+deadline.
 
 ######5.1.2 Reporting deadline
 Results must be submitted, with a screenshot, by the following Sunday at
@@ -182,22 +185,21 @@ but not required.
 ######5.4.1 Requests for Oversight
 Any team may request that an admin be present at their match. The staff
 will honor reasonable requests to the best of their ability, weighing
-conflicting obligations, the significance of the match to the
-tournament results, and the seriousness of concerns about improper
-behavior that may take place.
+conflicting obligations, the significance of the match to the tournament
+results, and the seriousness of concerns about improper behavior that
+may take place.
 
 ######5.4.2 Spectators
 Aside from authorized casters and admins, no spectators whatsoever will
 be allowed in the server during matches.
 
 #####5.5 Ringers
-
-Both teams must agree to allow ringers before the match, or ringers
-will not be allowed.
+Both teams must agree to allow ringers before the match, or ringers will
+not be allowed.
 
 ######5.5.1
-No registered competitor may ring for another team unless their team
-has withdrawn from the tournament, regardless of consent from the other
+No registered competitor may ring for another team unless their team has
+withdrawn from the tournament, regardless of consent from the other
 team.
 
 #####5.6 Pauses
@@ -222,16 +224,16 @@ play. All demos must be stored until the end of the tournament, and
 must be submitted to a tournament director on request.
 
 ######5.7.2 How-to record demos
-To record a demo, open the console and type “record <demoname>”.  It is
+To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
 re-record after disconnecting from the server for any reason.
 
 ######5.7.3 Screenshots are mandatory
-Each competitor must take a screenshot whenever asked by anyone in the
-server.
-
 Each team is allowed up to one (1) pause per round to request
 screenshots.
+
+Each competitor must take a screenshot whenever asked by anyone in the
+server.
 
 ######5.7.4 Privacy
 Competitors are never required to provide demos or screenshots to
@@ -249,16 +251,16 @@ possible suspension of the player from the tournament.
 #####5.9 Illegal techniques
 
 ######5.9.1 Ladder blocking
-It is illegal for an infected player to position himself around a
-ladder in a way that blocks an enemy player trying to climb up or down,
+It is illegal for any player to position themselves around a ladder in a
+way that blocks an enemy player trying to climb up or down, whether
 intentionally or unintentionally. Penalties for infractions will be
-decided on a case by case basis, but will typically consist of a
-partial reduction of match score.
+decided on a case by case basis, but will typically consist of a partial
+reduction of match score.
 
 ######5.9.2 Moustaschio
 It is illegal for either side to hit the “Moustaschio” button on c2m4.
-The penalty for infractions will be a zero score for the round, or a
-700 point penalty to overall match score, whichever is greater.
+The penalty for infractions will be a zero score for the round, or a 700
+point penalty to overall match score, whichever is greater.
 
 ######5.9.3 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
@@ -266,6 +268,14 @@ notified within in a reasonable time.
 
 Intentionally positioning a tank so that it cannot advance when AI
 controlled is not allowed.
+
+######5.9.4 Spectating
+Players may spectate if and only if they have unintentionally become
+stuck in a clip brush or other entity and cannot move.
+
+The minimum penalty for abuse of the spectate command will be a zero
+score for the round. The maximum penalty for repeated or severe
+infractions will be a forfeit loss of the match.
 
 #####5.10 Glitches
 
@@ -283,7 +293,6 @@ determine if the result of the replayed round will be used, or if some
 other action will be taken according to the circumstances.
 
 ##Section 6: Addons and configuration
-
 The following guidelines will assist the competitors in understanding
 the intentions of the tournament directors. However, the tournament
 directors may choose to sanction competitors for any addons or
@@ -296,22 +305,19 @@ penalties associated with bending or breaking these rules is to play
 with a stock configuration.
 
 #####6.1 Penalties
-
-The minimum penalty for illegal modifications or addons is a team
-forfeit loss for the match. There is no maximum penalty, which may run
-up and including team expulsion from the tournament, forfeiture of
-already played matches, and forfeiture of team eligibility for any
-prizes.
+The minimum penalty for illegal modifications or addons is a forfeit
+loss for the match. There is no maximum penalty, which may include team
+expulsion from the tournament, forfeiture of already played matches, and
+forfeiture of team eligibility for any prizes.
 
 #####6.2 Permitted modifications
-
 The following modifications are PERMITTED:
 
 ######6.2.1 Menu
-All modifications to the Left 4 Dead 2 user interface that do not
-alter, nor interact with the in-game user experience, nor provide
-additional information about the game state (e.g. ZoneMenu, menu music,
-menu fonts, menu shortcuts, etc)
+All modifications to the Left 4 Dead 2 user interface that do not alter,
+nor interact with the in-game user experience, nor provide additional
+information about the game state (e.g. ZoneMenu, menu music, menu fonts,
+menu shortcuts, etc)
 
 ######6.2.2 HUDs
 Modifying HUDs and crosshairs
@@ -333,19 +339,20 @@ tank
 ######6.2.7 Console variables ("cvars")
 In-game configuration files and scripts that do not exploit “cheat”
 cvars, as noted on the official List of cvars, and do not circumvent
-cvars blocked by the competitive configuration (e.g.  mat_hdr). The
-wait command is allowed.
+cvars blocked by the competitive configuration (e.g. `mat_hdr`).
 
-######6.2.8 Command-line arguments
+######6.2.8 Wait
+Use of the wait command in scripts is allowed without limitation.
+
+######6.2.9 Command-line arguments
 Command-line arguments that do not exploit nor allow the player to
 exploit “cheat” cvars
 
-######6.2.9 GUI options
+######6.2.10 GUI options
 Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables
 
 #####6.3 Forbidden modifications
-
 Aside from the above, no modifications to game files or materials, nor
 use of third-party software and applications that affect gameplay will
 be allowed, without the public, prior, and written authorization of the
@@ -366,8 +373,8 @@ about the game state to the player, or that simulate mouse movement
 (aiming) while the game is running
 
 #####6.4 Lerp toggling
-After the ready-up for the first half of each map, changing cl_interp
-and cl_interp_ratio values is forbidden until both halves of the round
+After the ready-up for the first half of each map, changing `cl_interp`
+and `cl_interp_ratio` values is forbidden until both halves of the round
 are complete.
 
 #####6.5 Addon toggling
@@ -383,10 +390,11 @@ during the match. Abusive or harassing conduct toward other players,
 spectators, or tournament administrators will not be tolerated.
 
 #####7.2 Sound effects
-Players may not trigger sound-effects to taunt, harass, annoy, or
-confuse other players. This includes but IS NOT LIMITED to:
+Players may not use console commands or radial menus to trigger
+sound-effects that taunt, harass, annoy, or confuse other players. This
+includes but IS NOT LIMITED to:
 
-* Repeatedly sending survivor laughter or coughing vocalizations
+* Survivor laughter or coughing vocalizations
 * User-controlled special infected vocalizations of any kind whatsoever
 * User-controlled survivor death sounds, or other vocalizations
   associated with player state or health (such as incapacitation or being
@@ -395,7 +403,6 @@ confuse other players. This includes but IS NOT LIMITED to:
   events (such as the rescue vehicle’s arrival, etc)
 
 #####7.3 Sprays
-
 Players may not use sprays that imitate or resemble environmental
 objects, such as weapons, other players, infected models, props, or any
 other recognizable game element.
