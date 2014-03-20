@@ -242,12 +242,12 @@ Each competitor must take a screenshot whenever asked by anyone in the
 server.
 
 ######5.7.4 Privacy
-Competitors are never required to provide demos or screenshots to
-anyone except the staff. They are confidential and will be shared only
-for purposes of:
+Competitors are never required to provide demos or screenshots to anyone
+except the staff. Although there is no basis for an expectation of
+privacy, they are considered confidential and will be shared only for:
 
-- Asking second opinions of skilled players trusted to keep what they
-  find in confidence
+- Asking second opinions of skilled players who are trusted to keep what
+  they find in confidence
 - To expose wrongdoing to the community if, and only if, it is discovered
 
 ######5.7.5 Responsibility is with you
