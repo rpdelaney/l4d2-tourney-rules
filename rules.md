@@ -99,6 +99,7 @@ Therefore, there will be a *ZERO TOLERANCE* policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
+- Detour Ahead
 - Dead Center
 - Death Toll
 - Hard Rain
@@ -270,7 +271,7 @@ health bonus for the survivor team at the time the button was hit.
 
 ######5.9.3 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
-notified within in a reasonable time.
+notified in a reasonable time.
 
 Intentionally positioning a tank so that it cannot advance when AI
 controlled is not allowed.
