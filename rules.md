@@ -330,10 +330,10 @@ The following modifications are PERMITTED:
 All modifications to the Left 4 Dead 2 user interface that do not alter,
 nor interact with the in-game user experience, nor provide additional
 information about the game state (e.g. ZoneMenu, menu music, menu fonts,
-menu shortcuts, etc) are allowed.
+menu shortcuts, console fonts, etc) are allowed.
 
 ######6.2.2 HUDs
-Modifying or removing HUDs and crosshairs is allowed.
+Modifying or removing HUDs, crosshairs, and pain pointers is allowed.
 
 ######6.2.3 Gun models
 Modifying or removing gun models and reload animations is allowed.
