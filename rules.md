@@ -329,7 +329,7 @@ The following modifications are PERMITTED:
 All modifications to the Left 4 Dead 2 user interface that do not alter,
 nor interact with the in-game user experience, nor provide additional
 information about the game state (e.g. ZoneMenu, menu music, menu fonts,
-menu shortcuts, etc)
+menu shortcuts, etc) are allowed.
 
 ######6.2.2 HUDs
 Modifying or removing HUDs and crosshairs is allowed.
@@ -346,8 +346,8 @@ Modifying or removing the blue tint while spawning special infected in
 “ghost mode” is allowed.
 
 ######6.2.6 Red tint
-Modifying or removing the red tint while spawned as special infected or
-tank
+Modifying or removing the red tint that appears while spawned as special
+infected or tank is allowed.
 
 ######6.2.7 Console variables ("cvars")
 In-game configuration files and scripts that do not exploit “cheat”
@@ -363,7 +363,7 @@ exploit “cheat” cvars are allowed.
 
 ######6.2.10 GUI options
 Any configuration setting that can be altered using the standard
-in-game menu options or legal console variables
+in-game menu options or legal console variables is allowed.
 
 #####6.3 Forbidden modifications
 Aside from the above, no modifications to game files or materials, nor
