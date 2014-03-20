@@ -20,23 +20,23 @@ All other trademarks are property of their respective owners.
 
 #####1.1 Staff
 
-The administration will be:
-- an entire sleeve of fig newtons
-#- (http://steamcommunity.com/id/fignewtons)
-#- ryan dot delaney gmail com
-#- GPG key-id: 4096R/B63436F1C9E7771B
+The Tournament Director will be:
+- [an entire sleeve of fig newtons](http://steamcommunity.com/id/fignewtons)
+- ryan dot delaney gmail com (GPG key-id: `4096R/B63436F1C9E7771B`)
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
 all disputes. His decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
-The tournament directors reserve the right to impose any sanction on any team
-or individual player at their sole discretion.
+The tournament directors reserve the right to impose any sanction on any
+team or individual player at their sole discretion as circumstances may
+warrant.
 
 #####1.4 Conflicts of interest
-Staff may participate in the tournament. Where there may be an appearance of
-a conflict of interest, a tournament director will yield to a counterpart.
+Staff may participate in the tournament. Where there may be an
+appearance of a conflict of interest, a tournament director will yield
+to a counterpart if possible.
 
 #####1.4 Official communication
 Official communication will take place via the forum on L4Dnation.com.
@@ -44,14 +44,20 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament format, standings, and tiebreaks
 
 #####2.1 Format
-This will be a Swiss System tournament of [TBD] rounds. A match win
-will score 1 point; a tie scores a half point; a loss or forfeit scores
-0 points.
+This will be a Swiss System tournament of [TBD] rounds. A match win will
+score 1 point; a tie scores a half point; a loss or forfeit scores 0
+points.
 
 ######2.1.1 Pairings
-For the first round, matches will be paired according to the judgment
-of the tournament director. For subsequent rounds, teams will be paired
-at random against other teams with the same score of Won : Lost games.
+After the registration deadline, the registered participants will be
+seeded according to the judgment of the tournament director. The first
+round will then be paired by a "top half vs bottom half" method: for
+example, if there are 10 participants then the #1 seed will be paired
+against the #6 seed, the #2 seed against the #7 seed, and so on.
+
+In subsequent rounds, partcipants will be paired at random against
+others with the same record of Won : Lost games.
+
 There will be no eliminations due to poor results or lost games.
 
 ######2.1.2 Double jeopardy
@@ -61,7 +67,7 @@ once during the tournament.
 ######2.1.3 Awarding a bye
 In the event that a round must be paired with an uneven number of
 participants, a bye will be awarded to the lowest ranked participant in
-the lowest score group.
+the lowest score group. A bye scores a full point.
 
 ######2.1.4 Tiebreakers
 Ties will be broken by the following criteria, descending ( see [Neustadtl Score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score) ):
@@ -69,7 +75,9 @@ Ties will be broken by the following criteria, descending ( see [Neustadtl Score
 1. The result of the head-to-head matchup of the tied participants, if
 applicable.
 2. The sum of conventional scores of the teams each participant has
-defeated.
+defeated (higher is better).
+3. The sum of conventional scores of the teams each participant has been
+defeated by (higher is better).
 
 ######2.1.5 More information
 For information on the Swiss System, you can review the following
@@ -116,7 +124,7 @@ competitor who drops from a roster may not re-join with another team
 after the registration deadline.
 
 ##Section 4: Servers
-The match servers will be approved according to the following criteria:
+Game servers will be selected according to the following criteria:
 
 #####4.1 Hosting
 The server must be dedicated and hosted by a reputable hosting company
@@ -189,7 +197,7 @@ results, and the seriousness of concerns about improper behavior that
 may take place.
 
 ######5.4.2 Spectators
-Aside from authorized casters and admins, no spectators whatsoever will
+Aside from staff and authorized casters, no spectators whatsoever will
 be allowed in the server during matches.
 
 #####5.5 Ringers
@@ -198,8 +206,7 @@ not be allowed.
 
 ######5.5.1
 No registered competitor may ring for another team unless their team has
-withdrawn from the tournament, regardless of consent from the other
-team.
+withdrawn from the tournament or they have been removed from the roster.
 
 #####5.6 Pauses
 
@@ -207,7 +214,6 @@ team.
 Intentionally affecting the result of the round through excessive
 pausing may be brought to the attention of the TD.
 
-######5.6.2 Penalty
 The penalty for abuse of the pause function will typically be whichever
 is greater between:
 
@@ -220,7 +226,7 @@ is greater between:
 ######5.7.1 Demos are mandatory
 Each participant is required to record and save demos of their match
 play. All demos must be stored until the end of the tournament, and
-must be submitted to a tournament director on request.
+must be submitted promptly to a tournament director on request.
 
 ######5.7.2 How-to record demos
 To record a demo, open the console and type `record <demoname>`.  It is
@@ -258,8 +264,9 @@ reduction of match score.
 
 ######5.9.2 Moustaschio
 It is illegal for either side to hit the “Moustaschio” button on c2m4.
-The penalty for infractions will be a zero score for the round, or a 700
-point penalty to overall match score, whichever is greater.
+The penalty for infractions will be whichever is greater between a zero
+score for the round, or a penalty equivalent to the full distance with
+health bonus for the survivor team at the time the button was hit.
 
 ######5.9.3 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
@@ -319,17 +326,18 @@ information about the game state (e.g. ZoneMenu, menu music, menu fonts,
 menu shortcuts, etc)
 
 ######6.2.2 HUDs
-Modifying HUDs and crosshairs
+Modifying or removing HUDs and crosshairs is allowed.
 
 ######6.2.3 Gun models
-Modifying or removing gun models and reload animations
+Modifying or removing gun models and reload animations is allowed.
 
 ######6.2.4 Tank music
-Modifying “tank music” including altering the volume
+Modifying or removing “tank music” including altering the volume is
+allowed.
 
 ######6.2.5 Blue tint
 Modifying or removing the blue tint while spawning special infected in
-“ghost mode”
+“ghost mode” is allowed.
 
 ######6.2.6 Red tint
 Modifying or removing the red tint while spawned as special infected or
@@ -344,8 +352,8 @@ cvars blocked by the competitive configuration (e.g. `mat_hdr`).
 Use of the wait command in scripts is allowed without limitation.
 
 ######6.2.9 Command-line arguments
-Command-line arguments that do not exploit nor allow the player to
-exploit “cheat” cvars
+All command-line arguments that do not exploit nor allow the player to
+exploit “cheat” cvars are allowed.
 
 ######6.2.10 GUI options
 Any configuration setting that can be altered using the standard
@@ -360,16 +368,17 @@ tournament director(s). This includes but IS NOT LIMITED to:
 ######6.3.1 Visual elements
 Any changes whatsoever to the stock survivor or infected models, map
 textures, skyboxes, props, or other materials and files used for
-rendering the in-game environment
+rendering the in-game environment are forbidden.
 
 ######6.3.2 Audio elements
-Any changes whatsoever to game sounds (excluding Section 6.2.4)
+Any changes whatsoever to game sounds (excluding Section 6.2.4) are
+forbidden.
 
 ######6.3.3 Third-party hooks
 Any third-party applications, programs, or macros that read or modify
 memory in a method for affecting gameplay, or that provide information
 about the game state to the player, or that simulate mouse movement
-(aiming) while the game is running
+(aiming) while the game is running are forbidden.
 
 #####6.4 Lerp toggling
 After the ready-up for the first half of each map, changing `cl_interp`
