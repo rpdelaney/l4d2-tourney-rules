@@ -205,7 +205,7 @@ be allowed in the server during matches.
 Both teams must agree to allow ringers before the match, or ringers will
 not be allowed.
 
-######5.5.1
+######5.5.1 Double agents
 No registered competitor may ring for another team unless their team has
 withdrawn from the tournament or they have been removed from the roster.
 
@@ -243,7 +243,12 @@ server.
 
 ######5.7.4 Privacy
 Competitors are never required to provide demos or screenshots to
-anyone except the staff. They are confidential and will not be shared.
+anyone except the staff. They are confidential and will be shared only
+for purposes of:
+
+- Asking second opinions of skilled players trusted to keep what they
+  find in confidence
+- To expose wrongdoing to the community if, and only if, it is discovered
 
 ######5.7.5 Responsibility is with you
 It is each competitor’s individual responsibility to ensure that demos
