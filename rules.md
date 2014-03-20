@@ -3,7 +3,8 @@
 This file provides a standardized ruleset for Left 4 Dead 2
 tournaments.
 
-[Homepage](https://github.com/rpdelaney/l4d2-tourney-rules)
+- [Homepage](https://github.com/rpdelaney/l4d2-tourney-rules)
+
 ####Legal
 Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
 distribute and/or modify this document under the terms of the GNU Free
@@ -268,8 +269,8 @@ intentionally or unintentionally. Penalties for infractions will be
 decided on a case by case basis, but will typically consist of a partial
 reduction of match score.
 
-######5.9.2 Moustaschio
-It is illegal for either side to hit the “Moustaschio” button on c2m4.
+######5.9.2 Moustachio
+It is illegal for either side to hit the “Moustachio” button on c2m4.
 The penalty for infractions will be whichever is greater between a zero
 score for the round, or a penalty equivalent to the full distance with
 health bonus for the survivor team at the time the button was hit.
@@ -410,9 +411,8 @@ includes but IS NOT LIMITED to:
 
 * Survivor laughter or coughing vocalizations
 * User-controlled special infected vocalizations of any kind whatsoever
-* User-controlled survivor death sounds, or other vocalizations
-  associated with player state or health (such as incapacitation or being
-  “black and white”)
+* Survivor death sounds, or other vocalizations associated with player
+  state or health (such as incapacitation or being “black and white”)
 * Triggered vocalizations or sound effects associated with director
   events (such as the rescue vehicle’s arrival, etc)
 
