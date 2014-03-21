@@ -342,6 +342,10 @@ Modifying or removing gun models and reload animations is allowed.
 Modifying or removing “tank music” including altering the volume is
 allowed.
 
+######6.2.5 Round end music
+Modifying or removing music played at the end of the round after a wipe,
+saferoom door closed, or player death is allowed.
+
 ######6.2.5 Blue tint
 Modifying or removing the blue tint while spawning special infected in
 “ghost mode” is allowed.
@@ -379,7 +383,7 @@ textures, skyboxes, props, or other materials and files used for
 rendering the in-game environment are forbidden.
 
 ######6.3.2 Audio elements
-Any changes whatsoever to game sounds (excluding Section 6.2.4) are
+Any changes whatsoever to game sounds (excluding Sections 6.2.4-5) are
 forbidden.
 
 ######6.3.3 Third-party hooks
@@ -419,7 +423,7 @@ includes but IS NOT LIMITED to:
 
 #####7.3 Sprays
 Players may not use sprays that imitate or resemble environmental
-objects, such as weapons, other players, infected models, props, or any
+objects, such as: weapons, other players, infected models, props, or any
 other recognizable game element.
 
 Players may not use sprays that are grotesque, violent, obscene, or
