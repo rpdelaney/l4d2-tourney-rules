@@ -260,29 +260,29 @@ Failure to submit demos or screenshots on the request of the staff will
 result at minimum in a zero score for the associated rounds, and
 possible suspension of the player from the tournament.
 
-#####5.9 Illegal techniques
+#####5.8 Illegal techniques
 
-######5.9.1 Ladder blocking
+######5.8.1 Ladder blocking
 It is illegal for any player to position themselves around a ladder in a
 way that blocks an enemy player trying to climb up or down, whether
 intentionally or unintentionally. Penalties for infractions will be
 decided on a case by case basis, but will typically consist of a partial
 reduction of match score.
 
-######5.9.2 Moustachio
+######5.8.2 Moustachio
 It is illegal for either side to hit the “Moustachio” button on c2m4.
 The penalty for infractions will be whichever is greater between a zero
 score for the round, or a penalty equivalent to the full distance with
 health bonus for the survivor team at the time the button was hit.
 
-######5.9.3 Tank parking
+######5.8.3 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time.
 
 Intentionally positioning a tank so that it cannot advance when AI
 controlled is not allowed.
 
-######5.9.4 Spectating
+######5.8.4 Spectating
 Players may spectate if and only if they have unintentionally become
 stuck in a clip brush or other entity and cannot move.
 
@@ -290,15 +290,15 @@ The minimum penalty for abuse of the spectate command will be a zero
 score for the round. The maximum penalty for repeated or severe
 infractions will be a forfeit loss of the match.
 
-#####5.10 Glitches
+#####5.9 Glitches
 
-######5.10.1 Rescue vehicles
+######5.9.1 Rescue vehicles
 In the event of a finale rescue vehicle glitch (most common on Swamp
 Fever, but also possible on Dark Carnival and Hard Rain) the half will
 be replayed following a restart round. If necessary the final scores
 will be calculated manually.
 
-######5.10.2 Unclearable survivors
+######5.9.2 Unclearable survivors
 If a pinned survivor is unclearable after an infected player gains
 control of the tank, either team can request that the round be
 replayed. If requested, the tournament directors may review demos and
