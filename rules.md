@@ -137,14 +137,18 @@ The server will have an up to date and working installation of the
 configuration and plugins. The version to be played will be posted with
 the pairings each round.
 
-#####4.3 Tickrate
-Servers with 60 tickrate will be preferred, unless both teams agree
-to another tickrate.
+#####4.3 Web-cast support
+Servers will have enough slots for up to two casters, two cameramen, and
+an admin. Support for the spechud addon is highly desirable.
 
-#####4.4 DOS protection
+#####4.4 Tickrate
+Servers with 60 tickrate will be preferred, unless both teams agree to
+another tickrate.
+
+#####4.5 DOS protection
 Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
 
-#####4.5 Disagreements
+#####4.6 Disagreements
 If both teams have a server but cannot agree on which server to use, the
 match will be played on the server that satisfies the above criteria and
 has most even average ping for all the competitors.
@@ -185,8 +189,7 @@ team, and the admins or casters.
 
 #####5.3 Casting
 The players agree that the matches may be casted according to the usual
-process. Servers should have room for up to two casters, two cameramen,
-and an admin. Access to mumble servers for ‘war rooms’ is appreciated
+process. Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
 #####5.4 Spectators and admins
