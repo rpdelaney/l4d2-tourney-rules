@@ -100,7 +100,7 @@ Therefore, there will be a *ZERO TOLERANCE* policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
-- Detour Ahead
+- Dead Air
 - Dead Center
 - Death Toll
 - Hard Rain
