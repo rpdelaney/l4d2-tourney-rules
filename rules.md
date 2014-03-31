@@ -92,7 +92,7 @@ If you have any further questions about the Swiss System, contact a
 Tournament Director or the author.
 
 #####2.2 Deadlines
-Because the pairings based on prior round scoring, the next round
+Because the pairings are based on prior round scoring, the next round
 cannot be paired until all the results of the previous round have been
 reported.
 
@@ -129,8 +129,10 @@ after the registration deadline.
 Game servers will be selected according to the following criteria:
 
 #####4.1 Hosting
-The server must be dedicated and hosted by a reputable hosting company
-inside the continental United States.
+The server must be dedicated and hosted by a reputable hosting company.
+
+If either team is in the 'North America' region, then the server will be
+located inside the continental United States.
 
 #####4.2 Configuration
 The server will have an up to date and working installation of the
