@@ -23,7 +23,9 @@ All other trademarks are property of their respective owners.
 
 The Tournament Director will be:
 - [an entire sleeve of fig newtons](http://steamcommunity.com/id/fignewtons)
-- ryan dot delaney gmail com (GPG key-id: `4096R/B63436F1C9E7771B`)
+
+The Assistant Tournament Director(s) will be:
+- [Rails Barlow](http://steamcommunity.com/profiles/76561198046098995)
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
