@@ -163,8 +163,8 @@ has most even average ping for all the competitors.
 Pairings and brackets for each round will be posted weekly on Monday.
 
 Players are strongly encouraged to use the free online scheduling tool
-at [whenisgood.net](http://whenisgood.net): it is free, functional, does
-not require registration, and supports time zones.
+at [doodle.com](http://doodle.com): it is free, functional, does not
+require registration, and supports time zones.
 
 ######5.1.1 Scheduling deadline
 Matches must be scheduled before the following Wednesday at midnight.
