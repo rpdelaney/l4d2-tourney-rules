@@ -269,25 +269,30 @@ possible suspension of the player from the tournament.
 
 #####5.8 Illegal techniques
 
-######5.8.1 Ladder blocking
-It is illegal for any player to position themselves around a ladder in a
-way that blocks an enemy player trying to climb up or down, whether
-intentionally or unintentionally. Penalties for infractions will be
-decided on a case by case basis, but will typically consist of a partial
-reduction of match score.
+######5.8.1 AI pathing exploits
+It is illegal to intentionally exploit AI pathing by moving to an area
+that causes NPC infected to stop attacking. This includes re-entering the
+safe-room and standing behind a dynamic prop that the witch cannot
+navigate around. However, is permitted to exploit witch pathing in a way
+that causes her to climb over objects repeatedly.
+
+The minimum penalty for intentionally exploiting AI pathing will be a
+zero score for the round.
 
 ######5.8.2 Moustachio
 It is illegal for either side to hit the “Moustachio” button on c2m4.
-The penalty for infractions will be whichever is greater between a zero
-score for the round, or a penalty equivalent to the full distance with
-health bonus for the survivor team at the time the button was hit.
+
+The minimum penalty for activating Moustaschio will be equivalent to the
+full distance with health bonus for the survivor team at the time of the
+infraction.
 
 ######5.8.3 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
-notified in a reasonable time.
+notified in a reasonable time. Intentionally positioning a tank so that
+it cannot advance when AI controlled is not allowed.
 
-Intentionally positioning a tank so that it cannot advance when AI
-controlled is not allowed.
+The minimum penalty for tank parking will be equivalent to full map
+distance and health bonus at the time of the infraction.
 
 ######5.8.4 Spectating
 Players may spectate if and only if they have unintentionally become
