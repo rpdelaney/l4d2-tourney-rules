@@ -73,14 +73,13 @@ participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group. A bye scores a full point.
 
 ######2.1.4 Tiebreakers
-Ties will be broken by the following criteria, descending ( see [Neustadtl Score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score) ):
+Ties will be broken by the following criteria, descending (see [Buchholz-Median 
+tiebreak](http://www.swissperfect.com/tiebreak.htm#buchholz), also known as "Modified Median"):
 
-1. The result of the head-to-head matchup of the tied participants, if
+1. The sum of conventional scores of the teams each participant has
+defeated, excluding the lowest and highest (higher is better).
+2. The result of the head-to-head matchup of the tied participants, if
 applicable.
-2. The sum of conventional scores of the teams each participant has
-defeated (higher is better).
-3. The sum of conventional scores of the teams each participant has been
-defeated by (higher is better).
 
 ######2.1.5 More information
 For information on the Swiss System, you can review the following
