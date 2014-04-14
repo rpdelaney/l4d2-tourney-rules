@@ -47,7 +47,7 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament format, standings, and tiebreaks
 
 #####2.1 Format
-This will be a Swiss System tournament of [TBD] rounds. A match win will
+This will be a Swiss System tournament of 5 rounds. A match win will
 score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
