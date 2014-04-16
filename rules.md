@@ -299,6 +299,10 @@ The minimum penalty for abuse of the spectate command will be a zero
 score for the round. The maximum penalty for repeated or severe
 infractions will be a forfeit loss of the match.
 
+######5.8.5 Death toll bridge
+As survivor, it is illegal to cross the bridge on c10m1_caves without
+climbing a ladder.
+
 #####5.9 Glitches
 
 ######5.9.1 Rescue vehicles
