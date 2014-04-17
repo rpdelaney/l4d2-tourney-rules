@@ -288,7 +288,7 @@ If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time. Intentionally positioning a tank so that
 it cannot advance when AI controlled is not allowed.
 
-The minimum penalty for tank parking will be equivalent to full m[TBD]ap
+The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
 ######5.8.4 Spectating
