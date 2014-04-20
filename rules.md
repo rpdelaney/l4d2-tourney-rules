@@ -73,7 +73,7 @@ participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group. A bye scores a full point.
 
 ######2.1.4 Tiebreakers
-Ties will be broken by the following criteria, descending (see [Buchholz-Median 
+Ties will be broken by the following criteria, descending (see [Buchholz-Median
 tiebreak](http://www.swissperfect.com/tiebreak.htm#buchholz), also known as "Modified Median"):
 
 1. The sum of conventional scores of the teams each participant has
@@ -203,8 +203,8 @@ results, and the seriousness of concerns about improper behavior that
 may take place.
 
 ######5.4.2 Spectators
-Aside from staff and authorized casters, no spectators whatsoever will
-be allowed in the server during matches.
+Aside from tournament staff and authorized casters, no spectators
+whatsoever will be allowed in the server during matches.
 
 #####5.5 Ringers
 Both teams must agree to allow ringers before the match, or ringers will
@@ -292,8 +292,11 @@ The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
 ######5.8.4 Spectating
-Players may spectate if and only if they have unintentionally become
-stuck in a clip brush or other entity and cannot move.
+A player may spectate during the match if, and only if:
+
+* They have unintentionally become stuck in a clip brush or other map
+  entity and cannot move, and
+* The !stuck command is not working or unavailable.
 
 The minimum penalty for abuse of the spectate command will be a zero
 score for the round. The maximum penalty for repeated or severe
