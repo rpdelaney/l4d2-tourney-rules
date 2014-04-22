@@ -269,7 +269,7 @@ possible suspension of the player from the tournament.
 ######5.8.1 AI pathing exploits
 It is illegal to intentionally exploit AI pathing by moving to an area
 that causes NPC infected to stop attacking. This includes re-entering the
-safe-room and standing behind a dynamic prop that the witch cannot
+safe-room, or standing behind a dynamic prop that the witch cannot
 navigate around. However, is permitted to exploit witch pathing in a way
 that causes her to climb over objects repeatedly.
 
