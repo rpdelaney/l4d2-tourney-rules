@@ -264,7 +264,7 @@ Failure to submit demos or screenshots on the request of the staff will
 result at minimum in a zero score for the associated rounds, and
 possible suspension of the player from the tournament.
 
-#####5.8 Illegal techniques
+#####5.8 Exploits
 
 ######5.8.1 AI pathing exploits
 It is illegal to intentionally exploit AI pathing by moving to an area
