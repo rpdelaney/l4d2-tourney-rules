@@ -116,8 +116,8 @@ All finales will be played except for The Parish finale.
 Teams may register by filling out the [web form](https://docs.google.com/forms/d/18L6KR5lgGzh2wGbD1M6YTDMxRqU1c9CXWK-A_gAYatU/viewform).
 
 #####3.2 Registration deadline
-The deadline for registrations is midnight on [DATE]. Late registrations
-will not be accepted.
+The deadline for registrations is midnight on April 12, 2014. Late
+registrations will not be accepted.
 
 #####3.3 Double registration
 Competitors may be registered for only one team in the tournament. A
