@@ -120,9 +120,9 @@ The deadline for registrations is midnight on April 12, 2014. Late
 registrations will not be accepted.
 
 #####3.3 Double registration
-Competitors may be registered for only one team in the tournament. A
-competitor who drops from a roster may not re-join with another team
-after the registration deadline.
+Playes may be registered for only one team in the tournament. A player
+who drops from a roster may not re-join with another team after the
+registration deadline.
 
 ##Section 4: Servers
 Game servers will be selected according to the following criteria:
