@@ -101,11 +101,11 @@ Therefore, there will be a *ZERO TOLERANCE* policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
-- Death Toll
-- Hard Rain
-- Swamp Fever
-- Dark Carnival
-- The Parish
+- Round 1: Death Toll
+- Round 2: Hard Rain
+- Round 3: Swamp Fever
+- Round 4: Dark Carnival
+- Round 5: The Parish
 
 ######2.3.2 Finales
 All finales will be played except for The Parish finale.
