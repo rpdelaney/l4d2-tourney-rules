@@ -1,8 +1,4 @@
 ﻿##Section 0: Readme
-####l4d2-tourney-rules
-This file provides a standardized ruleset for Left 4 Dead 2
-tournaments.
-
 - [Homepage](https://github.com/rpdelaney/l4d2-tourney-rules)
 
 ####Legal
@@ -44,18 +40,18 @@ to a counterpart if possible.
 #####1.4 Official communication
 Official communication will take place via the forum on L4Dnation.com.
 
-##Section 2: Tournament format, standings, and tiebreaks
+##Section 2: Tournament Format
 
 #####2.1 Format
-This will be a Swiss System tournament of 5 rounds. A match win will
+This will be a Swiss system tournament of 5 rounds. A match win will
 score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
 ######2.1.1 Pairings
 After the registration deadline, the registered participants will be
 seeded according to the judgment of the tournament director. The first
-round will then be paired by a "top half vs bottom half" method: for
-example, if there are 10 participants then the #1 seed will be paired
+round will then be paired by a "top half vs bottom half" method. For
+example, if there are 10 participants, then the #1 seed will be paired
 against the #6 seed, the #2 seed against the #7 seed, and so on.
 
 In subsequent rounds, partcipants will be paired at random against
@@ -63,11 +59,11 @@ others with the same record of Won : Lost games.
 
 There will be no eliminations due to poor results or lost games.
 
-######2.1.2 Double jeopardy
+######2.1.2 Double Jeopardy
 Under no circumstances will two competitors face each other more than
 once during the tournament.
 
-######2.1.3 Awarding a bye
+######2.1.3 Byes
 In the event that a round must be paired with an uneven number of
 participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group. A bye scores a full point.
@@ -81,7 +77,7 @@ defeated, excluding the lowest and highest (higher is better).
 2. The result of the head-to-head matchup of the tied participants, if
 applicable.
 
-######2.1.5 More information
+######2.1.5 References
 For information on the Swiss System, you can review the following
 links:
 
@@ -97,7 +93,7 @@ Because the pairings are based on prior round scoring, the next round
 cannot be paired until all the results of the previous round have been
 reported.
 
-Therefore, there will be a *ZERO TOLERANCE* policy for matches that
+Therefore, there will be a ZERO TOLERANCE policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
@@ -110,17 +106,17 @@ remain unreported past the round deadline.
 ######2.3.2 Finales
 All finales will be played except for The Parish finale.
 
-##Section 3: Team registration
+##Section 3: Registration process
 
 #####3.1 Registration
 Teams may register by filling out the [web form](https://docs.google.com/forms/d/18L6KR5lgGzh2wGbD1M6YTDMxRqU1c9CXWK-A_gAYatU/viewform).
 
-#####3.2 Registration deadline
+#####3.2 Deadline
 The deadline for registrations is midnight on April 12, 2014. Late
 registrations will not be accepted.
 
 #####3.3 Double registration
-Playes may be registered for only one team in the tournament. A player
+Players may be registered for only one team in the tournament. A player
 who drops from a roster may not re-join with another team after the
 registration deadline.
 
@@ -154,7 +150,7 @@ If both teams have a server but cannot agree on which server to use, the
 match will be played on the server that satisfies the above criteria and
 has most even average ping for all the competitors.
 
-##Section 5: Match scheduling and match rules
+##Section 5: Match schedule
 
 #####5.1 Rounds and scheduling
 Pairings and brackets for each round will be posted weekly on Monday.
@@ -193,7 +189,7 @@ The players agree that the matches may be casted according to the usual
 process. Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
-#####5.4 Spectators and admins
+#####5.4 Spectators
 
 ######5.4.1 Requests for Oversight
 Any team may request that an admin be present at their match. The staff
@@ -227,26 +223,25 @@ is greater between:
 - an adjustment of the score of the offended team equivalent to full
   map distance (with health bonus at the time of the offense).
 
-#####5.7 Screenshots and demos
+#####5.7 Demos and screenshots
 
 ######5.7.1 Demos are mandatory
 Each participant is required to record and save demos of their match
 play. All demos must be stored until the end of the tournament, and
 must be submitted promptly to a tournament director on request.
 
-######5.7.2 How-to record demos
 To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
 re-record after disconnecting from the server for any reason.
 
-######5.7.3 Screenshots are mandatory
+######5.7.2 Screenshots are mandatory
 Each team is allowed up to one (1) pause per round to request
 screenshots.
 
 Each competitor must take a screenshot whenever asked by anyone in the
 server.
 
-######5.7.4 Privacy
+######5.7.3 Privacy
 Competitors are never required to provide demos or screenshots to anyone
 except the staff. Although there is no basis for an expectation of
 privacy, they are considered confidential and will be shared only for:
@@ -291,7 +286,7 @@ it cannot advance when AI controlled is not allowed.
 The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
-######5.8.4 Spectating
+######5.8.4 Spectate command
 Excepting Section 5.8.5, a player may spectate during the match if, and
 only if:
 
@@ -330,12 +325,12 @@ other action will be taken according to the circumstances.
 ##Section 6: Addons and configuration
 The following guidelines will assist the competitors in understanding
 the intentions of the tournament directors. However, the tournament
-directors may choose to sanction competitors for any addons or
-modifications at their sole and arbitrary discretion (per Section 1.3).
+directors may choose to impose sanctions for any addons or modifications
+at their sole and arbitrary discretion (per Section 1.3).
 
-All competitors are urged strongly to discuss any modifications with
-the tournament directors to ensure they are fully in compliance with
-the rules before making any changes. The best way to avoid the severe
+All players are strongly urged to discuss modifications with the
+tournament directors to ensure they are fully in compliance with the
+rules before making any changes. The best way to avoid the severe
 penalties associated with bending or breaking these rules is to play
 with a stock configuration.
 
@@ -358,7 +353,7 @@ menu shortcuts, console fonts, etc) are allowed.
 Modifying or removing HUDs, crosshairs, and pain pointers is allowed.
 
 ######6.2.3 Gun models
-Modifying or removing gun models and reload animations is allowed.
+Modifying or removing gun models and animations is allowed.
 
 ######6.2.4 Tank music
 Modifying or removing “tank music” including altering the volume is
@@ -432,8 +427,8 @@ during the match. Abusive or harassing conduct toward other players,
 spectators, or tournament administrators will not be tolerated.
 
 #####7.2 Sound effects
-Players may not use console commands or radial menus to trigger
-sound-effects that taunt, harass, annoy, or confuse other players. This
+Players may not use console commands or radial menus to trigger sound
+effects that taunt, harass, annoy, or confuse other players. This
 includes but IS NOT LIMITED to:
 
 * Survivor laughter or coughing vocalizations
