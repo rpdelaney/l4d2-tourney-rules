@@ -29,7 +29,7 @@ all disputes. His decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
 The tournament directors reserve the right to impose any sanction on any
-team or individual player at their sole discretion as circumstances may
+competitor or individual player at their sole discretion as circumstances may
 warrant.
 
 #####1.4 Conflicts of interest
@@ -116,7 +116,7 @@ The deadline for registrations is midnight on April 12, 2014. Late
 registrations will not be accepted.
 
 #####3.3 Double registration
-Players may be registered for only one team in the tournament. A player
+A player may be registered for only one team in the tournament. A player
 who drops from a roster may not re-join with another team after the
 registration deadline.
 
@@ -148,7 +148,7 @@ Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferr
 #####4.6 Disagreements
 If both teams have a server but cannot agree on which server to use, the
 match will be played on the server that satisfies the above criteria and
-has most even average ping for all the competitors.
+has most even average ping for all the players.
 
 ##Section 5: Match schedule
 
@@ -176,7 +176,7 @@ extensions be granted.
 Any player on the roster may perform scheduling duties.
 
 #####5.2 Tardiness
-Each team has 15 minutes after the scheduled time to have 4 players in
+Each competitor has 15 minutes after the scheduled time to have 4 players in
 the server and readied up. The standard penalty for failure will be a
 forfeit loss of the match.
 
@@ -185,7 +185,7 @@ between rounds. Extra breaks require the consent of both the other
 team, and the admins or casters.
 
 #####5.3 Casting
-The players agree that the matches may be casted according to the usual
+The competitors agree that the matches may be casted according to the usual
 process. Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
@@ -207,7 +207,7 @@ Both teams must agree to allow ringers before the match, or ringers will
 not be allowed.
 
 ######5.5.1 Double agents
-No registered competitor may ring for another team unless their team has
+No registered player may ring for another team unless their team has
 withdrawn from the tournament or they have been removed from the roster.
 
 #####5.6 Pauses
@@ -238,11 +238,11 @@ re-record after disconnecting from the server for any reason.
 Each team is allowed up to one (1) pause per round to request
 screenshots.
 
-Each competitor must take a screenshot whenever asked by anyone in the
+Each player must take a screenshot whenever asked by anyone in the
 server.
 
 ######5.7.3 Privacy
-Competitors are never required to provide demos or screenshots to anyone
+Players are never required to provide demos or screenshots to anyone
 except the staff. Although there is no basis for an expectation of
 privacy, they are considered confidential and will be shared only for:
 
@@ -251,7 +251,7 @@ privacy, they are considered confidential and will be shared only for:
 - To expose wrongdoing to the community if, and only if, it is discovered
 
 ######5.7.5 Responsibility is with you
-It is each competitor’s individual responsibility to ensure that demos
+It is each player’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
 manner.
 
@@ -287,8 +287,8 @@ The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
 ######5.8.4 Spectate command
-Excepting Section 5.8.5, a player may spectate during the match if, and
-only if:
+Excepting Section 5.8.5, a player use the `!spectate` command during the match
+if, and only if:
 
 * They have unintentionally become stuck in a clip brush or other map
   entity and cannot move, and
@@ -448,5 +448,5 @@ depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
 <!--
-vim: filetype=markdown wrapmargin=79
+vim: filetype=markdown wrapmargin=79 spell spelllang=en_us
 -->
