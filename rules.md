@@ -166,14 +166,20 @@ Teams are encouraged to begin negotiating the schedule early; delinquent
 scheduling must be brought to the attention of the staff before the
 deadline.
 
-######5.1.2 Reporting deadline
+######5.1.2 Scheduling duties
+Any player on the roster may perform scheduling duties.
+
+######5.1.3 Reporting results
 Results must be submitted, with a screenshot, by the following Sunday at
 midnight. Failure to report weekly round results before the deadline
 will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
-######5.1.3 Scheduling duties
-Any player on the roster may perform scheduling duties.
+To report match results, make a post in the forum thread for the
+corresponding round, including a hyper-link to the screenshot of the
+final scores. It is not sufficient to post the screenshot to the steam
+community. Results will not be accepted via email or Steam instant
+messenger.
 
 #####5.2 Tardiness
 Each competitor has 15 minutes after the scheduled time to have 4 players in
