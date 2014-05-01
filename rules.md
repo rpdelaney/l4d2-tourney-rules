@@ -54,7 +54,7 @@ round will then be paired by a "top half vs bottom half" method. For
 example, if there are 10 participants, then the #1 seed will be paired
 against the #6 seed, the #2 seed against the #7 seed, and so on.
 
-In subsequent rounds, partcipants will be paired at random against
+In subsequent rounds, participants will be paired at random against
 others with the same record of Won : Lost games.
 
 There will be no eliminations due to poor results or lost games.
@@ -136,7 +136,7 @@ the pairings each round.
 
 #####4.3 Web-cast support
 Servers will have enough slots for up to two casters, two cameramen, and
-an admin. Support for the spechud addon is highly desirable.
+an administrator. Support for the spechud addon is highly desirable.
 
 #####4.4 Tickrate
 Servers with 60 tickrate will be preferred, unless both teams agree to
@@ -155,7 +155,7 @@ has most even average ping for all the players.
 #####5.1 Rounds and scheduling
 Pairings and brackets for each round will be posted weekly on Monday.
 
-Players are strongly encouraged to use the free online scheduling tool
+Players are strongly encouraged to use the free on-line scheduling tool
 at [doodle.com](http://doodle.com): it is free, functional, does not
 require registration, and supports time zones.
 
@@ -182,7 +182,7 @@ forfeit loss of the match.
 
 Each team is permitted one (1) 10-minute break per match, and only
 between rounds. Extra breaks require the consent of both the other
-team, and the admins or casters.
+team, and the administrators or commentators.
 
 #####5.3 Casting
 The competitors agree that the matches may be casted according to the usual
@@ -192,11 +192,11 @@ but not required.
 #####5.4 Spectators
 
 ######5.4.1 Requests for Oversight
-Any team may request that an admin be present at their match. The staff
-will honor reasonable requests to the best of their ability, weighing
+Any team may request that an administrator be present at their match. The
+staff will honor reasonable requests to the best of their ability, weighing
 conflicting obligations, the significance of the match to the tournament
-results, and the seriousness of concerns about improper behavior that
-may take place.
+results, and the seriousness of concerns about improper behavior that may take
+place.
 
 ######5.4.2 Spectators
 Aside from tournament staff and authorized casters, no spectators
@@ -272,7 +272,8 @@ The minimum penalty for intentionally exploiting AI pathing will be a
 zero score for the round.
 
 ######5.8.2 Moustachio
-It is illegal for either side to hit the “Moustachio” button on c2m4.
+It is illegal for either side to hit the “Moustachio” button on
+`c2m4_barns`.
 
 The minimum penalty for activating Moustaschio will be equivalent to the
 full distance with health bonus for the survivor team at the time of the
@@ -315,8 +316,8 @@ Fever, but also possible on Dark Carnival and Hard Rain) the half will
 be replayed following a restart round. If necessary the final scores
 will be calculated manually.
 
-######5.9.2 Unclearable survivors
-If a pinned survivor is unclearable after an infected player gains
+######5.9.2 Un-clearable survivors
+If a pinned survivor cannot be cleared after an infected player gains
 control of the tank, either team can request that the round be
 replayed. If requested, the tournament directors may review demos and
 determine if the result of the replayed round will be used, or if some
@@ -347,7 +348,7 @@ The following modifications are PERMITTED:
 All modifications to the Left 4 Dead 2 user interface that do not alter,
 nor interact with the in-game user experience, nor provide additional
 information about the game state (e.g. ZoneMenu, menu music, menu fonts,
-menu shortcuts, console fonts, etc) are allowed.
+menu shortcuts, console fonts, etc.) are allowed.
 
 ######6.2.2 HUDs
 Modifying or removing HUDs, crosshairs, and pain pointers is allowed.
@@ -436,7 +437,7 @@ includes but IS NOT LIMITED to:
 * Survivor death sounds, or other vocalizations associated with player
   state or health (such as incapacitation or being “black and white”)
 * Triggered vocalizations or sound effects associated with director
-  events (such as the rescue vehicle’s arrival, etc)
+  events (such as the rescue vehicle’s arrival, etc.)
 
 #####7.3 Sprays
 Players may not use sprays that imitate or resemble environmental
@@ -448,5 +449,5 @@ depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
 <!--
-vim: filetype=markdown wrapmargin=79 spell spelllang=en_us
+vim: filetype=markdown wrapmargin=79 spell spelllang=en_US
 -->
