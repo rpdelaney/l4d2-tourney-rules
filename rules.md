@@ -173,11 +173,9 @@ midnight. Failure to report weekly round results before the deadline
 will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
-To report match results, make a post in the forum thread for the
-corresponding round, including a hyper-link to the screenshot of the
-final scores. It is not sufficient to post the screenshot to the steam
-community. Results will not be accepted via email or Steam instant
-messenger.
+To report match results, [TBD]. Include a screenshot of the
+final scores. Results will not be accepted via email, Steam instant
+messenger, or the steam community.
 
 #####5.2 Tardiness
 Each competitor has 15 minutes after the scheduled time to have 4 players in
