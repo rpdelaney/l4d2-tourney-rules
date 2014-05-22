@@ -266,11 +266,9 @@ possible suspension of the player from the tournament.
 #####5.8 Exploits
 
 ######5.8.1 AI pathing exploits
-It is illegal to intentionally exploit AI pathing by moving to an area
-that causes NPC infected to stop attacking. This includes re-entering the
-safe-room, or standing behind a dynamic prop that the witch cannot
-navigate around. However, is permitted to exploit witch pathing in a way
-that causes her to climb over objects repeatedly.
+It is illegal to intentionally exploit AI pathing by moving to an area that
+causes NPC infected to stop attacking. However, it is permitted to exploit
+witch pathing in a way that causes her to climb over obstacles repeatedly.
 
 The minimum penalty for intentionally exploiting AI pathing will be a
 zero score for the round.
