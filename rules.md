@@ -18,10 +18,8 @@ All other trademarks are property of their respective owners.
 #####1.1 Staff
 
 The Tournament Director will be:
-- [an entire sleeve of fig newtons](http://steamcommunity.com/id/fignewtons)
 
 The Assistant Tournament Director(s) will be:
-- [Rails Barlow](http://steamcommunity.com/profiles/76561198046098995)
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
@@ -43,7 +41,7 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament Format
 
 #####2.1 Format
-This will be a Swiss system tournament of 5 rounds. A match win will
+This will be a Swiss system tournament of [TBD] rounds. A match win will
 score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
@@ -109,11 +107,11 @@ All finales will be played except for The Parish finale.
 ##Section 3: Registration process
 
 #####3.1 Registration
-Teams may register by filling out the [web form](https://docs.google.com/forms/d/18L6KR5lgGzh2wGbD1M6YTDMxRqU1c9CXWK-A_gAYatU/viewform).
+Teams may register by [TBD].
 
 #####3.2 Deadline
-The deadline for registrations is midnight on April 12, 2014. Late
-registrations will not be accepted.
+The deadline for registrations is [TBD]. Late registrations will not be
+accepted.
 
 #####3.3 Double registration
 A player may be registered for only one team in the tournament. A player
@@ -126,7 +124,7 @@ Game servers will be selected according to the following criteria:
 #####4.1 Hosting
 The server must be dedicated and hosted by a reputable hosting company.
 
-If either team is in the 'North America' region, then the server will be
+If either team is in the North American region, then the server will be
 located inside the continental United States.
 
 #####4.2 Configuration
@@ -294,8 +292,8 @@ The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
 ######5.8.4 Spectate command
-Excepting Section 5.8.5, a player use the `!spectate` command during the match
-if, and only if:
+Excepting Section 5.8.5, a player may use the `!spectate` command after
+the ready-up if, and only if:
 
 * They have unintentionally become stuck in a clip brush or other map
   entity and cannot move, and
