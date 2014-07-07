@@ -134,7 +134,7 @@ the pairings each round.
 
 #####4.3 Web-cast support
 Servers will have enough slots for up to two casters, two cameramen, and
-an administrator. Support for the spechud addon is highly desirable.
+an administrator. Support for the `spechud` addon is highly desirable.
 
 #####4.4 Tickrate
 Servers with 60 tickrate will be preferred, unless both teams agree to
