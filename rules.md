@@ -23,7 +23,7 @@ The Assistant Tournament Director(s) will be:
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
-all disputes. His decisions are final and cannot be appealed.
+all disputes. Their decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
 The tournament directors reserve the right to impose any sanction on any
