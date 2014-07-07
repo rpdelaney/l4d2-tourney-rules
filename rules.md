@@ -317,11 +317,12 @@ be replayed following a restart round. If necessary the final scores
 will be calculated manually.
 
 ######5.9.2 Un-clearable survivors
-If a pinned survivor cannot be cleared after an infected player gains
-control of the tank, either team can request that the round be
-replayed. If requested, the tournament directors may review demos and
-determine if the result of the replayed round will be used, or if some
-other action will be taken according to the circumstances.
+In some extremely rare cases, a pinned survivor cannot be cleared after
+an infected player gains control of the tank. In that event, either team
+may request that the round be replayed. If requested, the tournament
+directors may review demos and determine if the result of the replayed
+round will be used, or if some other action will be taken according to
+the circumstances.
 
 ##Section 6: Addons and configuration
 The following guidelines will assist the competitors in understanding
@@ -390,9 +391,9 @@ Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables is allowed.
 
 ######6.2.11 Unused sounds
-Materials and sounds that are related to weapons or items
-that are banned in the competitive configuration, which may
-include: "Tier 2" weapons, chainsaw, M60, grenades, etc.
+Modifying materials and sounds that are related to weapons or items
+that are banned in the competitive configuration (which may
+include: "Tier 2" weapons, chainsaw, M60, grenades, etc) is allowed.
 
 #####6.3 Forbidden modifications
 Aside from the above, no modifications to game files or materials, nor
