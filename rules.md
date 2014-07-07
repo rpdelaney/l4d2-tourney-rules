@@ -407,8 +407,7 @@ textures, skyboxes, props, or other materials and files used for
 rendering the in-game environment are forbidden.
 
 ######6.3.2 Audio elements
-Any changes whatsoever to game sounds (excluding Sections 6.2.4-5) are
-forbidden.
+Any changes whatsoever to game sounds are forbidden.
 
 ######6.3.3 Third-party hooks
 Any third-party applications, programs, or macros that read or modify
