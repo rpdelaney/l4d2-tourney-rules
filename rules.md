@@ -389,6 +389,11 @@ exploit “cheat” cvars are allowed.
 Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables is allowed.
 
+######6.2.11 Unused sounds
+Materials and sounds that are related to weapons or items
+that are banned in the competitive configuration, which may
+include: "Tier 2" weapons, chainsaw, M60, grenades, etc.
+
 #####6.3 Forbidden modifications
 Aside from the above, no modifications to game files or materials, nor
 use of third-party software and applications that affect gameplay will
