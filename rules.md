@@ -423,7 +423,7 @@ are complete.
 #####6.5 Addon toggling
 Aside from exceptions provided in Section 6.2.1, enabling or disabling
 addons or modifying files after the first ready-up is strictly
-forbidden, even when disconnecting or reconnecting from the server.
+forbidden.
 
 ##Section 7: Behavior and etiquette
 
