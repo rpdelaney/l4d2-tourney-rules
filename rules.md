@@ -175,7 +175,7 @@ extensions be granted.
 
 To report match results, [TBD]. Include a screenshot of the
 final scores. Results will not be accepted via email, Steam instant
-messenger, or the steam community.
+messenger, or the Steam Community.
 
 #####5.2 Tardiness
 Each competitor has 15 minutes after the scheduled time to have 4 players in
