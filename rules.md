@@ -1,5 +1,5 @@
 ﻿##Section 0: Readme
-- [Homepage](https://github.com/rpdelaney/l4d2-tourney-rules)
+- [Homepage][1]
 
 ####Legal
 Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
@@ -68,7 +68,7 @@ the lowest score group. A bye scores a full point.
 
 ######2.1.4 Tiebreakers
 Ties will be broken by the following criteria, descending (see [Buchholz-Median
-tiebreak](http://www.swissperfect.com/tiebreak.htm#buchholz), also known as "Modified Median"):
+tiebreak][2], also known as "Modified Median"):
 
 1. The sum of conventional scores of the teams each participant has
 defeated, excluding the lowest and highest (higher is better).
@@ -79,9 +79,9 @@ applicable.
 For information on the Swiss System, you can review the following
 links:
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Swiss-system_tournament)
-* [World Chess Federation](http://www.fide.com/component/handbook/?id=84&view=article)
-* [Wizards of the Coast](http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
+* [Wikipedia][3]
+* [World Chess Federation][4]
+* [Wizards of the Coast][5]
 
 If you have any further questions about the Swiss System, contact a
 Tournament Director or the author.
@@ -141,7 +141,7 @@ Servers with 60 tickrate will be preferred, unless both teams agree to
 another tickrate.
 
 #####4.5 DOS protection
-Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
+Servers with [DoS Protection][6] are preferred.
 
 #####4.6 Disagreements
 If both teams have a server but cannot agree on which server to use, the
@@ -154,7 +154,7 @@ has most even average ping for all the players.
 Pairings and brackets for each round will be posted weekly on Monday.
 
 Players are strongly encouraged to use the free on-line scheduling tool
-at [doodle.com](http://doodle.com): it is free, functional, does not
+at [doodle.com][7]: it is free, functional, does not
 require registration, and supports time zones.
 
 ######5.1.1 Scheduling deadline
@@ -452,6 +452,15 @@ other recognizable game element.
 Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
+
+<!-- EXLINKS -->
+[1]: https://github.com/rpdelaney/l4d2-tourney-rules
+[2]: http://www.swissperfect.com/tiebreak.htm#buchholz
+[3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
+[4]: http://www.fide.com/component/handbook/?id=84&view=article
+[5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
+[6]: https://github.com/SirPlease/IPTables
+[7]: http://doodle.com
 
 <!--
 vim: filetype=markdown wrapmargin=79 spell spelllang=en_US
