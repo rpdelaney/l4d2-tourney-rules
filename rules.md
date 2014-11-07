@@ -178,7 +178,7 @@ final scores. Results will not be accepted via email, Steam instant
 messenger, or the Steam Community.
 
 #####5.2 Tardiness
-Each competitor has 15 minutes after the scheduled time to have 4 players in
+Each team has 15 minutes after the scheduled time to have 4 players in
 the server and readied up. The standard penalty for failure will be a
 forfeit loss of the match.
 
@@ -210,7 +210,7 @@ not be allowed.
 
 ######5.5.1 Double agents
 No registered player may ring for another team unless their team has
-withdrawn from the tournament or they have been removed from the roster.
+withdrawn from the tournament or that player has been removed from the roster.
 
 #####5.6 Pauses
 
@@ -347,7 +347,7 @@ The following modifications are PERMITTED:
 
 ######6.2.1 Menu
 All modifications to the Left 4 Dead 2 user interface that do not alter,
-nor interact with the in-game user experience, nor provide additional
+nor interact with the in-game user experience nor provide additional
 information about the game state (e.g. ZoneMenu, menu music, menu fonts,
 menu shortcuts, console fonts, etc.) are allowed.
 
