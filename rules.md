@@ -35,7 +35,7 @@ Staff may participate in the tournament. Where there may be an
 appearance of a conflict of interest, a tournament director will yield
 to a counterpart if possible.
 
-#####1.4 Official communication
+#####1.5 Official communication
 Official communication will take place via the forum on L4Dnation.com.
 
 ##Section 2: Tournament Format
@@ -101,7 +101,7 @@ remain unreported past the round deadline.
 - Round 4: Dark Carnival
 - Round 5: The Parish
 
-######2.3.2 Finales
+######2.3.1 Finales
 All finales will be played except for The Parish finale.
 
 ##Section 3: Registration process
@@ -197,8 +197,8 @@ but not required.
 Any team may request that an administrator be present at their match. The
 staff will honor reasonable requests to the best of their ability, weighing
 conflicting obligations, the significance of the match to the tournament
-results, and the seriousness of concerns about improper behavior that may take
-place.
+results, and the seriousness of concerns about improper behavior that
+may take place.
 
 ######5.4.2 Spectators
 Aside from tournament staff and authorized casters, no spectators
@@ -210,7 +210,8 @@ not be allowed.
 
 ######5.5.1 Double agents
 No registered player may ring for another team unless their team has
-withdrawn from the tournament or that player has been removed from the roster.
+withdrawn from the tournament or that player has been removed from the
+roster.
 
 #####5.6 Pauses
 
