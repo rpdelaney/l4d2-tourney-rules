@@ -415,10 +415,14 @@ memory in a method for affecting gameplay, or that provide information
 about the game state to the player, or that simulate mouse movement
 (aiming) while the game is running are forbidden.
 
-#####6.4 Lerp toggling
-After the ready-up for the first half of each map, changing `cl_interp`
-and `cl_interp_ratio` values is forbidden until both halves of the round
-are complete.
+#####6.4 Netcode toggling
+After the ready-up for the first half of each map, changing the following cvars
+is forbidden until both halves of the round
+are complete:
+
+* `cl_interp`
+* `cl_interp_ratio`
+* `cl_lagcompensation`
 
 #####6.5 Addon toggling
 Aside from exceptions provided in Section 6.2.1, enabling or disabling
