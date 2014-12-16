@@ -213,22 +213,9 @@ No registered player may ring for another team unless their team has
 withdrawn from the tournament or that player has been removed from the
 roster.
 
-#####5.6 Pauses
+#####5.6 Demos and screenshots
 
-######5.6.1 Excessive pausing
-Intentionally affecting the result of the round through excessive
-pausing may be brought to the attention of the TD.
-
-The penalty for abuse of the pause function will typically be whichever
-is greater between:
-
-- a zero score for the round for the offending team, or
-- an adjustment of the score of the offended team equivalent to full
-  map distance (with health bonus at the time of the offense).
-
-#####5.7 Demos and screenshots
-
-######5.7.1 Demos are mandatory
+######5.6.1 Demos are mandatory
 Each participant is required to record and save demos of their match
 play. All demos must be stored until the end of the tournament, and
 must be submitted promptly to a tournament director on request.
@@ -237,14 +224,14 @@ To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
 re-record after disconnecting from the server for any reason.
 
-######5.7.2 Screenshots are mandatory
+######5.6.2 Screenshots are mandatory
 Each team is allowed up to one (1) pause per round to request
 screenshots.
 
 Each player must take a screenshot whenever asked by anyone in the
 server.
 
-######5.7.3 Privacy
+######5.6.3 Privacy
 Players are never required to provide demos or screenshots to anyone
 except the staff. Although there is no basis for an expectation of
 privacy, they are considered confidential and will be shared only for:
@@ -253,7 +240,7 @@ privacy, they are considered confidential and will be shared only for:
   they find in confidence
 - To expose wrongdoing to the community if, and only if, it is discovered
 
-######5.7.5 Responsibility is with you
+######5.6.5 Responsibility is with you
 It is each player’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
 manner.
@@ -262,9 +249,9 @@ Failure to submit demos or screenshots on the request of the staff will
 result at minimum in a zero score for the associated rounds, and
 possible suspension of the player from the tournament.
 
-#####5.8 Exploits
+#####5.7 Exploits
 
-######5.8.1 AI pathing exploits
+######5.7.1 AI pathing exploits
 It is illegal to intentionally exploit AI pathing by moving to an area that
 causes NPC infected to stop attacking. However, it is permitted to exploit
 witch pathing in a way that causes her to climb over obstacles repeatedly.
@@ -272,7 +259,7 @@ witch pathing in a way that causes her to climb over obstacles repeatedly.
 The minimum penalty for intentionally exploiting AI pathing will be a
 zero score for the round.
 
-######5.8.2 Moustachio
+######5.7.2 Moustachio
 It is illegal for either side to hit the “Moustachio” button on
 `c2m4_barns`.
 
@@ -280,7 +267,7 @@ The minimum penalty for activating Moustaschio will be equivalent to the
 full distance with health bonus for the survivor team at the time of the
 infraction.
 
-######5.8.3 Tank parking
+######5.7.3 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time. Intentionally positioning a tank so that
 it cannot advance when AI controlled is not allowed.
@@ -288,8 +275,8 @@ it cannot advance when AI controlled is not allowed.
 The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
-######5.8.4 Spectate command
-Excepting Section 5.8.5, a player may use the `!spectate` command after
+######5.7.4 Spectate command
+Excepting Section 5.7.5, a player may use the `!spectate` command after
 the ready-up if, and only if:
 
 * They have unintentionally become stuck in a clip brush or other map
@@ -300,12 +287,12 @@ The minimum penalty for abuse of the spectate command will be a zero
 score for the round. The maximum penalty for repeated or severe
 infractions will be a forfeit loss of the match.
 
-######5.8.5 "Stuck spots"
+######5.7.5 "Stuck spots"
 It is illegal to exploit "stuck spots" by intentionally becoming stuck
 in a map entity. If a player-controlled infected is teleported in this
 way, it must be killed via `!spectate`.
 
-######5.8.6 Death toll bridge
+######5.7.6 Death toll bridge
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
@@ -432,12 +419,52 @@ forbidden.
 
 ##Section 7: Behavior and etiquette
 
-#####7.1 Conduct
-Players are expected to conduct themselves politely and professionally
-during the match. Abusive or harassing conduct toward other players,
-spectators, or tournament administrators will not be tolerated.
+#####7.1 Unsportsmanlike conduct
+Each participant is expected to hold themselves to a high standard
+of professional and courteous conduct toward others at all
+times. Abusive, harassing, disrespectful, or unsportsmanlike conduct
+will not be tolerated -- neither during a tournament match nor
+in any other venue.
 
-#####7.2 Sound effects
+Penalties for unsportsmanlike conduct will typically
+include a forfeit loss (if during a live match) and player
+or team suspension from any number of future matches (per
+section 7.1.5).
+
+######7.1.1 Unnecessary all-talk
+Except when absolutely required to complete the match,
+under no circumstances will any participant communicate
+with spectators or opponents by any means whatsoever.
+
+This includes but IS NOT LIMITED TO: all-chat
+(messagemode1), all-talk (using in-game voice), steam chat,
+and participating in live chat-rooms (twitch.tv and others).
+
+######7.1.2 Changing usernames
+In line with 7.1.1, any player who changes their username
+during a live match may, at the discretion of the staff, be
+sanctioned for unsportsmanlike conduct.
+
+######7.1.3 One spokesperson per team
+It is is unnecessary and forbidden for more than one
+player from each team to use all-talk (messagemode1) or
+in-game voice chat during a match.
+
+Each team should have a designated captain who will
+communicate with the other team if, and only if, a
+situation arises that requires that they do so, such as
+asking for or explaining the reason for a pause.
+
+######7.1.4 Insufficient effort to win
+Any competitor who, in the judgment of a staff member, has
+not committed their full effort to winning the match is
+guilty of unsportsmanlike conduct.
+
+######7.1.5 Excessive pausing
+Intentionally affecting the result of the round through
+abuse of the pause function is unsportsmanlike conduct.
+
+######7.1.6 Sound effects
 Players may not use console commands or radial menus to trigger sound
 effects that taunt, harass, annoy, or confuse other players. This
 includes but IS NOT LIMITED to:
@@ -449,7 +476,7 @@ includes but IS NOT LIMITED to:
 * Triggered vocalizations or sound effects associated with director
   events (such as the rescue vehicle’s arrival, etc.)
 
-#####7.3 Sprays
+######7.1.7 Sprays
 Players may not use sprays that imitate or resemble environmental
 objects, such as: weapons, other players, infected models, props, or any
 other recognizable game element.
@@ -457,6 +484,17 @@ other recognizable game element.
 Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
+
+######7.1.x Guilt by association
+An entire team may be held responsible for the
+unsportsmanlike conduct of any team member.
+
+All participants are urged to avoid joining teams that
+include players who are known for poor conduct. A team
+captain may voluntarily remove another player from the
+roster at any time and for any reason, especially
+unsportsmanlike conduct, to avoid collective punishment.
+
 
 <!-- EXLINKS -->
 [1]: https://github.com/rpdelaney/l4d2-tourney-rules
