@@ -381,7 +381,8 @@ circumvent cvars blocked by the competitive configuration (e.g.
 `mat_hdr`) are allowed.
 
 ######6.2.8 Wait
-Use of the wait command in scripts is allowed without limitation.
+Use of the wait command in scripts is allowed without
+limitation, unless they are blocked by the server.
 
 ######6.2.9 Command-line arguments
 All command-line arguments that do not exploit nor allow the player to
