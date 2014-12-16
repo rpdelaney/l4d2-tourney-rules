@@ -427,7 +427,7 @@ in any other venue.
 Penalties for unsportsmanlike conduct will typically
 include a forfeit loss (if during a live match) and player
 or team suspension from any number of future matches (per
-section 7.1.5).
+section 7.8).
 
 #####7.1 Unnecessary all-talk
 Except when absolutely required to complete the match,
