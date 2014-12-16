@@ -417,9 +417,7 @@ Aside from exceptions provided in Section 6.2.1, enabling or disabling
 addons or modifying files after the first ready-up is strictly
 forbidden.
 
-##Section 7: Behavior and etiquette
-
-#####7.1 Unsportsmanlike conduct
+##Section 7: Unsportsmanlike conduct
 Each participant is expected to hold themselves to a high standard
 of professional and courteous conduct toward others at all
 times. Abusive, harassing, disrespectful, or unsportsmanlike conduct
@@ -431,7 +429,7 @@ include a forfeit loss (if during a live match) and player
 or team suspension from any number of future matches (per
 section 7.1.5).
 
-######7.1.1 Unnecessary all-talk
+#####7.1 Unnecessary all-talk
 Except when absolutely required to complete the match,
 under no circumstances will any participant communicate
 with spectators or opponents by any means whatsoever.
@@ -440,12 +438,12 @@ This includes but IS NOT LIMITED TO: all-chat
 (messagemode1), all-talk (using in-game voice), steam chat,
 and participating in live chat-rooms (twitch.tv and others).
 
-######7.1.2 Changing usernames
+#####7.2 Changing usernames
 In line with 7.1.1, any player who changes their username
 during a live match may, at the discretion of the staff, be
 sanctioned for unsportsmanlike conduct.
 
-######7.1.3 One spokesperson per team
+#####7.3 One spokesperson per team
 It is is unnecessary and forbidden for more than one
 player from each team to use all-talk (messagemode1) or
 in-game voice chat during a match.
@@ -455,16 +453,16 @@ communicate with the other team if, and only if, a
 situation arises that requires that they do so, such as
 asking for or explaining the reason for a pause.
 
-######7.1.4 Insufficient effort to win
+#####7.4 Insufficient effort to win
 Any competitor who, in the judgment of a staff member, has
 not committed their full effort to winning the match is
 guilty of unsportsmanlike conduct.
 
-######7.1.5 Excessive pausing
+#####7.5 Excessive pausing
 Intentionally affecting the result of the round through
 abuse of the pause function is unsportsmanlike conduct.
 
-######7.1.6 Sound effects
+#####7.6 Sound effects
 Players may not use console commands or radial menus to trigger sound
 effects that taunt, harass, annoy, or confuse other players. This
 includes but IS NOT LIMITED to:
@@ -476,7 +474,7 @@ includes but IS NOT LIMITED to:
 * Triggered vocalizations or sound effects associated with director
   events (such as the rescue vehicle’s arrival, etc.)
 
-######7.1.7 Sprays
+#####7.7 Sprays
 Players may not use sprays that imitate or resemble environmental
 objects, such as: weapons, other players, infected models, props, or any
 other recognizable game element.
@@ -485,7 +483,7 @@ Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
-######7.1.x Guilt by association
+#####7.8 Guilt by association
 An entire team may be held responsible for the
 unsportsmanlike conduct of any team member.
 
