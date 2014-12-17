@@ -41,7 +41,7 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament Format
 The tournament will consist of two sections.
 
-######2.1 Swiss section
+#####2.1 Swiss section
 The first section will be a Swiss System tournament of [TBD]
 rounds. A match win will score 1 point; a tie scores a half
 point; a loss or forfeit scores 0 points.
@@ -94,7 +94,7 @@ reported.
 Therefore, there will be a ZERO TOLERANCE policy for matches that
 remain unreported past the round deadline.
 
-######2.2 Playoffs
+#####2.2 Playoffs
 Once the first section is completed, [TBD] teams will move
 on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
