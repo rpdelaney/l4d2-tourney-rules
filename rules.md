@@ -161,8 +161,7 @@ require registration, and supports time zones.
 Matches must be scheduled before the following Wednesday at midnight.
 
 Teams are encouraged to begin negotiating the schedule early; delinquent
-scheduling must be brought to the attention of the staff before the
-deadline.
+scheduling will result in a double forfeit.
 
 ######5.1.2 Scheduling duties
 Any player on the roster may perform scheduling duties.
