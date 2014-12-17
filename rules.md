@@ -413,11 +413,6 @@ are complete:
 * `cl_interp_ratio`
 * `cl_lagcompensation`
 
-#####6.5 Addon toggling
-Aside from exceptions provided in Section 6.2.1, enabling or disabling
-addons or modifying files after the first ready-up is strictly
-forbidden.
-
 ##Section 7: Unsportsmanlike conduct
 Each participant is expected to hold themselves to a high standard
 of professional and courteous conduct toward others at all
