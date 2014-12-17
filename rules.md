@@ -192,6 +192,8 @@ process. Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
 #####5.4 Spectators
+Aside from tournament staff and authorized casters, no spectators
+whatsoever will be allowed in the server during matches.
 
 ######5.4.1 Requests for Oversight
 Any team may request that an administrator be present at their match. The
@@ -199,10 +201,6 @@ staff will honor reasonable requests to the best of their ability, weighing
 conflicting obligations, the significance of the match to the tournament
 results, and the seriousness of concerns about improper behavior that
 may take place.
-
-######5.4.2 Spectators
-Aside from tournament staff and authorized casters, no spectators
-whatsoever will be allowed in the server during matches.
 
 #####5.5 Ringers
 Both teams must agree to allow ringers before the match, or ringers will
