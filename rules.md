@@ -39,11 +39,9 @@ to a counterpart if possible.
 Official communication will take place via the forum on L4Dnation.com.
 
 ##Section 2: Tournament Format
-
-#####2.1 Format
 The tournament will consist of two sections.
 
-######2.1.1 Swiss section
+######2.1 Swiss section
 The first section will be a Swiss System tournament of [TBD]
 rounds. A match win will score 1 point; a tie scores a half
 point; a loss or forfeit scores 0 points.
@@ -59,16 +57,16 @@ others with the same record of Won : Lost games.
 
 There will be no eliminations due to poor results or lost games.
 
-######2.1.2 Double Jeopardy
+######2.1.1 Double Jeopardy
 Under no circumstances will two competitors face each other more than
 once during the tournament.
 
-######2.1.3 Byes
+######2.1.2 Byes
 In the event that a round must be paired with an uneven number of
 participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group. A bye scores a full point.
 
-######2.1.4 Tiebreakers
+######2.1.3 Tiebreakers
 Ties will be broken by the following criteria, descending (see [Buchholz-Median
 tiebreak][2], also known as "Modified Median"):
 
@@ -77,7 +75,7 @@ defeated, excluding the lowest and highest (higher is better).
 2. The result of the head-to-head matchup of the tied participants, if
 applicable.
 
-######2.1.5 References
+######2.1.4 References
 For information on the Swiss System, you can review the following
 links:
 
@@ -88,7 +86,7 @@ links:
 If you have any further questions about the Swiss System, contact a
 Tournament Director or the author.
 
-#####2.1.6 Deadlines
+######2.1.5 Deadlines
 Because swiss pairings are based on prior round scoring, the next round
 cannot be paired until all the results of the previous round have been
 reported.
@@ -123,8 +121,8 @@ remaining for the third match, if it is necessary.
 - Dark Carnival
 - The Parish
 
-######2.3.1 Finales
-All finales will be played, including Parish finale.
+######2.4 Finales
+All finales will be played, including The Parish finale.
 
 ##Section 3: Registration process
 
