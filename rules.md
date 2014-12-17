@@ -41,11 +41,13 @@ Official communication will take place via the forum on L4Dnation.com.
 ##Section 2: Tournament Format
 
 #####2.1 Format
-This will be a Swiss system tournament of [TBD] rounds. A match win will
-score 1 point; a tie scores a half point; a loss or forfeit scores 0
-points.
+The tournament will consist of two sections.
 
-######2.1.1 Pairings
+######2.1.1 Swiss section
+The first section will be a Swiss System tournament of [TBD]
+rounds. A match win will score 1 point; a tie scores a half
+point; a loss or forfeit scores 0 points.
+
 After the registration deadline, the registered participants will be
 seeded according to the judgment of the tournament director. The first
 round will then be paired by a "top half vs bottom half" method. For
@@ -86,23 +88,43 @@ links:
 If you have any further questions about the Swiss System, contact a
 Tournament Director or the author.
 
-#####2.2 Deadlines
-Because the pairings are based on prior round scoring, the next round
+#####2.1.6 Deadlines
+Because swiss pairings are based on prior round scoring, the next round
 cannot be paired until all the results of the previous round have been
 reported.
 
 Therefore, there will be a ZERO TOLERANCE policy for matches that
 remain unreported past the round deadline.
 
-#####2.3 Maps
-- Round 1: Death Toll
-- Round 2: Hard Rain
-- Round 3: Swamp Fever
-- Round 4: Dark Carnival
-- Round 5: The Parish
+######2.2 Playoffs
+Once the first section is completed, [TBD] teams will move
+on to the playoffs. The playoffs section will be a
+single-elimination knockout tournament.
+
+Quarter-final matches will be single elimination.
+Semi-final and grand-final matches will be best of three
+("bo3") games.
+
+#######2.2.1 Map selection
+In bo3 matches, the captains from each team will perform a
+single coin toss. The loser of the toss will choose the
+map for the first game. The winner will then choose the map
+for the second game. Finally, the captains will take turns
+removing maps from the map pool until there is one map
+remaining for the third match, if it is necessary.
+
+#####2.3 Map pool
+- Hard Rain: Downpour
+- Detour Ahead VE (modified version forthcoming by Zeon and NF)
+- Dead Center
+- Death Toll
+- Hard Rain
+- Swamp Fever
+- Dark Carnival
+- The Parish
 
 ######2.3.1 Finales
-All finales will be played except for The Parish finale.
+All finales will be played, including Parish finale.
 
 ##Section 3: Registration process
 
