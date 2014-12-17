@@ -103,7 +103,7 @@ Quarter-final matches will be single elimination.
 Semi-final and grand-final matches will be best of three
 ("bo3") games.
 
-#######2.2.1 Map selection
+######2.2.1 Map selection
 In bo3 matches, the captains from each team will perform a
 single coin toss. The loser of the toss will choose the
 map for the first game. The winner will then choose the map
