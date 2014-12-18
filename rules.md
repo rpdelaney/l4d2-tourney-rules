@@ -59,7 +59,7 @@ There will be no eliminations due to poor results or lost games.
 
 ######2.1.1 Double Jeopardy
 Under no circumstances will two competitors face each other more than
-once during the tournament.
+once during the Swiss section.
 
 ######2.1.2 Byes
 In the event that a round must be paired with an uneven number of
