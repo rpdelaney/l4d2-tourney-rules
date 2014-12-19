@@ -222,8 +222,10 @@ results, and the seriousness of concerns about improper behavior that
 may take place.
 
 #####5.5 Ringers
-Both teams must agree to allow ringers before the match, or ringers will
-not be allowed.
+A defining characteristic of a championship team is the
+capacity to field a team for a match at the agreed upon
+date and time. Therefore, both teams must agree to allow
+ringers, or ringers will not be allowed.
 
 ######5.5.1 Double agents
 No registered player may ring for another team unless their team has
