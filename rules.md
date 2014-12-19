@@ -230,6 +230,10 @@ No registered player may ring for another team unless their team has
 withdrawn from the tournament or that player has been removed from the
 roster.
 
+######5.5.2 Limits on ringers
+Each team must field at least three (3) rostered players in each match,
+regardless of consent from the opponent.
+
 #####5.6 Demos and screenshots
 
 ######5.6.1 Demos are mandatory
