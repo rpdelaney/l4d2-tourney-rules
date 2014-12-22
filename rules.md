@@ -523,5 +523,5 @@ unsportsmanlike conduct, to avoid collective punishment.
 [7]: http://doodle.com
 
 <!--
-vim: filetype=markdown wrapmargin=79 spell spelllang=en_US
+vim: filetype=markdown spelllang=en_US
 -->
