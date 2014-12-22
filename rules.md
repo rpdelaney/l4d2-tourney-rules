@@ -18,8 +18,11 @@ All other trademarks are property of their respective owners.
 #####1.1 Staff
 
 The Tournament Director will be:
+* an entire sleeve of fig newtons[9]
 
 The Assistant Tournament Director(s) will be:
+* dec [10]
+* fish [11]
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
@@ -127,11 +130,22 @@ All finales will be played, including The Parish finale.
 ##Section 3: Registration process
 
 #####3.1 Registration
-Teams may register by [TBD].
+Teams may register by posting to the registration thread[8] on L4dnation.com. A
+valid registration will include: 
+
+* Team name
+* Team region (North America, Europe, Asia, Australia, etc)
+* The full team roster including no less than four (4) players and no more than
+  six (6) players
+* A clear designation of which player is the team captain
+* Steam community profile links and Steam ID for every player on the roster
+
+Any submitted registration that is missing one or more of the above details
+will be disregarded without comment.
 
 #####3.2 Deadline
-The deadline for registrations is [TBD]. Late registrations will not be
-accepted.
+The deadline for registrations is January 30th, 2015. Late registrations will
+not be accepted.
 
 #####3.3 Double registration
 A player may be registered for only one team in the tournament. A player
@@ -521,7 +535,10 @@ unsportsmanlike conduct, to avoid collective punishment.
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [6]: https://github.com/SirPlease/IPTables
 [7]: http://doodle.com
-
+[8]: http://www.l4dnation.com/rbt-summer-tournament/rbwt-2015-official-sign-up-thread/
+[9]: http://steamcommunity.com/id/fignewtons/
+[10]: http://steamcommunity.com/profiles/76561198016356615/
+[11]: http://steamcommunity.com/profiles/76561197993371461/
 <!--
 vim: filetype=markdown spelllang=en_US
 -->
