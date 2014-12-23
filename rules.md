@@ -472,7 +472,7 @@ This includes but IS NOT LIMITED TO: all-chat
 and participating in live chat-rooms (twitch.tv and others).
 
 #####7.2 Changing usernames
-In line with 7.1.1, any player who changes their username
+In line with 7.1, any player who changes their username
 during a live match may, at the discretion of the staff, be
 sanctioned for unsportsmanlike conduct.
 
