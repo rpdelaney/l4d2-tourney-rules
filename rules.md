@@ -263,7 +263,7 @@ privacy, they are considered confidential and will be shared only for:
   they find in confidence
 - To expose wrongdoing to the community if, and only if, it is discovered
 
-######5.6.5 Responsibility is with you
+######5.6.4 Responsibility is with you
 It is each player’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
 manner.
