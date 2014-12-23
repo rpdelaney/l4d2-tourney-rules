@@ -18,11 +18,11 @@ All other trademarks are property of their respective owners.
 #####1.1 Staff
 
 The Tournament Director will be:
-* an entire sleeve of fig newtons[9]
+* [an entire sleeve of fig newtons][9]
 
 The Assistant Tournament Director(s) will be:
-* dec [10]
-* fish [11]
+* [dec][10]
+* [fish][11]
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
