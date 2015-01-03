@@ -168,6 +168,10 @@ If both teams have a server but cannot agree on which server to use, the
 match will be played on the server that satisfies the above criteria and
 has most even average ping for all the players.
 
+For example: a match between a US team and an EU team would be played on a
+server located along the eastern seaboard of the United States (New York / New
+Jersey).
+
 ##Section 5: Match schedule
 
 #####5.1 Rounds and scheduling
