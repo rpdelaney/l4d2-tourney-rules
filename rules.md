@@ -477,9 +477,9 @@ during a live match may, at the discretion of the staff, be
 sanctioned for unsportsmanlike conduct.
 
 #####7.3 One spokesperson per team
-It is is unnecessary and forbidden for more than one
-player from each team to use all-talk (messagemode1) or
-in-game voice chat during a match.
+Aside from standard greeting messages ("gl hf", "gg", etc), it is is
+unnecessary and forbidden for more than one player from each team to use
+all-talk (messagemode1) or in-game voice chat during a match.
 
 Each team should have a designated captain who will
 communicate with the other team if, and only if, a
