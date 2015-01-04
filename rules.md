@@ -482,8 +482,10 @@ not committed their full effort to winning the match is
 guilty of unsportsmanlike conduct.
 
 #####7.5 Excessive pausing
-Intentionally affecting the result of the round through
-abuse of the pause function is unsportsmanlike conduct.
+Repeated or lengthy use of the pause function disrupts the normal flow of the
+match and frustrates the expectations of the spectators and other players.
+Therefore, extensive pausing is unsportsmanlike conduct if it is judged by
+staff to be excessive, regardless of the reason.
 
 #####7.6 Sound effects
 Players may not use console commands or radial menus to trigger sound
