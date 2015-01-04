@@ -182,6 +182,10 @@ If both teams have a server but cannot agree on which server to use, the
 match will be played on the server that satisfies the above criteria and
 has most even average ping for all the players.
 
+For example: a match between a US team and an EU team would be played on a
+server located along the eastern seaboard of the United States (New York / New
+Jersey).
+
 ##Section 5: Match schedule
 
 #####5.1 Rounds and scheduling
@@ -333,15 +337,15 @@ way, it must be killed via `!spectate`.
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
-#####5.9 Glitches
+#####5.8 Glitches
 
-######5.9.1 Rescue vehicles
+######5.8.1 Rescue vehicles
 In the event of a finale rescue vehicle glitch (most common on Swamp
 Fever, but also possible on Dark Carnival and Hard Rain) the half will
 be replayed following a restart round. If necessary the final scores
 will be calculated manually.
 
-######5.9.2 Un-clearable survivors
+######5.8.2 Un-clearable survivors
 In some extremely rare cases, a pinned survivor cannot be cleared after
 an infected player gains control of the tank. In that event, either team
 may request that the round be replayed. If requested, the tournament
@@ -492,8 +496,10 @@ not committed their full effort to winning the match is
 guilty of unsportsmanlike conduct.
 
 #####7.5 Excessive pausing
-Intentionally affecting the result of the round through
-abuse of the pause function is unsportsmanlike conduct.
+Repeated or lengthy use of the pause function disrupts the normal flow of the
+match and frustrates the expectations of the spectators and other players.
+Therefore, extensive pausing is unsportsmanlike conduct if it is judged by
+staff to be excessive, regardless of the reason.
 
 #####7.6 Sound effects
 Players may not use console commands or radial menus to trigger sound
