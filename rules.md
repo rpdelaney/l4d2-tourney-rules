@@ -323,15 +323,15 @@ way, it must be killed via `!spectate`.
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
-#####5.9 Glitches
+#####5.8 Glitches
 
-######5.9.1 Rescue vehicles
+######5.8.1 Rescue vehicles
 In the event of a finale rescue vehicle glitch (most common on Swamp
 Fever, but also possible on Dark Carnival and Hard Rain) the half will
 be replayed following a restart round. If necessary the final scores
 will be calculated manually.
 
-######5.9.2 Un-clearable survivors
+######5.8.2 Un-clearable survivors
 In some extremely rare cases, a pinned survivor cannot be cleared after
 an infected player gains control of the tank. In that event, either team
 may request that the round be replayed. If requested, the tournament
