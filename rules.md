@@ -255,6 +255,9 @@ roster.
 Each team must field at least three (3) rostered players in each match,
 regardless of consent from the opponent.
 
+No ringers whatsoever will be allowed in the playoff phase of the tournament,
+regardless of consent from either team.
+
 #####5.6 Demos and screenshots
 
 ######5.6.1 Demos are mandatory
