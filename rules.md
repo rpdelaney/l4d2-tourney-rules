@@ -22,7 +22,7 @@ The Tournament Director will be:
 
 The Assistant Tournament Director(s) will be:
 * [dec][10]
-* [fish][11]
+* [fever][11]
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
