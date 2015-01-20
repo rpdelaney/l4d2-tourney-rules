@@ -70,13 +70,15 @@ participants, a bye will be awarded to the lowest ranked participant in
 the lowest score group. A bye scores a full point.
 
 ######2.1.3 Tiebreakers
-Ties will be broken by the following criteria, descending (see [Buchholz-Median
-tiebreak][2], also known as "Modified Median"):
+Ties will be broken by the following criteria, descending :
 
-1. The sum of conventional scores of the teams each participant has
-defeated, excluding the lowest and highest (higher is better).
-2. The result of the head-to-head matchup of the tied participants, if
-applicable.
+1. The sum of conventional scores of the teams each participant has defeated,
+   excluding the lowest and highest (higher is better). This is the
+   [Buchholz-Median tiebreak][2], also known as "Modified Median".
+2. The sum of conventional scores of the teams each participant has defeated.
+   This is the Sonnenborn-Berger tiebreak.
+3. The team that most recently had more points. This is the cumulative
+   tiebreak.
 
 ######2.1.4 References
 For information on the Swiss System, you can review the following
