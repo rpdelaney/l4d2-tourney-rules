@@ -343,6 +343,9 @@ way, it must be killed via `!spectate`.
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
+######5.7.7 Spawn glitches
+As infected, it is illegal to 
+
 #####5.8 Glitches
 
 ######5.8.1 Rescue vehicles
@@ -410,9 +413,8 @@ infected or tank is allowed.
 
 ######6.2.7 Console variables ("cvars")
 Source engine configuration files and scripts that do not exploit
-“cheat” cvars, as noted on the official List of cvars, and do not
-circumvent cvars blocked by the competitive configuration (e.g.
-`mat_hdr`) are allowed.
+“cheat” cvars and do not circumvent cvars blocked by the competitive
+configuration (e.g. `mat_hdr`) are allowed.
 
 ######6.2.8 Wait
 Use of the wait command in scripts is allowed without
