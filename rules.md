@@ -118,7 +118,6 @@ remaining for the third match, if it is necessary.
 
 #####2.3 Map pool
 - Hard Rain: Downpour
-- Detour Ahead VE (modified version forthcoming by Zeon and NF)
 - Dead Center
 - Death Toll
 - Hard Rain
