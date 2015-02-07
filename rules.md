@@ -213,7 +213,10 @@ team, and the administrators or commentators.
 
 #####5.3 Casting
 The competitors agree that the matches may be casted according to the usual
-process. Access to mumble servers for ‘war rooms’ is appreciated
+process.
+
+######5.3.1
+Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
 #####5.4 Spectators
