@@ -106,12 +106,14 @@ Semi-final and grand-final matches will be best of three
 ("bo3") games.
 
 ######2.2.1 Map selection
-In bo3 matches, the captains from each team will perform a
-single coin toss. The loser of the toss will choose the
-map for the first game. The winner will then choose the map
-for the second game. Finally, the captains will take turns
-removing maps from the map pool until there is one map
-remaining for the third match, if it is necessary.
+A map will be published for each round of the playoffs. That will be the map
+played in the first game of each match. The loser of the first game will pick
+the map for the second game. If a third game is necessary, the loser of the
+second game will pick the map for the third game.
+
+It is not allowed to choose a map that has already been played in the current match. 
+
+The chosen maps must be in the map pool.
 
 #####2.3 Map pool
 - Hard Rain: Downpour
