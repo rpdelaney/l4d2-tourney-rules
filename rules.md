@@ -348,7 +348,10 @@ As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
 ######5.7.7 Spawn glitches
-As infected, it is illegal to 
+As infected, it is illegal to clip through a brush or other obstruction by
+spawning while passing through it in "ghost mode". 
+
+The minimum penalty will be a match loss by forfeit.
 
 #####5.8 Glitches
 
