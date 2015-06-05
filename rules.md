@@ -481,28 +481,18 @@ In line with 7.1.1, any player who changes their username
 during a live match may, at the discretion of the staff, be
 sanctioned for unsportsmanlike conduct.
 
-#####7.3 One spokesperson per team
-Aside from standard greeting messages ("gl hf", "gg", etc), it is is
-unnecessary and forbidden for more than one player from each team to use
-all-talk (messagemode1) or in-game voice chat during a match.
-
-Each team should have a designated captain who will
-communicate with the other team if, and only if, a
-situation arises that requires that they do so, such as
-asking for or explaining the reason for a pause.
-
-#####7.4 Insufficient effort to win
+#####7.3 Insufficient effort to win
 Any competitor who, in the judgment of a staff member, has
 not committed their full effort to winning the match is
 guilty of unsportsmanlike conduct.
 
-#####7.5 Excessive pausing
+#####7.4 Excessive pausing
 Repeated or lengthy use of the pause function disrupts the normal flow of the
 match and frustrates the expectations of the spectators and other players.
 Therefore, extensive pausing is unsportsmanlike conduct if it is judged by
 staff to be excessive, regardless of the reason.
 
-#####7.6 Sound effects
+#####7.5 Sound effects
 Players may not use console commands or radial menus to trigger sound
 effects that taunt, harass, annoy, or confuse other players. This
 includes but IS NOT LIMITED to:
@@ -514,7 +504,7 @@ includes but IS NOT LIMITED to:
 * Triggered vocalizations or sound effects associated with director
   events (such as the rescue vehicle’s arrival, etc.)
 
-#####7.7 Sprays
+#####7.6 Sprays
 Players may not use sprays that imitate or resemble environmental
 objects, such as: weapons, other players, infected models, props, or any
 other recognizable game element.
@@ -523,7 +513,7 @@ Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
-#####7.8 Guilt by association
+#####7.7 Guilt by association
 An entire team may be held responsible for the
 unsportsmanlike conduct of any team member.
 
