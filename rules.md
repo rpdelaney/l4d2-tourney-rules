@@ -296,15 +296,7 @@ witch pathing in a way that causes her to climb over obstacles repeatedly.
 The minimum penalty for intentionally exploiting AI pathing will be a
 zero score for the round.
 
-######5.7.2 Moustachio
-It is illegal for either side to hit the “Moustachio” button on
-`c2m4_barns`.
-
-The minimum penalty for activating Moustaschio will be equivalent to the
-full distance with health bonus for the survivor team at the time of the
-infraction.
-
-######5.7.3 Tank parking
+######5.7.2 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time. Intentionally positioning a tank so that
 it cannot advance when AI controlled is not allowed.
@@ -312,8 +304,8 @@ it cannot advance when AI controlled is not allowed.
 The minimum penalty for tank parking will be equivalent to full map
 distance and health bonus at the time of the infraction.
 
-######5.7.4 Spectate command
-Excepting Section 5.7.5, a player may use the `!spectate` command after
+######5.7.3 Spectate command
+Excepting Section 5.7.4, a player may use the `!spectate` command after
 the ready-up if, and only if:
 
 * They have unintentionally become stuck in a clip brush or other map
@@ -324,16 +316,16 @@ The minimum penalty for abuse of the spectate command will be a zero
 score for the round. The maximum penalty for repeated or severe
 infractions will be a forfeit loss of the match.
 
-######5.7.5 "Stuck spots"
+######5.7.4 "Stuck spots"
 It is illegal to exploit "stuck spots" by intentionally becoming stuck
 in a map entity. If a player-controlled infected is teleported in this
 way, it must be killed via `!spectate`.
 
-######5.7.6 Death toll bridge
+######5.7.5 Death toll bridge
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
-######5.7.7 Spawn glitches
+######5.7.6 Spawn glitches
 As infected, it is illegal to clip through a brush or other obstruction by
 spawning while passing through it in "ghost mode". 
 
@@ -396,32 +388,32 @@ allowed.
 Modifying or removing music played at the end of the round after a wipe,
 saferoom door closed, or player death is allowed.
 
-######6.2.5 Blue tint
+######6.2.6 Blue tint
 Modifying or removing the blue tint while spawning special infected in
 “ghost mode” is allowed.
 
-######6.2.6 Red tint
+######6.2.7 Red tint
 Modifying or removing the red tint that appears while spawned as special
 infected or tank is allowed.
 
-######6.2.7 Console variables ("cvars")
+######6.2.8 Console variables ("cvars")
 Source engine configuration files and scripts that do not exploit
 “cheat” cvars and do not circumvent cvars blocked by the competitive
 configuration (e.g. `mat_hdr`) are allowed.
 
-######6.2.8 Wait
+######6.2.9 Wait
 Use of the wait command in scripts is allowed without
 limitation, unless they are blocked by the server.
 
-######6.2.9 Command-line arguments
+######6.2.10 Command-line arguments
 All command-line arguments that do not exploit nor allow the player to
 exploit “cheat” cvars are allowed.
 
-######6.2.10 GUI options
+######6.2.11 GUI options
 Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables is allowed.
 
-######6.2.11 Unused sounds
+######6.2.12 Unused sounds
 Modifying materials and sounds that are related to weapons or items
 that are banned in the competitive configuration (which may
 include: "Tier 2" weapons, chainsaw, M60, grenades, etc) is allowed.
@@ -448,8 +440,7 @@ about the game state to the player, or that simulate mouse movement
 
 #####6.4 Netcode toggling
 After the ready-up for the first half of each map, changing the following cvars
-is forbidden until both halves of the round
-are complete:
+is forbidden until both halves of the round are complete:
 
 * `cl_interp`
 * `cl_interp_ratio`
