@@ -296,13 +296,13 @@ witch pathing in a way that causes her to climb over obstacles repeatedly.
 The minimum penalty for intentionally exploiting AI pathing will be a
 zero score for the round.
 
-######5.7.2 Tank parking
+######5.7.2 Tank pathing
 If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time. Intentionally positioning a tank so that
 it cannot advance when AI controlled is not allowed.
 
-The minimum penalty for tank parking will be equivalent to full map
-distance and health bonus at the time of the infraction.
+The minimum penalty will be equivalent to full map distance and health bonus at
+the time of the infraction.
 
 ######5.7.3 Spectate command
 Excepting Section 5.7.4, a player may use the `!spectate` command after
