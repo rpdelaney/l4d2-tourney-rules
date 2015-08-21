@@ -305,12 +305,10 @@ The minimum penalty will be equivalent to full map distance and health bonus at
 the time of the infraction.
 
 ######5.7.3 Spectate command
-Excepting Section 5.7.4, a player may use the `!spectate` command after
-the ready-up if, and only if:
-
-* They have unintentionally become stuck in a clip brush or other map
-  entity and cannot move, and
-* The `!stuck` command is not working or unavailable.
+Excepting Section 5.7.4, a player may use the `!spectate` command after the
+ready-up if, and only if they have unintentionally become stuck in a clip
+brush, or inside other map entity, or outside the map, and cannot move through
+the map or attack the survivors.
 
 The minimum penalty for abuse of the spectate command will be a zero
 score for the round. The maximum penalty for repeated or severe
@@ -318,8 +316,9 @@ infractions will be a forfeit loss of the match.
 
 ######5.7.4 "Stuck spots"
 It is illegal to exploit "stuck spots" by intentionally becoming stuck
-in a map entity. If a player-controlled infected is teleported in this
-way, it must be killed via `!spectate`.
+in a map entity. If a player-controlled special infected is teleported in this
+way, it must be killed via `!spectate`. If a tank is teleported, it must be
+slain via SourceMod or a vote-kick.
 
 ######5.7.5 Death toll bridge
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
@@ -327,7 +326,7 @@ climbing a ladder.
 
 ######5.7.6 Spawn glitches
 As infected, it is illegal to clip through a brush or other obstruction by
-spawning while passing through it in "ghost mode". 
+spawning while passing through it in "ghost mode".
 
 The minimum penalty will be a match loss by forfeit.
 
