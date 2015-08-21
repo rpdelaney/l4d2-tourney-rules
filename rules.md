@@ -17,12 +17,15 @@ All other trademarks are property of their respective owners.
 
 #####1.1 Staff
 
-The Tournament Director will be:
+The Tournament Directors will be:
 
-The Assistant Tournament Director(s) will be:
+* ZenDigital
+* Rails Barlow
+* an entire sleeve of fig newtons
+* ZerOxShadows
 
 #####1.2 Disputes
-The Tournament Director is the sole arbiter and court of last resort for
+The Tournament Directors are the sole arbiter and court of last resort for
 all disputes. Their decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
@@ -116,14 +119,13 @@ It is not allowed to choose a map that has already been played in the current ma
 The chosen maps must be in the map pool.
 
 #####2.3 Map pool
-- Hard Rain: Downpour
-- Detour Ahead VE (modified version forthcoming by Zeon and NF)
-- Dead Center
-- Death Toll
-- Hard Rain
-- Swamp Fever
-- Dark Carnival
 - The Parish
+- Dead Air
+- Swamp Fever
+- Hard Rain: Downpour
+- Dead Center
+- Dark Carnival
+- Diescraper Redux
 
 ######2.4 Finales
 All finales will be played, including The Parish finale.
@@ -134,8 +136,8 @@ All finales will be played, including The Parish finale.
 Teams may register by [TBD].
 
 #####3.2 Deadline
-The deadline for registrations is [TBD]. Late registrations will not be
-accepted.
+The deadline for registrations is September 10, 2015 at 11:59 PM Pacific
+Standard Time (UTC-7). Late registrations will not be accepted.
 
 #####3.3 Double registration
 A player may be registered for only one team in the tournament. A player
