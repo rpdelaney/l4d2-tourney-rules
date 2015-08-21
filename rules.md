@@ -454,37 +454,18 @@ times. Abusive, harassing, disrespectful, or unsportsmanlike conduct
 will not be tolerated -- neither during a tournament match nor
 in any other venue.
 
-Penalties for unsportsmanlike conduct will typically
-include a forfeit loss (if during a live match) and player
-or team suspension from any number of future matches (per
-section 7.8).
-
-#####7.1 Unnecessary all-talk
-Except when absolutely required to complete the match,
-under no circumstances will any participant communicate
-with spectators or opponents by any means whatsoever.
-
-This includes but IS NOT LIMITED TO: all-chat
-(messagemode1), all-talk (using in-game voice), steam chat,
-and participating in live chat-rooms (twitch.tv and others).
-
-#####7.2 Changing usernames
-In line with 7.1.1, any player who changes their username
-during a live match may, at the discretion of the staff, be
-sanctioned for unsportsmanlike conduct.
-
-#####7.3 Insufficient effort to win
+#####7.1 Insufficient effort to win
 Any competitor who, in the judgment of a staff member, has
 not committed their full effort to winning the match is
 guilty of unsportsmanlike conduct.
 
-#####7.4 Excessive pausing
+#####7.2 Excessive pausing
 Repeated or lengthy use of the pause function disrupts the normal flow of the
 match and frustrates the expectations of the spectators and other players.
 Therefore, extensive pausing is unsportsmanlike conduct if it is judged by
 staff to be excessive, regardless of the reason.
 
-#####7.5 Sound effects
+#####7.3 Sound effects
 Players may not use console commands or radial menus to trigger sound
 effects that taunt, harass, annoy, or confuse other players. This
 includes but IS NOT LIMITED to:
@@ -496,7 +477,7 @@ includes but IS NOT LIMITED to:
 * Triggered vocalizations or sound effects associated with director
   events (such as the rescue vehicle’s arrival, etc.)
 
-#####7.6 Sprays
+#####7.4 Sprays
 Players may not use sprays that imitate or resemble environmental
 objects, such as: weapons, other players, infected models, props, or any
 other recognizable game element.
@@ -505,16 +486,9 @@ Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
-#####7.7 Guilt by association
+#####7.5 Guilt by association
 An entire team may be held responsible for the
 unsportsmanlike conduct of any team member.
-
-All participants are urged to avoid joining teams that
-include players who are known for poor conduct. A team
-captain may voluntarily remove another player from the
-roster at any time and for any reason, especially
-unsportsmanlike conduct, to avoid collective punishment.
-
 
 <!-- EXLINKS -->
 [1]: https://github.com/rpdelaney/l4d2-tourney-rules
