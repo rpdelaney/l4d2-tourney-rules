@@ -80,7 +80,11 @@ Ties will be broken by the following criteria, descending :
 3. The team that most recently had more points. This is the cumulative
    tiebreak.
 
-######2.1.4 References
+######2.1.4 No-shows
+Any team that forfeits two consecutive matches may be automatically dropped
+from the tournament.
+
+######2.1.5 References
 For information on the Swiss System, you can review the following
 links:
 
@@ -143,6 +147,10 @@ located inside the continental United States.
 The server will have an up to date and working installation of the
 configuration and plugins. The version to be played will be posted with
 the pairings each round.
+
+#####4.2.1 Knife
+Servers that have been modified to include the Knife melee weapon are NOT
+ALLOWED.
 
 #####4.3 Web-cast support
 Servers will have enough slots for up to two casters, two cameramen, and
