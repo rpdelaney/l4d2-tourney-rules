@@ -77,7 +77,11 @@ Ties will be broken by the following criteria, descending :
 3. The team that most recently had more points. This is the cumulative
    tiebreak.
 
-######2.1.4 References
+######2.1.4 No-shows
+Any team that forfeits two consecutive matches may be automatically dropped
+from the tournament.
+
+######2.1.5 References
 For information on the Swiss System, you can review the following
 links:
 
