@@ -115,7 +115,7 @@ played in the first game of each match. The loser of the first game will pick
 the map for the second game. If a third game is necessary, the loser of the
 second game will pick the map for the third game.
 
-It is not allowed to choose a map that has already been played in the current match. 
+It is not allowed to choose a map that has already been played in the current match.
 
 The chosen maps must be in the map pool.
 
@@ -313,14 +313,19 @@ The minimum penalty will be equivalent to full map distance and health bonus at
 the time of the infraction.
 
 ######5.7.3 Spectate command
-Excepting Section 5.7.4, a player may use the `!spectate` command after the
-ready-up if, and only if they have unintentionally become stuck in a clip
-brush, or inside other map entity, or outside the map, and cannot move through
-the map or attack the survivors.
+It is illegal to use the `!spectate` command excessively or in a way that gains
+an unfair advantage.
 
-The minimum penalty for abuse of the spectate command will be a zero
-score for the round. The maximum penalty for repeated or severe
-infractions will be a forfeit loss of the match.
+Historically, accepted uses of the spectate command have been:
+
+* If the player has become stuck in an object or outside the map and cannot
+  move or attack the survivors
+* If a player-controlled SI is not being killed by the survivors in a
+  reasonable time (e.g. instead of killing a spitter, the survivors are m2ing
+  it for >10 seconds)
+
+If a player spectates in a way that staff judge to be abusive, a typical
+penalty will be a zero score for the round.
 
 ######5.7.4 "Stuck spots"
 It is illegal to exploit "stuck spots" by intentionally becoming stuck
