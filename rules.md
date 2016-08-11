@@ -121,7 +121,7 @@ The chosen maps must be in the map pool.
 
 #####2.3 Map pool
 - Hard Rain: Downpour
-- Detour Ahead VE (modified version forthcoming by Zeon and NF)
+- Detour Ahead
 - Dead Center
 - Death Toll
 - Hard Rain
