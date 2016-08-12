@@ -333,11 +333,15 @@ in a map entity. If a player-controlled special infected is teleported in this
 way, it must be killed via `!spectate`. If a tank is teleported, it must be
 slain via SourceMod or a vote-kick.
 
-######5.7.5 Death toll bridge
+######5.7.5 Death Toll bridge
 As survivor, it is illegal to cross the bridge on `c10m1_caves` without
 climbing a ladder.
 
-######5.7.6 Spawn glitches
+######5.7.6 Hard Rain elevator
+As survivor, it is illegal to skip the elevator holdout event by jumping on
+common infected.
+
+######5.7.7 Spawn glitches
 As infected, it is illegal to clip through a brush or other obstruction by
 spawning while passing through it in "ghost mode".
 
