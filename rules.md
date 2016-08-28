@@ -120,14 +120,7 @@ It is not allowed to choose a map that has already been played in the current ma
 The chosen maps must be in the map pool.
 
 #####2.3 Map pool
-- Hard Rain: Downpour
-- Detour Ahead
-- Dead Center
-- Death Toll
-- Hard Rain
-- Swamp Fever
-- Dark Carnival
-- The Parish
+There will be a custom map rotation posted every week.
 
 ######2.4 Finales
 All finales will be played, including The Parish finale.
@@ -169,8 +162,8 @@ Servers will have enough slots for up to two casters, two cameramen, and
 an administrator. Support for the `spechud` addon is highly desirable.
 
 #####4.4 Tickrate
-Servers with 60 tickrate will be preferred, unless both teams agree to
-another tickrate.
+Servers with tickrate greater than or equal to 60 will be preferred, unless
+both teams agree to another tickrate.
 
 #####4.5 DOS protection
 Servers with [DoS Protection][6] are preferred.
