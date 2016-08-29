@@ -147,9 +147,6 @@ Game servers will be selected according to the following criteria:
 #####4.1 Hosting
 The server must be dedicated and hosted by a reputable hosting company.
 
-If either team is in the North American region, then the server will be
-located inside the continental United States.
-
 #####4.2 Configuration
 The server will have an up to date and working installation of the
 configuration and plugins. The version to be played will be posted with
@@ -169,15 +166,6 @@ both teams agree to another tickrate.
 
 #####4.5 DOS protection
 Servers with [DoS Protection][6] are preferred.
-
-#####4.6 Disagreements
-If both teams have a server but cannot agree on which server to use, the
-match will be played on the server that satisfies the above criteria and
-has most even average ping for all the players.
-
-For example: a match between a US team and an EU team would be played on a
-server located along the eastern seaboard of the United States (New York / New
-Jersey).
 
 ##Section 5: Match schedule
 
