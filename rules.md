@@ -17,12 +17,14 @@ All other trademarks are property of their respective owners.
 
 #####1.1 Staff
 
-The Tournament Director will be:
-
-The Assistant Tournament Director(s) will be:
+The Tournament Directors will be:
+* an entire sleeve of fig newtons: https://steamcommunity.com/id/fignewtons
+* alpha madre: https://steamcommunity.com/id/Alpha_Madre/
+* Rails Barlow: https://steamcommunity.com/id/railsbarlow/
+* Prodigy: https://steamcommunity.com/id/prodigyzombie/
 
 #####1.2 Disputes
-The Tournament Director is the sole arbiter and court of last resort for
+The Tournament Directors are the sole arbiter and court of last resort for
 all disputes. Their decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
