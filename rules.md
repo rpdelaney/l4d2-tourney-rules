@@ -123,13 +123,13 @@ The chosen maps must be in the map pool.
 
 #####2.3 Map pool
 - Dark Carnival
-- The Passifice
 - Death Toll
-- Dead Center
 - Detour Ahead
+- The Passifice
+- Dead Center
 - Swamp Fever
-- Hard Rain: Downpour
 - The Parish
+- Hard Rain: Downpour
 
 ######2.4 Finales
 All finales will be played, including The Parish finale.
