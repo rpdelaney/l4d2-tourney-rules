@@ -122,7 +122,14 @@ It is not allowed to choose a map that has already been played in the current ma
 The chosen maps must be in the map pool.
 
 #####2.3 Map pool
-There will be a custom map rotation posted every week.
+- Dark Carnival
+- The Passifice
+- Death Toll
+- Dead Center
+- Detour Ahead
+- Swamp Fever
+- Hard Rain: Downpour
+- The Parish
 
 ######2.4 Finales
 All finales will be played, including The Parish finale.
