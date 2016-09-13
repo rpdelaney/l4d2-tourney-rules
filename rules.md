@@ -130,10 +130,10 @@ All finales will be played, including The Parish finale.
 ##Section 3: Registration process
 
 #####3.1 Registration
-Teams may register by [TBD].
+Teams may register by posting in the thread.[8]
 
 #####3.2 Deadline
-The deadline for registrations is [TBD]. Late registrations will not be
+The deadline for registrations is 2016-09-18. Late registrations will not be
 accepted.
 
 #####3.3 Double registration
@@ -496,6 +496,7 @@ unsportsmanlike conduct of any team member.
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [6]: https://github.com/SirPlease/IPTables
 [7]: http://doodle.com
+[8]: https://www.l4dnation.com/rbt-summer-tournament/hot-mess-tournament-2016-official-signup-thread/
 
 <!--
 vim: filetype=markdown spelllang=en_US
