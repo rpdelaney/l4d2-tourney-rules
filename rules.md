@@ -454,7 +454,7 @@ memory in a method for affecting gameplay, or that provide information
 about the game state to the player, or that simulate mouse movement
 (aiming) while the game is running are forbidden.
 
-#####6.4 Netcode toggling
+######6.4 Netcode toggling
 After the ready-up for the first half of each map, changing the following cvars
 is forbidden until both halves of the round are complete:
 
