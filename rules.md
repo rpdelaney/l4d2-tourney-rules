@@ -107,20 +107,6 @@ Once the first section is completed, [TBD] teams will move
 on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
 
-Quarter-final matches will be determined by a single game.
-Semi-final and grand-final matches will be best of three
-("bo3") games.
-
-######2.2.1 Map selection
-A map will be published for each round of the playoffs. That will be the map
-played in the first game of each match. The loser of the first game will pick
-the map for the second game. If a third game is necessary, the loser of the
-second game will pick the map for the third game.
-
-It is not allowed to choose a map that has already been played in the current match.
-
-The chosen maps must be in the map pool.
-
 #####2.3 Map pool
 - Dark Carnival
 - Death Toll
