@@ -28,13 +28,13 @@ The Tournament Directors are the sole arbiter and court of last resort for
 all disputes. Their decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
-The tournament directors reserve the right to impose any sanction on any
+The Tournament Directors reserve the right to impose any sanction on any
 competitor or individual player at their sole discretion as circumstances may
 warrant.
 
 #####1.4 Conflicts of interest
 Staff may participate in the tournament. Where there may be an
-appearance of a conflict of interest, a tournament director will yield
+appearance of a conflict of interest, a Tournament Director will yield
 to a counterpart if possible.
 
 #####1.5 Official communication
@@ -49,7 +49,7 @@ rounds. A match win will score 1 point; a tie scores a half
 point; a loss or forfeit scores 0 points.
 
 After the registration deadline, the registered participants will be
-seeded according to the judgment of the tournament director. The first
+seeded according to the judgment of the Tournament Director. The first
 round will then be paired by a "top half vs bottom half" method. For
 example, if there are 10 participants, then the #1 seed will be paired
 against the #6 seed, the #2 seed against the #7 seed, and so on.
@@ -239,7 +239,7 @@ regardless of consent from either team.
 ######5.6.1 Demos are mandatory
 Each participant is required to record and save demos of their match
 play. All demos must be stored until the end of the tournament, and
-must be submitted promptly to a tournament director on request.
+must be submitted promptly to a Tournament Director on request.
 
 To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
@@ -341,12 +341,12 @@ the circumstances.
 
 ##Section 6: Addons and configuration
 The following guidelines will assist the competitors in understanding
-the intentions of the tournament directors. However, the tournament
+the intentions of the Tournament Directors. However, the tournament
 directors may choose to impose sanctions for any addons or modifications
 at their sole and arbitrary discretion (per Section 1.3).
 
 All players are strongly urged to discuss modifications with the
-tournament directors to ensure they are fully in compliance with the
+Tournament Directors to ensure they are fully in compliance with the
 rules before making any changes. The best way to avoid the severe
 penalties associated with bending or breaking these rules is to play
 with a stock configuration.
@@ -414,7 +414,7 @@ include: "Tier 2" weapons, chainsaw, M60, grenades, etc) is allowed.
 Aside from the above, no modifications to game files or materials, nor
 use of third-party software and applications that affect gameplay will
 be allowed, without the public, prior, and written authorization of the
-tournament director(s). This includes but IS NOT LIMITED to:
+Tournament Director(s). This includes but IS NOT LIMITED to:
 
 ######6.3.1 Visual elements
 Any changes whatsoever to the stock survivor or infected models, map
