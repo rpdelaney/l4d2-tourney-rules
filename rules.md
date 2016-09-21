@@ -123,7 +123,7 @@ All finales will be played, including The Parish finale.
 ##Section 3: Registration process
 
 #####3.1 Registration
-Teams may register by posting in the [thread][8].
+Teams may register by posting in the [thread][[8]].
 
 #####3.2 Deadline
 The deadline for registrations is 2016-09-18 (midnight Pacific Time). Late
