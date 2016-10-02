@@ -134,6 +134,12 @@ A player may be registered for only one team in the tournament. A player
 who drops from a roster may not re-join with another team after the
 registration deadline.
 
+#####3.4 Eligibility
+Any player who is *permanently* banned from the Hot Mess group[[10]], mumble, or
+servers is ineligible to play in the tournament.
+
+Hot Mess bans can be disputed by following the ban protest process here.[[9]]
+
 ##Section 4: Servers
 Game servers will be selected according to the following criteria:
 
@@ -490,7 +496,8 @@ unsportsmanlike conduct of any team member.
 [6]: https://github.com/SirPlease/IPTables
 [7]: http://doodle.com
 [8]: https://www.l4dnation.com/rbt-summer-tournament/hot-mess-tournament-2016-official-signup-thread/
-
+[9]: http://teamstk.com/sourcebans/index.php?p=protest
+[10]: http://steamcommunity.com/gid/103582791440322446
 <!--
 vim: filetype=markdown spelllang=en_US
 -->
