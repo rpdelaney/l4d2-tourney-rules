@@ -505,6 +505,10 @@ racist logos, or “shock” images.
 An entire team may be held responsible for the
 unsportsmanlike conduct of any team member.
 
+#####7.6 Respect the server hosts
+Tournament competitors will not break server rules at any time when they are
+using someone else's server.
+
 <!-- EXLINKS -->
 [1]: https://github.com/rpdelaney/l4d2-tourney-rules
 [2]: http://www.swissperfect.com/tiebreak.htm#buchholz
