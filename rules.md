@@ -197,9 +197,9 @@ email, Steam instant messenger, or the Steam Community.
 ######5.1.4 How to schedule a match
 A match schedule consists of three elements:
 
-# The date and time, with the time zones, when the match will begin
-# The number of games that will be played in the match
-# The server(s) on which the games will be played
+* The date and time, with the time zones, when the match will begin
+* The number of games that will be played in the match
+* The server(s) on which the games will be played
 
 Each team must agree on all three points, or the match scheduling is
 incomplete.
