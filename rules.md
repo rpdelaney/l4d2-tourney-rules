@@ -254,6 +254,17 @@ regardless of consent from the opponent.
 No ringers whatsoever will be allowed in the playoff phase of the tournament,
 regardless of consent from either team.
 
+######5.6 Home/Away substitutions
+In the second match of a home/away series between Team A and Team B, if Team A
+attempts to make a player substitution between games, Team B has the right to
+challenge the player substitution by Team A by asking for the tournament
+administrators to evaluate the substitution in reference to fair play.
+
+If the tournament administrators decide that the substitution is fair, then the
+substitution can be used. If the tournament administrators reject it, then Team
+A must use the same four players they used for the first game of the series for
+the second game.
+
 #####5.6 Demos and screenshots
 
 ######5.6.1 Demos are mandatory
