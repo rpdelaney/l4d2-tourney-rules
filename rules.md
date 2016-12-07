@@ -17,9 +17,7 @@ All other trademarks are property of their respective owners.
 
 #####1.1 Staff
 
-The Tournament Director will be:
-
-The Assistant Tournament Director(s) will be:
+The Tournament Director will be: Bravo https://steamcommunity.com/profiles/76561197970711112
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
@@ -39,87 +37,9 @@ to a counterpart if possible.
 Official communication will take place via the forum on L4Dnation.com.
 
 ##Section 2: Tournament Format
-The tournament will consist of two sections.
+The tournament will consist of one double-elimination knockout bracket.
 
-#####2.1 Swiss section
-The first section will be a Swiss System tournament of [TBD]
-rounds. A match win will score 1 point; a tie scores a half
-point; a loss or forfeit scores 0 points.
-
-After the registration deadline, the registered participants will be
-seeded according to the judgment of the Tournament Director. The first
-round will then be paired by a "top half vs bottom half" method. For
-example, if there are 10 participants, then the #1 seed will be paired
-against the #6 seed, the #2 seed against the #7 seed, and so on.
-
-In subsequent rounds, participants will be paired at random against
-others with the same record of Won : Lost games.
-
-There will be no eliminations due to poor results or lost games.
-
-######2.1.1 Double Jeopardy
-Under no circumstances will two competitors face each other more than
-once during the Swiss section.
-
-######2.1.2 Byes
-In the event that a round must be paired with an uneven number of
-participants, a bye will be awarded to the lowest ranked participant in
-the lowest score group. A bye scores a full point.
-
-######2.1.3 Tiebreakers
-Ties will be broken by the following criteria, descending :
-
-1. The sum of conventional scores of the teams each participant has played,
-   excluding the lowest and highest (higher is better). This is the
-   [Median-Buchholz tiebreak][2], also known as "Modified Median".
-2. The sum of conventional scores of the teams each participant has played.
-   This is the Sonnenborn-Berger tiebreak.
-3. The team that most recently had more points. This is the cumulative
-   tiebreak.
-
-######2.1.4 No-shows
-Any team that forfeits two consecutive matches may be automatically dropped
-from the tournament.
-
-######2.1.5 References
-For information on the Swiss System, you can review the following
-links:
-
-* [Wikipedia][3]
-* [World Chess Federation][4]
-* [Wizards of the Coast][5]
-
-If you have any further questions about the Swiss System, contact a
-Tournament Director or the author.
-
-######2.1.5 Deadlines
-Because swiss pairings are based on prior round scoring, the next round
-cannot be paired until all the results of the previous round have been
-reported.
-
-Therefore, there will be a ZERO TOLERANCE policy for matches that
-remain unreported past the round deadline.
-
-#####2.2 Playoffs
-Once the first section is completed, [TBD] teams will move
-on to the playoffs. The playoffs section will be a
-single-elimination knockout tournament.
-
-Quarter-final matches will be determined by a single game.
-Semi-final and grand-final matches will be best of three
-("bo3") games.
-
-######2.2.1 Map selection
-A map will be published for each round of the playoffs. That will be the map
-played in the first game of each match. The loser of the first game will pick
-the map for the second game. If a third game is necessary, the loser of the
-second game will pick the map for the third game.
-
-It is not allowed to choose a map that has already been played in the current match.
-
-The chosen maps must be in the map pool.
-
-#####2.3 Map pool
+#####2.1 Map pool
 - Hard Rain: Downpour
 - Detour Ahead
 - Dead Center
@@ -129,7 +49,7 @@ The chosen maps must be in the map pool.
 - Dark Carnival
 - The Parish
 
-######2.4 Finales
+######2.2 Finales
 All finales will be played, including The Parish finale.
 
 ##Section 3: Registration process
