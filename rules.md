@@ -72,10 +72,9 @@ Ties will be broken by the following criteria, descending :
 1. The sum of conventional scores of the teams each participant has played,
    excluding the lowest and highest (higher is better). This is the
    [Median-Buchholz tiebreak][2], also known as "Modified Median".
-2. The sum of conventional scores of the teams each participant has played.
-   This is the Sonnenborn-Berger tiebreak.
-3. The team that most recently had more points. This is the cumulative
-   tiebreak.
+2. Should players be tied by score and tie-break score, they are sorted based
+   on their records relative to one another.
+3. Seed breaks up any remaining ties.
 
 ###### 2.1.4 No-shows
 Any team that forfeits two consecutive matches may be automatically dropped
