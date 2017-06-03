@@ -159,10 +159,6 @@ The server will have an up to date and working installation of the
 configuration and plugins. The version to be played will be posted with
 the pairings each round.
 
-##### 4.2.1 Knife
-Servers that have been modified to include the Knife melee weapon are NOT
-ALLOWED.
-
 ##### 4.3 Web-cast support
 Servers will have enough slots for up to two casters, two cameramen, and
 an administrator. Support for the `spechud` addon is highly desirable.
