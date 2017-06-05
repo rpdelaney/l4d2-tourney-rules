@@ -169,6 +169,12 @@ It is not acceptable to choose a home server on the basis that it would provide
 poor latency for the opposing team. Attempts at gamesmanship in server choice
 will be dealt with by the staff.
 
+##### 4.3 Exceptions
+
+###### 4.3.1 Russia vs EU
+In the event of a match between a Russian and European team, the match will be a
+single game played on a neutral server in Germany.
+
 ## Section 5: Match schedule
 
 ##### 5.1 Rounds and scheduling
