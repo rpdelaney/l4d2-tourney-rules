@@ -178,7 +178,7 @@ The home server will be a server that satisfies the above criteria and
 provides the best average ping for the members of their team.
 
 ###### 4.2.2 Gamesmanship is not tolerated
-It is not acceptable to choose a home server on the basis that it would provide 
+It is not acceptable to choose a home server on the basis that it would provide
 poor latency for the opposing team. Attempts at gamesmanship in server choice
 will be dealt with by the staff.
 
