@@ -21,6 +21,7 @@ The Tournament Director will be:
 * an entire sleeve of fig newtons ([profile](https://steamcommunity.com/id/fignewtons/))
 
 The Assistant Tournament Director(s) will be:
+* [TBD]
 
 ##### 1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
