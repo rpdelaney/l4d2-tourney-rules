@@ -115,7 +115,7 @@ single-elimination knockout tournament.
 - Dark Carnival
 - The Parish
 
-###### 2.4 Finales
+##### 2.4 Finales
 All finales will be played, including The Parish finale.
 
 ## Section 3: Registration process
