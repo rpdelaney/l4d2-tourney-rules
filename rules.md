@@ -146,38 +146,41 @@ who drops from a roster may not re-join with another team after the
 registration deadline.
 
 ## Section 4: Servers
+
+##### 4.1 Acceptable servers
 Game servers will be selected according to the following criteria:
 
-##### 4.1 Hosting
+###### 4.1.1 Hosting
 The server must be dedicated and hosted by a reputable hosting company.
 
-If either team is in the North American region, then the server will be
-located inside the continental United States.
-
-##### 4.2 Configuration
+###### 4.1.2 Configuration
 The server will have an up to date and working installation of the
 configuration and plugins. The version to be played will be posted with
 the pairings each round.
 
-##### 4.3 Web-cast support
+###### 4.1.3 Web-cast support
 Servers will have enough slots for up to two casters, two cameramen, and
 an administrator. Support for the `spechud` addon is highly desirable.
 
-##### 4.4 Tickrate
+###### 4.1.4 Tickrate
 Servers with tickrate greater than or equal to 60 will be preferred, unless
 both teams agree to another tickrate.
 
-##### 4.5 DOS protection
+###### 4.1.5 DOS protection
 Servers with [DoS Protection][6] are preferred.
 
-##### 4.6 Disagreements
-If both teams have a server but cannot agree on which server to use, the
-match will be played on the server that satisfies the above criteria and
-has most even average ping for all the players.
+##### 4.2 Home servers
+Each team will include a home server with their registration. This will be
+their home server for home/away matches.
 
-For example: a match between a US team and an EU team would be played on a
-server located along the eastern seaboard of the United States (New York / New
-Jersey).
+###### 4.2.1 Home server selection
+The home server will be a server that satisfies the above criteria and
+provides the best average ping for the members of their team.
+
+###### 4.2.2 Gamesmanship is not tolerated
+It is not acceptable to choose a home server on the basis that it would provide 
+poor latency for the opposing team. Attempts at gamesmanship in server choice
+will be dealt with by the staff.
 
 ## Section 5: Match schedule
 
