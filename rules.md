@@ -18,6 +18,7 @@ All other trademarks are property of their respective owners.
 ##### 1.1 Staff
 
 The Tournament Director will be:
+* an entire sleeve of fig newtons [profile](https://steamcommunity.com/id/fignewtons/)
 
 The Assistant Tournament Director(s) will be:
 
