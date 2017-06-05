@@ -142,8 +142,7 @@ The server must be dedicated and hosted by a reputable hosting company.
 
 ###### 4.1.2 Configuration
 The server will have an up to date and working installation of the
-configuration and plugins. The version to be played will be posted with
-the pairings each round.
+configuration and plugins.
 
 ###### 4.1.3 Web-cast support
 Servers will have enough slots for up to two casters, two cameramen, and
