@@ -125,8 +125,8 @@ All finales will be played, including The Parish finale.
 Teams may register by [TBD].
 
 ##### 3.2 Deadline
-The deadline for registrations is [TBD]. Late registrations will not be
-accepted.
+The deadline for registrations is Friday, June 23rd, 2017 at midnight Pacific
+Time. Late registrations will not be accepted.
 
 ##### 3.3 Double registration
 A player may be registered for only one team in the tournament. A player
