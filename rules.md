@@ -134,6 +134,10 @@ A player may be registered for only one team in the tournament. A player
 who drops from a roster may not re-join with another team after the
 registration deadline.
 
+##### 3.4 Banned players
+Players who are banned from the Hot Mess community may not play in the
+tournament, neither as a registered participant nor as a ringer.
+
 ## Section 4: Servers
 
 ##### 4.1 Acceptable servers
