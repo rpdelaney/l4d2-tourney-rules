@@ -22,6 +22,7 @@ The Tournament Director will be:
 
 The Assistant Tournament Director(s) will be:
 * Rails Barlow ([profile](https://steamcommunity.com/id/railsbarlow/))
+* jαγ ([profile](https://steamcommunity.com/profiles/76561198004670209))
 
 ##### 1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
