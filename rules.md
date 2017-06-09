@@ -107,14 +107,14 @@ on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
 
 ##### 2.3 Map pool
-- Hard Rain: Downpour
-- Detour Ahead
-- Diescraper Redeux
-- Dead Center
-- Death Toll
-- Hard Rain
 - Dark Carnival
+- Death Toll
+- Detour Ahead
+- Hard Rain
+- Dead Center
+- Diescraper Redeux
 - The Parish
+- Hard Rain: Downpour
 
 ##### 2.4 Finales
 All finales will be played, including The Parish finale.
