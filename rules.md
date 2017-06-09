@@ -109,10 +109,10 @@ single-elimination knockout tournament.
 ##### 2.3 Map pool
 - Hard Rain: Downpour
 - Detour Ahead
+- Diescraper Redeux
 - Dead Center
 - Death Toll
 - Hard Rain
-- Swamp Fever
 - Dark Carnival
 - The Parish
 
