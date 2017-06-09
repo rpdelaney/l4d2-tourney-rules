@@ -94,8 +94,8 @@ links:
 If you have any further questions about the Swiss System, contact a
 Tournament Director or the author.
 
-###### 2.1.5 Deadlines
-Because Swiss pairings are based on prior round scoring, the next round
+###### 2.1.6 Deadlines
+Because swiss pairings are based on prior round scoring, the next round
 cannot be paired until all the results of the previous round have been
 reported.
 
