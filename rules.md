@@ -162,11 +162,9 @@ both teams agree to another tickrate.
 Servers with [DoS Protection][6] are preferred.
 
 ##### 4.2 Home servers
-Each team will include a home server with their registration. This will be
-their home server for home/away matches.
 
 ###### 4.2.1 Home server selection
-The home server will be a server that satisfies the above criteria and
+Each team's home server will be a server that satisfies the above criteria and
 provides the best average ping for the members of their team.
 
 ###### 4.2.2 Gamesmanship is not tolerated
