@@ -123,7 +123,7 @@ All finales will be played, including The Parish finale.
 ## Section 3: Registration process
 
 ##### 3.1 Registration
-Teams may register by [TBD].
+Teams may register by visiting the [eFPS tournament site](https://www.everythingfps.com/tournament.php?id=68).
 
 ##### 3.2 Deadline
 The deadline for registrations is Friday, June 23rd, 2017 at midnight Pacific
