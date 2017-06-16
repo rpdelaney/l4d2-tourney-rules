@@ -306,8 +306,7 @@ possible suspension of the player from the tournament.
 
 ###### 5.7.1 AI pathing exploits
 It is illegal to intentionally exploit AI pathing by moving to an area that
-causes NPC infected to stop attacking. However, it is permitted to exploit
-witch pathing in a way that causes her to climb over obstacles repeatedly.
+causes NPC infected to stop attacking. 
 
 A typical penalty for intentionally exploiting AI pathing will be a
 zero score for the round.
