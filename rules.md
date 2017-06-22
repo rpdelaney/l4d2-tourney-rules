@@ -330,6 +330,8 @@ Historically, accepted uses of the spectate command have been:
 * If a player-controlled SI is not being killed by the survivors in a
   reasonable time (e.g. instead of killing a spitter, the survivors are m2ing
   it for >10 seconds)
+* If the server crashed at some point during the match and it is necessary to
+  spectate in order to ensure a proper tank rotation
 
 If a player spectates in a way that staff judge to be abusive, a typical
 penalty will be a zero score for the round.
