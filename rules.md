@@ -356,6 +356,10 @@ spawning while passing through it in "ghost mode".
 
 The minimum penalty will be a match loss by forfeit.
 
+###### 5.7.8 Attacking from outside the map
+As infected, it is illegal to attack the survivors in any way from outside the
+map.
+
 ##### 5.8 Glitches
 
 ###### 5.8.1 Rescue vehicles
