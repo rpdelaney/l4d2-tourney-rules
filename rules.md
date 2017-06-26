@@ -112,7 +112,6 @@ single-elimination knockout tournament.
 - Death Toll
 - Detour Ahead
 - Hard Rain
-- Dead Center
 - Diescraper Redeux
 - The Parish
 - Hard Rain: Downpour
