@@ -202,9 +202,10 @@ midnight. Failure to report weekly round results before the deadline
 will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
-To report match results, [TBD]. Include a screenshot of the
-final scores. Results will not be accepted via email, Steam instant
-messenger, or the Steam Community.
+To report match results, view the [bracket on the efps
+site](https://www.everythingfps.com/bracket.php?id=68). Include a screenshot of
+the final scores. Results will not be accepted via email, Steam instant
+messenger, the Steam Community, or the l4dnation forums.
 
 ###### 5.1.4 How to schedule a match
 A match schedule consists of three elements:
