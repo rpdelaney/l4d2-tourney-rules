@@ -55,7 +55,8 @@ against the #6 seed, the #2 seed against the #7 seed, and so on.
 In subsequent rounds, participants will be paired at random against
 others with the same record of Won : Lost games.
 
-There will be no eliminations due to poor results or lost games.
+There will be no eliminations from the Swiss section due to poor results or
+lost games.
 
 ###### 2.1.1 Double Jeopardy
 Under no circumstances will two competitors face each other more than
