@@ -178,6 +178,10 @@ will be dealt with by the staff.
 In the event of a match between a Russian and European team, the match will be a
 single game played on a neutral server in Germany.
 
+##### 4.4 Disputes
+If there is a disagreement about which team will play their home game first, the
+higher seeded team will have their choice.
+
 ## Section 5: Match schedule
 
 ##### 5.1 Rounds and scheduling
