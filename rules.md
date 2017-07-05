@@ -333,7 +333,7 @@ an unfair advantage.
 
 Historically, accepted uses of the spectate command have been:
 
-* If the player has become stuck in an object or outside the map and cannot
+* If the player is out of bounds or has become stuck in an object and cannot
   move or attack the survivors
 * If a player-controlled SI is not being killed by the survivors in a
   reasonable time (e.g. instead of killing a spitter, the survivors are m2ing
@@ -364,9 +364,9 @@ spawning while passing through it in "ghost mode".
 
 The minimum penalty will be a match loss by forfeit.
 
-###### 5.7.8 Attacking from outside the map
-As infected, it is illegal to attack the survivors in any way from outside the
-map.
+###### 5.7.8 Attacking from out of bounds
+As infected, it is illegal to attack the survivors in any way from out of the
+normal map bounds.
 
 ##### 5.8 Glitches
 
