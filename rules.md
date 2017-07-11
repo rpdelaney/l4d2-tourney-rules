@@ -70,13 +70,9 @@ the lowest score group. A bye scores a full point.
 ###### 2.1.3 Tiebreakers
 Ties will be broken by the following criteria, descending :
 
-1. The sum of conventional scores of the teams each participant has played,
-   excluding the lowest and highest (higher is better). This is the
-   [Median-Buchholz tiebreak][2], also known as "Modified Median".
-2. The sum of conventional scores of the teams each participant has played.
-   This is the Sonnenborn-Berger tiebreak.
-3. The team that most recently had more points. This is the cumulative
-   tiebreak.
+1. [TBD]
+2. [TBD]
+3. [TBD]
 
 ###### 2.1.4 No-shows
 Any team that forfeits two consecutive matches may be automatically dropped
