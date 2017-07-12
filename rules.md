@@ -17,9 +17,9 @@ All other trademarks are property of their respective owners.
 
 ##### 1.1 Staff
 
-The Tournament Director will be:
+The Tournament Director will be: [TBD]
 
-The Assistant Tournament Director(s) will be:
+The Assistant Tournament Director(s) will be: [TBD]
 
 ##### 1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
