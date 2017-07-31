@@ -230,10 +230,6 @@ Each team has 15 minutes after the scheduled time to have 4 players in
 the server and readied up. The standard penalty for failure will be a
 forfeit loss of the match.
 
-Each team is permitted one (1) 10-minute break per match, and only
-between rounds. Extra breaks require the consent of both the other
-team, and the administrators or commentators.
-
 ##### 5.3 Casting
 The competitors agree that the matches may be casted according to the usual
 process.
