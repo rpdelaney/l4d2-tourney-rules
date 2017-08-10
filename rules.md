@@ -158,14 +158,18 @@ both teams agree to another tickrate.
 ##### 4.5 DOS protection
 Servers with [DoS Protection][6] are preferred.
 
-##### 4.6 Disagreements
-If both teams have a server but cannot agree on which server to use, the
-match will be played on the server that satisfies the above criteria and
-has most even average ping for all the players.
+##### 4.6 Home servers
+If the tournament has been designated as international (a.k.a. "Home/Away"),
+the following rules apply:
 
-For example: a match between a US team and an EU team would be played on a
-server located along the eastern seaboard of the United States (New York / New
-Jersey).
+###### 4.6.1 Home server selection
+Each team's home server will be a server that satisfies the above criteria and
+provides the best average ping for the members of their team.
+
+###### 4.6.2 Gamesmanship is not tolerated
+It is not acceptable to choose a home server on the basis that it would provide
+poor latency for the opposing team. Attempts at gamesmanship in server choice
+will be dealt with by the staff.
 
 ## Section 5: Match schedule
 
