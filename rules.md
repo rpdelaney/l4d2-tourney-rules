@@ -18,11 +18,10 @@ All other trademarks are property of their respective owners.
 ##### 1.1 Staff
 
 The Tournament Director will be:
-* an entire sleeve of fig newtons ([profile](https://steamcommunity.com/id/fignewtons/))
+* jαγ ([profile](https://steamcommunity.com/profiles/76561198004670209))
 
 The Assistant Tournament Director(s) will be:
-* Rails Barlow ([profile](https://steamcommunity.com/id/railsbarlow/))
-* jαγ ([profile](https://steamcommunity.com/profiles/76561198004670209))
+* TBD
 
 ##### 1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
@@ -123,7 +122,7 @@ All finales will be played, including The Parish finale.
 ## Section 3: Registration process
 
 ##### 3.1 Registration
-Teams may register by visiting the [eFPS tournament site](https://www.everythingfps.com/tournament.php?id=68).
+Teams may register by visiting the [eFPS tournament site](https://TBD).
 
 ##### 3.2 Deadline
 The deadline for registrations is Friday, June 23rd, 2017 at midnight Pacific
@@ -207,7 +206,7 @@ will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
 To report match results, view the [bracket on the efps
-site](https://www.everythingfps.com/bracket.php?id=68). Include a screenshot of
+site](https://TBD). Include a screenshot of
 the final scores. Results will not be accepted via email, Steam instant
 messenger, the Steam Community, or the l4dnation forums.
 
