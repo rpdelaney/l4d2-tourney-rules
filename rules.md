@@ -17,9 +17,14 @@ All other trademarks are property of their respective owners.
 
 ##### 1.1 Staff
 
-The Tournament Director will be: [TBD]
+The Tournament Director will be:
 
-The Assistant Tournament Director(s) will be: [TBD]
+* an entire sleeve of fig newtons (http://steamcommunity.com/id/fignewtons/)
+
+The Assistant Tournament Director(s) will be:
+
+* jay (http://steamcommunity.com/id/panoptic/)
+* Sir (http://steamcommunity.com/id/SirPlease/)
 
 ##### 1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
@@ -70,9 +75,12 @@ the lowest score group. A bye scores a full point.
 ###### 2.1.3 Tiebreakers
 Ties will be broken by the following criteria, descending :
 
-1. [TBD]
-2. [TBD]
-3. [TBD]
+1. The sum of conventional scores of the teams each participant has played,
+   excluding the lowest and highest (higher is better). This is the
+   [Median-Buchholz tiebreak][2], also known as "Modified Median".
+2. Should players be tied by score and tie-break score, they are sorted based
+   on their records relative to one another.
+3. Seed breaks up any remaining ties.
 
 ###### 2.1.4 No-shows
 Any team that forfeits two consecutive matches may be automatically dropped
