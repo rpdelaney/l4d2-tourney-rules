@@ -125,7 +125,7 @@ All finales will be played, including The Parish finale.
 ## Section 3: Registration process
 
 ##### 3.1 Registration
-Teams may register by visiting the tournament page on the efps site[8].
+Teams may register by visiting the tournament page on the efps site[[8]].
 
 ##### 3.2 Deadline
 The deadline for registrations is January 12, 2018, at midnight Pacific Time.
