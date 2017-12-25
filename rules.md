@@ -115,14 +115,13 @@ Semi-final and grand-final matches will be best of three
 ("bo3") games.
 
 ##### 2.3 Map pool
-- Hard Rain: Downpour
-- Detour Ahead
-- Dead Center
-- Death Toll
-- Hard Rain
-- Swamp Fever
 - Dark Carnival
+- Death Toll
+- Carried Off
+- Diescraper Redeux
+- Dead Center
 - The Parish
+- Hard Rain: Downpour
 
 ###### 2.4 Finales
 All finales will be played, including The Parish finale.
