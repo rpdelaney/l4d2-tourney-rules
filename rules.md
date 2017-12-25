@@ -110,10 +110,6 @@ Once the first section is completed, [TBD] teams will move
 on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
 
-Quarter-final matches will be determined by a single game.
-Semi-final and grand-final matches will be best of three
-("bo3") games.
-
 ##### 2.3 Map pool
 - Dark Carnival
 - Death Toll
@@ -129,7 +125,7 @@ All finales will be played, including The Parish finale.
 ## Section 3: Registration process
 
 ##### 3.1 Registration
-Teams may register by [TBD].
+Teams may register by visiting the tournament page on the efps site[8].
 
 ##### 3.2 Deadline
 The deadline for registrations is [TBD]. Late registrations will not be
@@ -527,6 +523,7 @@ using someone else's server.
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [6]: https://github.com/SirPlease/IPTables
 [7]: http://doodle.com
+[8]: https://www.everythingfps.com/tournament.php?id=90
 
 <!--
 vim: filetype=markdown spelllang=en_US
