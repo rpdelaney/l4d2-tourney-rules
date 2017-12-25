@@ -198,9 +198,9 @@ midnight. Failure to report weekly round results before the deadline
 will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
-To report match results, [TBD]. Include a screenshot of the
-final scores. Results will not be accepted via email, Steam instant
-messenger, or the Steam Community.
+To report match results, visit the tournament page on the efps site[8]. Include
+a screenshot of the final scores. Results will not be accepted via email, Steam
+instant messenger, or the Steam Community.
 
 ###### 5.1.4 How to schedule a match
 A match schedule consists of three elements:
