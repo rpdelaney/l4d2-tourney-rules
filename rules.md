@@ -127,6 +127,10 @@ All finales will be played, including The Parish finale.
 ##### 3.1 Registration
 Teams may register by visiting the tournament page on the efps site[[8]].
 
+Players who are permanently banned from the SirPlease servers may not play
+in the tournament. To verify that a player you intend to register on your team
+is not banned, visit the SirPlease sourcebans page[[9]].
+
 ##### 3.2 Deadline
 The deadline for registrations is January 12, 2018, at midnight Pacific Time.
 Late registrations will not be accepted.
@@ -521,6 +525,7 @@ using someone else's server.
 [6]: https://github.com/SirPlease/IPTables
 [7]: http://doodle.com
 [8]: https://www.everythingfps.com/tournament.php?id=90
+[9]: http://www.sourcebans.sirplease.gg/
 
 <!--
 vim: filetype=markdown spelllang=en_US
