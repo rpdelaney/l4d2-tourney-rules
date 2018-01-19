@@ -106,7 +106,7 @@ Therefore, there will be a ZERO TOLERANCE policy for matches that
 remain unreported past the round deadline.
 
 ##### 2.2 Playoffs
-Once the first section is completed, 6 teams will move
+Once the first section is completed, 4 teams will move
 on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
 
@@ -114,7 +114,6 @@ single-elimination knockout tournament.
 - Dark Carnival
 - Death Toll
 - Carried Off
-- Diescraper Redeux
 - Dead Center
 - The Parish
 - Hard Rain: Downpour
