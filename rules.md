@@ -102,10 +102,6 @@ Once the first section is completed, [TBD] teams will move
 on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
 
-Quarter-final matches will be determined by a single game.
-Semi-final and grand-final matches will be best of three
-("bo3") games.
-
 ##### 2.3 Map pool
 - Hard Rain: Downpour
 - Detour Ahead
