@@ -103,15 +103,7 @@ on to the playoffs. The playoffs section will be a
 single-elimination knockout tournament.
 
 ##### 2.3 Map pool
-- Hard Rain: Downpour
-- Detour Ahead
-- Dead Center
-- Death Toll
-- Hard Rain
-- Swamp Fever
-- Dark Carnival
-- The Parish
-
+- [TBD]
 ###### 2.4 Finales
 All finales will be played, including The Parish finale.
 
