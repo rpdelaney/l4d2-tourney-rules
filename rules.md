@@ -2,6 +2,14 @@
 
 - [Homepage][1]
 
+1. [Section 1: Tournament administration](#Section-1:-Tournament-administration)
+1. [Section 2: Tournament Format](#Section-2:-Tournament-Format)
+1. [Section 3: Registration process](#Section-3:-Registration-process)
+1. [Section 4: Servers](#Section-4:-Servers)
+1. [Section 5: Match schedule](#Section-5:-Match-schedule)
+1. [Section 6: Addons and configuration](#Section-6:-Addons-and-configuration)
+1. [Section 7: Unsportsmanlike conduct](#Section-7:-Unsportsmanlike-conduct)
+
 ## Section 1: Tournament administration
 
 ### 1.1 Staff
