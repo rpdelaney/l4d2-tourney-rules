@@ -2,13 +2,13 @@
 
 - [Homepage][1]
 
-1. [Section 1: Tournament administration](#Section-1:-Tournament-administration)
-1. [Section 2: Tournament Format](#Section-2:-Tournament-Format)
-1. [Section 3: Registration process](#Section-3:-Registration-process)
-1. [Section 4: Servers](#Section-4:-Servers)
-1. [Section 5: Match schedule](#Section-5:-Match-schedule)
-1. [Section 6: Addons and configuration](#Section-6:-Addons-and-configuration)
-1. [Section 7: Unsportsmanlike conduct](#Section-7:-Unsportsmanlike-conduct)
+1. [Section 1: Tournament administration](#user-content-section-1-tournament-administration)
+1. [Section 2: Tournament Format](#user-content-section-2-tournament-format)
+1. [Section 3: Registration process](#user-content-section-3-registration-process)
+1. [Section 4: Servers](#user-content-section-4-servers)
+1. [Section 5: Match schedule](#user-content-section-5-match-schedule)
+1. [Section 6: Addons and configuration](#user-content-section-6-addons-and-configuration)
+1. [Section 7: Unsportsmanlike conduct](#user-content-section-7-unsportsmanlike-conduct)
 
 ## Section 1: Tournament administration
 
