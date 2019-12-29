@@ -576,7 +576,7 @@ unsportsmanlike conduct of any team member.
 Tournament competitors will not break server rules at any time when they are
 using someone else's server.
 
-### Section 8: Legal
+## Section 8: Legal
 
 Copyright (C) 2014-19 by Ryan Delaney. Permission is granted to copy,
 distribute and/or modify this document under the terms of the GNU Free
