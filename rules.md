@@ -1,21 +1,6 @@
 ﻿# Left 4 Dead 2 Tournament Ruleset
 
-## Section 0: Readme
-
 - [Homepage][1]
-
-### Legal
-
-Copyright (C) 2014-19 by Ryan Delaney. Permission is granted to copy,
-distribute and/or modify this document under the terms of the GNU Free
-Documentation License, Version 1.3 or any later version published by the
-Free Software Foundation; with no Invariant Sections, no Front-Cover
-Texts, and no Back-Cover Texts. A copy of the license is included in the
-file titled "LICENSE".
-
-Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
-logo are trademarks and/or registered trademarks of Valve Corporation.
-All other trademarks are property of their respective owners.
 
 ## Section 1: Tournament administration
 
@@ -582,6 +567,19 @@ unsportsmanlike conduct of any team member.
 
 Tournament competitors will not break server rules at any time when they are
 using someone else's server.
+
+### Section 8: Legal
+
+Copyright (C) 2014-19 by Ryan Delaney. Permission is granted to copy,
+distribute and/or modify this document under the terms of the GNU Free
+Documentation License, Version 1.3 or any later version published by the
+Free Software Foundation; with no Invariant Sections, no Front-Cover
+Texts, and no Back-Cover Texts. A copy of the license is included in the
+file titled "LICENSE".
+
+Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
+logo are trademarks and/or registered trademarks of Valve Corporation.
+All other trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
 [1]: https://github.com/rpdelaney/l4d2-tourney-rules
