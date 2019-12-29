@@ -158,7 +158,7 @@ an administrator. Support for the `spechud` add-on is highly desirable.
 
 ### 4.4 Tickrate
 
-Servers with tickrate greater than or equal to 60 will be preferred, unless
+Servers with tickrate greater than or equal to 100 will be preferred, unless
 both teams agree to another tickrate.
 
 ### 4.5 DOS protection
