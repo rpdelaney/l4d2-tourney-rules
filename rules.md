@@ -403,6 +403,11 @@ directors may review demos and determine if the result of the replayed
 round will be used, or if some other action will be taken according to
 the circumstances.
 
+#### 5.9 Stream sniping
+
+After the match begins, players will not watch any web casts, streams, etc.
+that show match play, until it is concluded.
+
 ## Section 6: Addons and configuration
 
 The following guidelines will assist the competitors in understanding
