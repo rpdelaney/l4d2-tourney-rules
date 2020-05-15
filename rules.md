@@ -461,13 +461,14 @@ saferoom door closed, or player death is allowed.
 
 #### 6.2.6 Blue tint
 
-Modifying or removing the blue tint while spawning special infected in
-“ghost mode” is allowed.
+Modifying or removing the blue tint while spawning special infected in “ghost
+mode” via `left4dead2\materials\correction\ghost(.pwl)` is allowed.
 
 #### 6.2.7 Red tint
 
 Modifying or removing the red tint that appears while spawned as special
-infected or tank is allowed.
+infected or tank via `left4dead2\materials\correction\infected(.pwl)` is
+allowed.
 
 #### 6.2.8 Console variables ("cvars")
 
