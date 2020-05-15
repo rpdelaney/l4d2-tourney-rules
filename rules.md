@@ -441,7 +441,9 @@ menu shortcuts, console fonts, etc.) are allowed.
 
 #### 6.2.2 HUDs
 
-Modifying or removing HUDs, crosshairs, and pain pointers is allowed.
+Modifying or removing HUDs, crosshairs (including crosshairs via modifying the
+[mumble overlay](https://wiki.mumble.info/wiki/Overlay)), and pain pointers is
+allowed.
 
 #### 6.2.3 Gun models
 
