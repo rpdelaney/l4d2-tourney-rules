@@ -578,12 +578,13 @@ using someone else's server.
 
 ## Section 8: Legal
 
-Copyright (C) 2014-19 by Ryan Delaney. Permission is granted to copy,
-distribute and/or modify this document under the terms of the GNU Free
-Documentation License, Version 1.3 or any later version published by the
-Free Software Foundation; with no Invariant Sections, no Front-Cover
-Texts, and no Back-Cover Texts. A copy of the license is included in the
-file titled "LICENSE".
+Copyright (C) 2014-20 by Ryan Delaney.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
+International License.
+
+You should have received a copy of the license along with this work.  If not,
+see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
 logo are trademarks and/or registered trademarks of Valve Corporation.
