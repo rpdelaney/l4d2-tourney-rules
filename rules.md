@@ -473,22 +473,17 @@ Source engine configuration files and scripts that do not exploit
 “cheat” cvars and do not circumvent cvars blocked by the competitive
 configuration (e.g. `mat_hdr`) are allowed.
 
-#### 6.2.9 Wait
-
-Use of the wait command in scripts is allowed without
-limitation, unless it is blocked by the server.
-
-#### 6.2.10 Command-line arguments
+#### 6.2.9 Command-line arguments
 
 All command-line arguments that do not exploit nor allow the player to
 exploit “cheat” cvars are allowed.
 
-#### 6.2.11 GUI options
+#### 6.2.10 GUI options
 
 Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables is allowed.
 
-#### 6.2.12 Unused sounds
+#### 6.2.11 Unused sounds
 
 Modifying materials and sounds that are related to weapons or items
 that are banned in the competitive configuration (which may
