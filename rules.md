@@ -241,8 +241,8 @@ process.
 
 #### 5.3.1 War Rooms
 
-Access to mumble servers for ‘war rooms’ is appreciated
-but not required.
+Access to VoIP communication servers (Mumble, Discord etc) for ‘war rooms’ is
+appreciated but not required.
 
 ### 5.4 Spectators
 
