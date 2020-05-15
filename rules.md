@@ -510,8 +510,8 @@ Any changes whatsoever to game sounds are forbidden.
 
 Any third-party applications, programs, or macros that read or modify
 memory in a method for affecting gameplay, or that provide information
-about the game state to the player, or that simulate mouse movement
-(aiming) while the game is running are forbidden.
+about the game state to the player, or that simulate mouse movement or mouse
+actions while the game is running are forbidden.
 
 ### 6.4 Netcode toggling
 
