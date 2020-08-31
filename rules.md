@@ -14,14 +14,20 @@
 
 ### 1.1 Staff
 
-The Tournament Director will be: [TBD]
+The Tournament Directors will be:
 
-The Assistant Tournament Director(s) will be: [TBD]
+* [Rails Barlow](http://steamcommunity.com/profiles/76561198046098995)
+* [an entire sleeve of fig newtons](http://steamcommunity.com/profiles/76561197960845047)
+
+The Assistant Tournament Directors will be:
+
+* [sou](https://steamcommunity.com/profiles/76561198122872170/)
+* TBD
 
 ### 1.2 Disputes
 
-The Tournament Director is the sole arbiter and court of last resort for
-all disputes. Their decisions are final and cannot be appealed.
+The Tournament Directors are the sole arbiters and court of last resort for all
+disputes. Their decisions are final and cannot be appealed.
 
 ### 1.3 Sanctions
 
@@ -37,7 +43,8 @@ to a counterpart if possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via the forum on L4Dnation.com.
+Official communication will take place via the [discord
+server](https://discord.gg/GUKu4aJ).
 
 ## Section 2: Tournament Format
 
@@ -50,7 +57,7 @@ rounds. A match win will score 1 point; a tie scores a half
 point; a loss or forfeit scores 0 points.
 
 After the registration deadline, the registered participants will be
-seeded according to the judgment of the Tournament Director. The first
+seeded according to the judgment of the Tournament Directors. The first
 round will then be paired by a "top half vs bottom half" method. For
 example, if there are 10 participants, then the #1 seed will be paired
 against the #6 seed, the #2 seed against the #7 seed, and so on.
@@ -94,8 +101,8 @@ links:
 - [World Chess Federation][4]
 - [Wizards of the Coast][5]
 
-If you have any further questions about the Swiss System, contact a
-Tournament Director or the author.
+If you have any further questions about the Swiss System, you may post in the
+\#general channel on the discord server.
 
 #### 2.1.6 Deadlines
 
@@ -124,12 +131,13 @@ All finales will be played, including The Parish finale.
 
 ### 3.1 Registration
 
-Teams may register by [TBD].
+Teams may register by posting in the [#rosters](https://discord.gg/ChTRXha)
+channel. Include the names and Steam IDs of each member of the team.
 
 ### 3.2 Deadline
 
-The deadline for registrations is [TBD]. Late registrations will not be
-accepted.
+The deadline for registrations is January 9th, 2021. Late registrations will
+not be accepted.
 
 ### 3.3 Double registration
 
@@ -209,9 +217,9 @@ midnight. Failure to report weekly round results before the deadline
 will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
-To report match results, [TBD]. Include a screenshot of the
-final scores. Results will not be accepted via email, Steam instant
-messenger, or the Steam Community.
+To report match results, post in the [#results](https://discord.gg/GUKu4aJ)
+channel. Include a screenshot of the final scores. Results will not be
+accepted via any other medium.
 
 #### 5.1.4 How to schedule a match
 
@@ -581,7 +589,7 @@ using someone else's server.
 
 ## Section 8: Legal
 
-Copyright (C) 2014-20 by Ryan Delaney.
+Copyright (C) 2014-21 by Ryan Delaney.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
