@@ -1,4 +1,4 @@
-﻿# Left 4 Dead 2 Tournament Ruleset
+# Left 4 Dead 2 Tournament Ruleset
 
 - [Homepage][1]
 
