@@ -8,4 +8,16 @@ repos:
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
 
+  - repo: https://github.com/trussworks/pre-commit-hooks
+    rev: v1.1.0
+    hooks:
+      - id: markdown-toc
+      - id: mdspell
+      - id: spelling-sort
+
+  - repo: git://github.com/igorshubovych/markdownlint-cli
+    rev: v0.28.1
+    hooks:
+      - id: markdownlint
+
 # EOF
