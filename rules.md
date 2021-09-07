@@ -117,7 +117,8 @@ The playoffs section will be a single-elimination knockout tournament.
 
 ### 2.3 Finales
 
-Unless there is clear, documented consensus between both teams to skip finales, then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
+Unless there is clear, documented consensus between both teams to skip finales,
+then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
 
 ## Section 3: Registration process
 
@@ -127,7 +128,8 @@ Teams may register by [TBD].
 
 ### 3.2 Deadline
 
-The deadline for registrations is [TBD]. After this date, new entries will not be accepted, and no one will be added to any team's roster.
+The deadline for registrations is [TBD]. After this date, new entries will not
+be accepted, and no one will be added to any team's roster.
 
 ### 3.3 Double registration
 
@@ -269,7 +271,8 @@ that each participant record their match play.
 
 Each participant is required to record and save demos of their match play. All
 demos must be stored until the end of the tournament, and must be submitted
-promptly to a Tournament Director on request. A live stream is not a substitute for a demo.
+promptly to a Tournament Director on request. A live stream is not a substitute
+for a demo.
 
 To record a demo, open the console and type `record <demoname>`.  It is not
 necessary to re-record after a map change, but it is necessary to re-record
@@ -277,7 +280,8 @@ after disconnecting from the server for any reason.
 
 ### 6.4.2 Screenshots are mandatory
 
-Each team is allowed up to one pause per round to request screenshots. Each player must take a screenshot whenever asked by anyone in the server.
+Each team is allowed up to one pause per round to request screenshots. Each
+player must take a screenshot whenever asked by anyone in the server.
 
 ### 6.4.3 Privacy
 
@@ -322,9 +326,13 @@ advantage.
 
 Historically, accepted uses of the spectate command have been:
 
-- A player is out of bounds or has become stuck in an object and cannot move or attack the survivors.
-- A player-controlled SI is not being killed by the survivors in a reasonable time (e.g. instead of killing a spitter, the survivors are m2ing it repeatedly).
-- The server has crashed previously and spectating is necessary to ensure a proper tank rotation.
+- A player is out of bounds or has become stuck in an object and cannot move or
+  attack the survivors.
+- A player-controlled SI is not being killed by the survivors in a reasonable
+  time (e.g. instead of killing a spitter, the survivors are m2ing it
+  repeatedly).
+- The server has crashed previously and spectating is necessary to ensure a
+  proper tank rotation.
 
 ### 7.4 "Stuck spots"
 
@@ -348,9 +356,9 @@ the ruined brick wall.
 
 ### 7.8 Hard Rain elevator
 
-Do not skip the elevator holdout event on `c4m2_sugarmill` by any means that allow the
-player to safely enter the sugar cane field without riding the elevator or
-dying from fall damage.
+Do not skip the elevator holdout event on `c4m2_sugarmill` by any means that
+allow the player to safely enter the sugar cane field without riding the
+elevator or dying from fall damage.
 
 ### 7.9 Death Toll 1 ladder
 
@@ -360,7 +368,8 @@ you must go back and climb a ladder before progressing.
 
 ### 7.10 7.10 Atrium gas cans
 
-As infected, you may not move gas cans on `c1m4_atrium` by punching or scratching them.
+As infected, you may not move gas cans on `c1m4_atrium` by punching or
+scratching them.
 
 Intentionally positioning a boomer so that cans are moved when it is popped is
 allowed.
@@ -397,29 +406,51 @@ streams, etc., that show match play, until the match is concluded.
 
 The following modifications are PERMITTED:
 
-- All modifications to the Left 4 Dead 2 user interface that do not alter, nor interact with the in-game user experience nor provide additional information about the game state (e.g. ZoneMenu, menu music, menu fonts, menu shortcuts, console fonts, etc.) are allowed.
-- Modifying, removing, or adding HUDs, crosshairs (including overlay crosshairs), and pain pointers is allowed.
+- All modifications to the Left 4 Dead 2 user interface that do not alter, nor
+  interact with the in-game user experience nor provide additional information
+  about the game state (e.g. ZoneMenu, menu music, menu fonts, menu shortcuts,
+  console fonts, etc.) are allowed.
+- Modifying, removing, or adding HUDs, crosshairs (including overlay
+  crosshairs), and pain pointers is allowed.
 - Modifying or removing gun models and animations is allowed.
 - Modifying or removing "tank music" including altering the volume is allowed.
-- Modifying or removing music played at the end of the round after a wipe, saferoom door closed, or player death is allowed.
-- Modifying or removing the blue tint while spawning special infected in "ghost mode" via `left4dead2\materials\correction\ghost(.pwl)` is allowed.
-- Modifying or removing the red tint that appears while spawned as special infected or tank via `left4dead2\materials\correction\infected(.pwl)` is allowed.
-- Source engine configuration files and console scripts that do not exploit cheat-flagged cvars and do not circumvent blocks on cvars blocked by the competitive configuration (e.g. `mat_hdr`) are allowed.
-- All launch options that do not exploit nor allow the player to exploit cheat-flagged cvars are allowed.
-- Any configuration setting that can be altered using the standard in-game GUI menu options is allowed.
-- Modifying materials and sounds that are related to weapons or items that are banned in the competitive configuration (which may include: "Tier 2" weapons, chainsaw, M60, throwables, etc) is allowed.
+- Modifying or removing music played at the end of the round after a wipe,
+  saferoom door closed, or player death is allowed.
+- Modifying or removing the blue tint while spawning special infected in "ghost
+  mode" via `left4dead2\materials\correction\ghost(.pwl)` is allowed.
+- Modifying or removing the red tint that appears while spawned as special
+  infected or tank via `left4dead2\materials\correction\infected(.pwl)` is
+  allowed.
+- Source engine configuration files and console scripts that do not exploit
+  cheat-flagged cvars and do not circumvent blocks on cvars blocked by the
+  competitive configuration (e.g. `mat_hdr`) are allowed.
+- All launch options that do not exploit nor allow the player to exploit
+  cheat-flagged cvars are allowed.
+- Any configuration setting that can be altered using the standard in-game GUI
+  menu options is allowed.
+- Modifying materials and sounds that are related to weapons or items that are
+  banned in the competitive configuration (which may include: "Tier 2" weapons,
+  chainsaw, M60, throwables, etc) is allowed.
 
 ### 9.4 Forbidden modifications
 
-Aside from the above, no modifications to game files or materials, nor use of third-party software and applications that affect gameplay will be allowed, without the public, prior, and written authorization of the Tournament Director(s). This includes but IS NOT LIMITED to:
+Aside from the above, no modifications to game files or materials, nor use of
+third-party software and applications that affect gameplay will be allowed,
+without the public, prior, and written authorization of the Tournament
+Director(s). This includes but IS NOT LIMITED to:
 
-- Any changes whatsoever to the stock survivor or infected models, map textures, skyboxes, props, or other materials and files used for rendering the in-game environment are forbidden.
+- Any changes whatsoever to the stock survivor or infected models, map
+  textures, skyboxes, props, or other materials and files used for rendering
+  the in-game environment are forbidden.
 - Any changes whatsoever to game sounds are forbidden.
-- Any third-party applications, programs, or macros that read or modify memory to affect gameplay, or to provide information about the game state to the player while the game is running, are forbidden.
+- Any third-party applications, programs, or macros that read or modify memory
+  to affect gameplay, or to provide information about the game state to the
+  player while the game is running, are forbidden.
 
 #### 9.4.1 Netcode toggling
 
-After the ready-up for the first half of each map, changing the following cvars is forbidden until both halves of the round are complete:
+After the ready-up for the first half of each map, changing the following cvars
+is forbidden until both halves of the round are complete:
 
 - `cl_interp`
 - `cl_interp_ratio`
@@ -467,9 +498,12 @@ discouraged. This includes but IS NOT LIMITED to:
 
 ### 10.5 Sprays and steam avatars
 
-Do not use sprays that imitate or resemble environmental objects, such as: weapons, NPC or player models, props, or any other recognizable in-game entity.
+Do not use sprays that imitate or resemble environmental objects, such as:
+weapons, NPC or player models, props, or any other recognizable in-game entity.
 
-Do not use sprays or steam avatars that are grotesque, violent, obscene, or depict other disturbing or offensive imagery such as sexually suggestive or explicit content, racist logos, or “shock” images.
+Do not use sprays or steam avatars that are grotesque, violent, obscene, or
+depict other disturbing or offensive imagery such as sexually suggestive or
+explicit content, racist logos, or “shock” images.
 
 ### 10.6 Respect the server hosts
 
