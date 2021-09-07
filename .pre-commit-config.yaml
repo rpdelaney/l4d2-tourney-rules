@@ -12,7 +12,6 @@ repos:
     rev: v1.1.0
     hooks:
       - id: markdown-toc
-      - id: mdspell
       - id: spelling-sort
 
   - repo: git://github.com/igorshubovych/markdownlint-cli
