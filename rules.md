@@ -193,16 +193,16 @@ will be dealt with by the staff.
 
 Pairings and brackets for each round will be posted weekly on Monday.
 
-#### 5.2 Scheduling deadline
+### 5.2 Scheduling deadline
 
 Matches must be scheduled promptly.  Begin negotiating the schedule early;
 delinquent scheduling will result in a double forfeit.
 
-#### 5.3 Scheduling duties
+### 5.3 Scheduling duties
 
 Any player on the roster may perform scheduling duties.
 
-#### 5.4 Reporting results
+### 5.4 Reporting results
 
 Results must be submitted, with a screenshot, by the following Sunday at
 midnight (PST / UTC-8). Failure to report weekly round results before the
@@ -212,7 +212,7 @@ will extensions be granted.
 To report match results, [TBD]. Include a screenshot of the final scores.
 Results will not be accepted via _any_ other means.
 
-#### 5.5 How to schedule a match
+### 5.5 How to schedule a match
 
 A match schedule consists of three elements:
 
@@ -223,7 +223,7 @@ Competitors are strongly urged to post their complete match schedules to avoid
 any possibility of miscommunication or dispute about these details at match
 time.
 
-#### 5.6 Requests for Oversight
+### 5.6 Requests for Oversight
 
 Any team may request that a staff member be present at their match. The staff
 will honor reasonable requests where they can, weighing conflicting personal
