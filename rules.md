@@ -249,12 +249,12 @@ A defining characteristic of a championship team is the capacity to field a
 team for a match at the agreed upon date and time. Therefore, both teams must
 agree to allow ringers, or ringers will not be allowed.
 
-### 6.3.1 Double agents
+#### 6.3.1 Double agents
 
 No registered player may ring for another team unless their team has withdrawn
 from the tournament or that player has been removed from the roster.
 
-### 6.3.2 Limits on ringers
+#### 6.3.2 Limits on ringers
 
 Each team must field at least three (3) rostered players in each match,
 regardless of consent from the opponent.
@@ -267,7 +267,7 @@ of consent from either team.
 To maintain public trust in the legitimacy of the competition, it is required
 that each participant record their match play.
 
-### 6.4.1 Demos are mandatory
+#### 6.4.1 Demos are mandatory
 
 Each participant is required to record and save demos of their match play. All
 demos must be stored until the end of the tournament, and must be submitted
@@ -278,12 +278,12 @@ To record a demo, open the console and type `record <demoname>`.  It is not
 necessary to re-record after a map change, but it is necessary to re-record
 after disconnecting from the server for any reason.
 
-### 6.4.2 Screenshots are mandatory
+#### 6.4.2 Screenshots are mandatory
 
 Each team is allowed up to one pause per round to request screenshots. Each
 player must take a screenshot whenever asked by anyone in the server.
 
-### 6.4.3 Privacy
+#### 6.4.3 Privacy
 
 Players are never required to provide demos to anyone except the staff.
 Although there is no basis for an expectation of privacy, they will be shared
@@ -291,7 +291,7 @@ only for asking second opinions of skilled players who are trusted to keep what
 they find in confidence, or to expose wrongdoing to the community if, and only
 if, it is discovered.
 
-### 6.4.4 Responsibility is with you
+#### 6.4.4 Responsibility is with you
 
 It is each player’s individual responsibility to ensure that demos and
 screenshots are recorded, un-corrupted, and submitted in a timely manner.
@@ -366,7 +366,7 @@ You many not cross the ruined bridge on `c11_m1` without climbing a ladder. If
 you find yourself on the far side of the bridge and you did not climb a ladder,
 you must go back and climb a ladder before progressing.
 
-### 7.10 7.10 Atrium gas cans
+### 7.10 Atrium gas cans
 
 As infected, you may not move gas cans on `c1m4_atrium` by punching or
 scratching them.
