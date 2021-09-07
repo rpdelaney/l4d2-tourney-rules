@@ -214,7 +214,7 @@ Results will not be accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
 
-A match schedule consists of three elements:
+A match schedule consists of two elements:
 
 - The date and time, _with the time zones_, when the match will begin.
 - The number of games that will be played in the match.
