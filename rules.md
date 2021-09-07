@@ -173,8 +173,8 @@ both teams agree to another tickrate.
 
 ### 4.1 Home servers
 
-If the tournament has been designated as international (a.k.a. "Home/Away"),
-the following rules apply:
+If the tournament is international (a.k.a. "Home/Away"), the following rules
+apply:
 
 #### 4.1.1 Home server selection
 
@@ -297,7 +297,7 @@ It is each player’s individual responsibility to ensure that demos and
 screenshots are recorded, un-corrupted, and submitted in a timely manner.
 
 Failure to submit demos or screenshots on the request of the staff will result,
-at minimum, in a zero score for any round for which they were not sumitted.
+at minimum, in a zero score for any round for which they were not submitted.
 
 ### 6.5 Casting
 
