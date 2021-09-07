@@ -4,9 +4,9 @@
 
 ### 1.1 Staff
 
-The Tournament Director will be: [TBD]
+The Tournament Director will be: \[TBD\]
 
-The Assistant Tournament Director(s) will be: [TBD]
+The Assistant Tournament Director(s) will be: \[TBD\]
 
 ### 1.2 Disputes
 
@@ -27,7 +27,7 @@ to a counterpart if possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via [TBD].
+Official communication will take place via \[TBD\].
 
 ## Section 2: Tournament Format
 
@@ -35,7 +35,7 @@ The tournament will consist of two sections.
 
 ### 2.1 Swiss section
 
-The first section will be a Swiss System tournament of [TBD] rounds. A match
+The first section will be a Swiss System tournament of \[TBD\] rounds. A match
 win will score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
@@ -66,9 +66,9 @@ the lowest score group. A bye scores a full point.
 
 Ties will be broken by the following criteria, descending :
 
-1. [TBD]
-2. [TBD]
-3. [TBD]
+1. \[TBD\]
+1. \[TBD\]
+1. \[TBD\]
 
 #### 2.1.4 No-shows
 
@@ -94,16 +94,16 @@ circumstances whatsoever will extensions be granted.
 
 #### 2.1.7 Swiss Map Pool
 
-1. [TBD]
+1. \[TBD\]
 
 ### 2.2 Playoffs
 
-Once the first section is completed, [TBD] teams will move on to the playoffs.
+Once the first section is completed, \[TBD\] teams will move on to the playoffs.
 The playoffs section will be a single-elimination knockout tournament.
 
 #### 2.2.1 Playoffs Map pool
 
-1. [TBD]
+1. \[TBD\]
 
 ### 2.3 Finales
 
@@ -114,11 +114,11 @@ then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
 
 ### 3.1 Registration
 
-Teams may register by [TBD].
+Teams may register by \[TBD\].
 
 ### 3.2 Deadline
 
-The deadline for registrations is [TBD]. After this date, new entries will not
+The deadline for registrations is \[TBD\]. After this date, new entries will not
 be accepted, and no one will be added to any team's roster.
 
 ### 3.3 Double registration
@@ -154,11 +154,11 @@ Game servers will be selected according to the following criteria:
 
 - The server will be dedicated and hosted by a reputable hosting company.
 - The server will have an up to date and working installation of the
-configuration and plugins.
+  configuration and plugins.
 - Servers will have enough slots for up to two casters, two cameramen, and
-an administrator.
+  an administrator.
 - Servers with tickrate greater than or equal to 100 will be preferred, unless
-both teams agree to another tickrate.
+  both teams agree to another tickrate.
 - Servers with [DoS Protection][6] are preferred.
 
 ### 4.1 Home servers
@@ -199,7 +199,7 @@ midnight (PST / UTC-8). Failure to report weekly round results before the
 deadline will result in a double forfeit. Under no circumstances whatsoever
 will extensions be granted.
 
-To report match results, [TBD]. Include a screenshot of the final scores.
+To report match results, \[TBD\]. Include a screenshot of the final scores.
 Results will not be accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
@@ -523,14 +523,12 @@ logo are trademarks and/or registered trademarks of Valve Corporation.
 All other trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
-[1]: https://github.com/rpdelaney/l4d2-tourney-rules
-[2]: http://www.swissperfect.com/tiebreak.htm#buchholz
-[3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
-[4]: http://www.fide.com/component/handbook/?id=84&view=article
-[5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
-[6]: https://github.com/SirPlease/IPTables
-[7]: http://doodle.com
 
 <!--
 vim: filetype=markdown spelllang=en_US
 -->
+
+[3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
+[4]: http://www.fide.com/component/handbook/?id=84&view=article
+[5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
+[6]: https://github.com/SirPlease/IPTables
