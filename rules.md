@@ -413,7 +413,7 @@ the ruined brick wall.
 
 Do not skip the elevator holdout event on `c4m2_sugarmill` by any means that
 allow the player to safely enter the sugar cane field without riding the
-elevator or dying from fall damage.
+elevator or being incapacitated or killed by fall damage.
 
 ### 7.9 Death Toll 1 ladder<a name="79-death-toll-1-ladder"></a>
 
