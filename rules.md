@@ -75,8 +75,8 @@ The Assistant Tournament Director(s) will be: \[TBD\]
 
 ### 1.2 Disputes<a name="12-disputes"></a>
 
-The Tournament Directors are the sole arbiter and court of last resort for
-all disputes. Their decisions are final and cannot be appealed.
+The Tournament Directors are the sole arbiter and court of last resort for all
+disputes. Their decisions are final and cannot be appealed.
 
 ### 1.3 Sanctions<a name="13-sanctions"></a>
 
@@ -86,9 +86,9 @@ warrant.
 
 ### 1.4 Conflicts of interest<a name="14-conflicts-of-interest"></a>
 
-Staff may participate in the tournament. Where there may be an
-appearance of a conflict of interest, a Tournament Director will yield
-to a counterpart if possible.
+Staff may participate in the tournament. Where there may be an appearance of a
+conflict of interest, a Tournament Director will yield to a counterpart if
+possible.
 
 ### 1.5 Official communication<a name="15-official-communication"></a>
 
@@ -104,36 +104,36 @@ The first section will be a Swiss System tournament of \[TBD\] rounds. A match
 win will score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
-After the registration deadline, the registered participants will be
-seeded according to the judgment of the Tournament Directors. The first
-round will then be paired by a "top half vs bottom half" method. For
-example, if there are 10 participants, then the #1 seed will be paired
-against the #6 seed, the #2 seed against the #7 seed, and so on.
+After the registration deadline, the registered participants will be seeded
+according to the judgment of the Tournament Directors. The first round will
+then be paired by a "top half vs bottom half" method. For example, if there are
+10 participants, then the #1 seed will be paired against the #6 seed, the #2
+seed against the #7 seed, and so on.
 
-In subsequent rounds, participants will be paired at random against
-others with the same record of Won : Lost games.
+In subsequent rounds, participants will be paired at random against others with
+the same record of Won : Lost games.
 
 There will be no eliminations from the Swiss section due to poor results or
 lost games.
 
 #### 2.1.1 Double Jeopardy<a name="211-double-jeopardy"></a>
 
-Under no circumstances will two competitors face each other more than
-once during the Swiss section.
+Under no circumstances will two competitors face each other more than once
+during the Swiss section.
 
 #### 2.1.2 Byes<a name="212-byes"></a>
 
-In the event that a round must be paired with an uneven number of
-participants, a bye will be awarded to the lowest ranked participant in
-the lowest score group. A bye scores a full point.
+In the event that a round must be paired with an uneven number of participants,
+a bye will be awarded to the lowest ranked participant in the lowest score
+group. A bye scores a full point.
 
 #### 2.1.3 Tiebreakers<a name="213-tiebreakers"></a>
 
 Ties will be broken by the following criteria, descending :
 
 1. \[TBD\]
-1. \[TBD\]
-1. \[TBD\]
+2. \[TBD\]
+3. \[TBD\]
 
 #### 2.1.4 No-shows<a name="214-no-shows"></a>
 
@@ -142,8 +142,7 @@ from the tournament.
 
 #### 2.1.5 References<a name="215-references"></a>
 
-For information on the Swiss System, you can review the following
-links:
+For information on the Swiss System, you can review the following links:
 
 - [Wikipedia][3]
 - [World Chess Federation][4]
@@ -163,8 +162,9 @@ circumstances whatsoever will extensions be granted.
 
 ### 2.2 Playoffs<a name="22-playoffs"></a>
 
-Once the first section is completed, \[TBD\] teams will move on to the playoffs.
-The playoffs section will be a single-elimination knockout tournament.
+Once the first section is completed, \[TBD\] teams will move on to the
+playoffs. The playoffs section will be a single-elimination knockout
+tournament.
 
 #### 2.2.1 Playoffs Map pool<a name="221-playoffs-map-pool"></a>
 
@@ -183,8 +183,8 @@ Teams may register by \[TBD\].
 
 ### 3.2 Deadline<a name="32-deadline"></a>
 
-The deadline for registrations is \[TBD\]. After this date, new entries will not
-be accepted, and no one will be added to any team's roster.
+The deadline for registrations is \[TBD\]. After this date, new entries will
+not be accepted, and no one will be added to any team's roster.
 
 ### 3.3 Double registration<a name="33-double-registration"></a>
 
@@ -195,11 +195,12 @@ A player may be registered for only one team in the tournament.
 3.4 Banned players
 
 Any player with an indefinite ban on the SirPlease sourcebans may not
-participate in the tournament with their banned account, nor with any
-alternate account. Any match played with a banned player will be overturned to
-a forfeit loss and their team may be suspended from the tournament.
+participate in the tournament with their banned account, nor with any alternate
+account. Any match played with a banned player will be overturned to a forfeit
+loss and their team may be suspended from the tournament.
 
-You may review the public ban list [here](http://sirpleaseny.site.nfoservers.com/index.php?p=banlist&advSearch=e,0&advType=length).
+You may review the public ban list
+[here](http://sirpleaseny.site.nfoservers.com/index.php?p=banlist&advSearch=e,0&advType=length).
 
 ### 3.5 Roster size<a name="35-roster-size"></a>
 
@@ -220,8 +221,8 @@ Game servers will be selected according to the following criteria:
 - The server will be dedicated and hosted by a reputable hosting company.
 - The server will have an up to date and working installation of the
   configuration and plugins.
-- Servers will have enough slots for up to two casters, two cameramen, and
-  an administrator.
+- Servers will have enough slots for up to two casters, two cameramen, and an
+  administrator.
 - Servers with tickrate greater than or equal to 100 will be preferred, unless
   both teams agree to another tickrate.
 - Servers with [DoS Protection][6] are preferred.
@@ -250,7 +251,7 @@ Pairings and brackets for each round will be posted weekly on Monday.
 
 ### 5.2 Scheduling deadline<a name="52-scheduling-deadline"></a>
 
-Matches must be scheduled promptly.  Begin negotiating the schedule early;
+Matches must be scheduled promptly. Begin negotiating the schedule early;
 delinquent scheduling will result in a double forfeit.
 
 ### 5.3 Scheduling duties<a name="53-scheduling-duties"></a>
@@ -294,9 +295,9 @@ allowed in the server during match play.
 
 ### 6.2 Tardiness<a name="62-tardiness"></a>
 
-Each team has 15 minutes after the scheduled time to have 4 players in
-the server and readied up. The standard penalty for failure will be a
-forfeit loss of the match.
+Each team has 15 minutes after the scheduled time to have 4 players in the
+server and readied up. The standard penalty for failure will be a forfeit loss
+of the match.
 
 ### 6.3 Ringers<a name="63-ringers"></a>
 
@@ -329,7 +330,7 @@ demos must be stored until the end of the tournament, and must be submitted
 promptly to a Tournament Director on request. A live stream is not a substitute
 for a demo.
 
-To record a demo, open the console and type `record <demoname>`.  It is not
+To record a demo, open the console and type `record <demoname>`. It is not
 necessary to re-record after a map change, but it is necessary to re-record
 after disconnecting from the server for any reason.
 
@@ -442,7 +443,7 @@ manually.
 
 Participants have a duty to conform to the generally accepted standards of fair
 play. Deviation from those standards is cheating, and threatens the legitimacy
-of the competition as a whole.  Therefore, everyone will be held to a strict
+of the competition as a whole. Therefore, everyone will be held to a strict
 standard of competitive integrity.
 
 ### 9.1 Penalties<a name="91-penalties"></a>
@@ -580,12 +581,12 @@ Copyright (C) 2014-2021 by Ryan Delaney.
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
 
-You should have received a copy of the license along with this work.  If not,
+You should have received a copy of the license along with this work. If not,
 see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
-Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
-logo are trademarks and/or registered trademarks of Valve Corporation.
-All other trademarks are property of their respective owners.
+Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam logo
+are trademarks and/or registered trademarks of Valve Corporation. All other
+trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
 
