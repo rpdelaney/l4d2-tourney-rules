@@ -71,9 +71,9 @@
 
 The Tournament Directors will be:
 
+- alexi21
 - an entire sleeve of fig newtons
 - Rails Barlow
-- alexi21
 
 The Assistant Tournament Director(s) will be:
 
