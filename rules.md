@@ -69,9 +69,15 @@
 
 ### 1.1 Staff
 
-The Tournament Director will be: \[TBD\]
+The Tournament Directors will be:
 
-The Assistant Tournament Director(s) will be: \[TBD\]
+- an entire sleeve of fig newtons
+- Rails Barlow
+- alexi21
+
+The Assistant Tournament Director(s) will be:
+
+- loudmb
 
 ### 1.2 Disputes
 
