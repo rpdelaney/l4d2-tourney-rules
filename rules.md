@@ -596,10 +596,6 @@ trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
 
-<!--
-vim: filetype=markdown spelllang=en_US
--->
-
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
