@@ -169,7 +169,7 @@ circumstances whatsoever will extensions be granted.
 ### 2.2 Playoffs
 
 Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a single-elimination knockout
+playoffs. The playoffs section will be a double-elimination knockout
 tournament.
 
 #### 2.2.1 Playoffs Map pool
