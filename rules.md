@@ -189,8 +189,9 @@ Teams may register by \[TBD\].
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries will
-not be accepted, and no one will be added to any team's roster.
+The deadline for registrations is Saturday January 8, 2022. After this date,
+new entries will not be accepted, and no one will be added to any team's
+roster.
 
 ### 3.3 Double registration
 
