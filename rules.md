@@ -137,8 +137,15 @@ Ties will be broken by the following criteria, descending :
 
 #### 2.1.4 No-shows
 
-Any team that forfeits two consecutive matches may be automatically dropped
-from the tournament.
+Forfeits distort the results by unbalancing the tiebreakers. Moreover, they
+disappoint other competitors who have joined the tournament to participate in
+the competition.
+
+If you wish to withdraw from the tournament, please notify one of the
+Tournament Directors by \[TBD\].
+
+If your team forfeits any match, you **must** \[TBD\] or **you will be removed
+from the tournament without notice.**
 
 #### 2.1.5 References
 
