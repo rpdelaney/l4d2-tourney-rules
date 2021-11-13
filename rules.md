@@ -99,7 +99,8 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via \[TBD\].
+Official communication will take place via the
+[Official RBT6 Discord](https://discord.gg/WasGYCTNM2).
 
 ## Section 2: Tournament Format
 
