@@ -196,7 +196,8 @@ then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
 
 ### 3.1 Registration
 
-Teams may register by \[TBD\].
+Teams may register by posting in the `#registration` channel as outlined in the
+pinned messages.
 
 ### 3.2 Deadline
 
