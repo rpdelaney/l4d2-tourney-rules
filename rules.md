@@ -284,8 +284,9 @@ midnight (PST / UTC-8). Failure to report weekly round results before the
 deadline will result in a double forfeit. Under no circumstances whatsoever
 will extensions be granted.
 
-To report match results, \[TBD\]. Include a screenshot of the final scores.
-Results will not be accepted via _any_ other means.
+To report match results, post in the `#results` channel as outlined in the
+pinned messages. Include a screenshot of the final scores. Results will not be
+accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
 
