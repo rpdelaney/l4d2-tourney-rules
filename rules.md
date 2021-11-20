@@ -35,6 +35,7 @@
     - [6.3 Ringers](#63-ringers)
     - [6.4 Demos and screenshots](#64-demos-and-screenshots)
     - [6.5 Casting](#65-casting)
+    - [6.6 Substitutions](#66-substitutions)
   - [Section 7: Exploits](#section-7-exploits)
     - [7.1 AI pathing exploits](#71-ai-pathing-exploits)
     - [7.2 Tank pathing](#72-tank-pathing)
@@ -379,6 +380,10 @@ at minimum, in a zero score for any round for which they were not submitted.
 
 The participants agree that the matches may be casted according to the usual
 process.
+
+### 6.6 Substitutions
+
+In a Home / Away match, you must use the same 4 players in both games.
 
 ## Section 7: Exploits
 
