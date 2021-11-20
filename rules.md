@@ -248,8 +248,8 @@ Game servers will be selected according to the following criteria:
 
 ### 4.1 Home servers
 
-If the tournament is international (a.k.a. "Home/Away"), the following rules
-apply:
+The tournament is international (a.k.a. "Home/Away"). Therefore, the following
+rules apply:
 
 #### 4.1.1 Home server selection
 
