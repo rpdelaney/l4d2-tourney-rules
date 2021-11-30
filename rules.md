@@ -1,8 +1,8 @@
-# Left 4 Dead 2 Tournament Ruleset
+# Really Big Tournament 6 Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Left 4 Dead 2 Tournament Ruleset](#left-4-dead-2-tournament-ruleset)
+- [Really Big Tournament 6 Rules](#really-big-tournament-6-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
