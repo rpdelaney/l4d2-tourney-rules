@@ -155,8 +155,8 @@ Tournament Directors by posting in `#general` or, if you prefer, by DMing fig
 newtons. (Yes, really.)
 
 If your team forfeits any match, you **must** post in `#results` and clearly
-request to be paired in the next round, or **you will be removed from the
-tournament without notice.**
+request to be paired in the next round. If you do not, ***your team will be
+removed from the tournament without notice.***
 
 #### 2.1.5 References
 
