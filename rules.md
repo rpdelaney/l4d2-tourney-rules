@@ -151,10 +151,10 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please notify one of the
-Tournament Directors by posting in #general or, if you prefer, by DMing fig
+Tournament Directors by posting in `#general` or, if you prefer, by DMing fig
 newtons. (Yes, really.)
 
-If your team forfeits any match, you **must** post in #results and clearly
+If your team forfeits any match, you **must** post in `#results` and clearly
 request to be paired in the next round, or **you will be removed from the
 tournament without notice.**
 
