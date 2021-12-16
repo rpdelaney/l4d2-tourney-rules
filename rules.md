@@ -174,9 +174,21 @@ be paired until all the results of the previous round have been reported.
 Therefore, unplayed matches will be recorded as a double forfeit. Under no
 circumstances whatsoever will extensions be granted.
 
-#### 2.1.7 Swiss Map Pool
+#### 2.1.7 Swiss Map pool
 
-1. \[TBD\]
+1. Hard Rain\*
+2. Passifice\*
+3. Dark Carnival: Remix
+4. Death Toll
+5. Hard Rain: Downpour
+6. Diescraper Redeux
+7. The Parish
+
+\* The number of Swiss rounds is determined mathematically using the number of
+teams participating in the tournament. Therefore, the organizers cannot predict
+how many rounds will be scheduled for the Swiss section until registration has
+closed. These maps may be dropped from the Swiss map pool if the tournament is
+scheduled for fewer than 7 rounds.
 
 ### 2.2 Playoffs
 
@@ -186,7 +198,23 @@ tournament.
 
 #### 2.2.1 Playoffs Map pool
 
-1. \[TBD\]
+- RO16 - Suicide Blitz 2
+- RO8 - Dark Carnival
+- RO4 - Veto
+- FINALS: Veto
+
+"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
+map selection pool for the map ban process will be:
+
+- Dark Carnival
+- Dark Carnival: Remix
+- Death Toll
+- Diescraper Redeux
+- Hard Rain
+- Hard Rain: Downpour
+- Passifice
+- Suicide Blitz 2
+- The Parish
 
 ### 2.3 Finales
 
