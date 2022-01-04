@@ -461,8 +461,7 @@ bounds.
 ### 7.7 Hard Rain Pipes
 
 On `c4m2_sugarmill`, do not jump on the pipes near the trailer by climbing on
-the ruined brick wall. (Screenshot [1](assets/pipes1.jpg)
-[2](assets/pipes2.jpg))
+the ruined brick wall. (Screenshot [1](assets/pipe1.jpg) [2](assets/pipe2.jpg))
 
 ### 7.8 Hard Rain elevator
 
