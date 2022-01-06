@@ -1,8 +1,8 @@
-# Left 4 Dead 2 Tournament Ruleset
+# Really Big Tournament 6 Ruleset
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Left 4 Dead 2 Tournament Ruleset](#left-4-dead-2-tournament-ruleset)
+- [Really Big Tournament 6 Ruleset](#really-big-tournament-6-ruleset)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
@@ -151,12 +151,12 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please notify one of the
-Tournament Directors by posting in #general or, if you prefer, by DMing fig
-newtons. (Yes, really.)
+Tournament Directors by posting in `#discussion` or, if you prefer, by DMing
+fig newtons. (Yes, really.)
 
-If your team forfeits any match, you **must** post in #results and clearly
-request to be paired in the next round, or **you will be removed from the
-tournament without notice.**
+If your team forfeits any match, you **must** post in `#results` and clearly
+state your team name along with your request to be paired in the next round. If
+you do not, ***your team will be removed from the tournament without notice.***
 
 #### 2.1.5 References
 
@@ -174,9 +174,21 @@ be paired until all the results of the previous round have been reported.
 Therefore, unplayed matches will be recorded as a double forfeit. Under no
 circumstances whatsoever will extensions be granted.
 
-#### 2.1.7 Swiss Map Pool
+#### 2.1.7 Swiss Map pool
 
-1. \[TBD\]
+1. Hard Rain\*
+2. Passifice\*
+3. Dark Carnival: Remix
+4. Death Toll
+5. Hard Rain: Downpour
+6. Diescraper Redeux
+7. The Parish
+
+\* The number of Swiss rounds is determined mathematically using the number of
+teams participating in the tournament. Therefore, the organizers cannot predict
+how many rounds will be scheduled for the Swiss section until registration has
+closed. These maps may be dropped from the Swiss map pool if the tournament is
+scheduled for fewer than 7 rounds.
 
 ### 2.2 Playoffs
 
@@ -186,7 +198,23 @@ tournament.
 
 #### 2.2.1 Playoffs Map pool
 
-1. \[TBD\]
+- RO16 - Suicide Blitz 2
+- RO8 - Dark Carnival
+- RO4 - Veto
+- FINALS: Veto
+
+"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
+map selection pool for the map ban process will be:
+
+- Dark Carnival
+- Dark Carnival: Remix
+- Death Toll
+- Diescraper Redeux
+- Hard Rain
+- Hard Rain: Downpour
+- Passifice
+- Suicide Blitz 2
+- The Parish
 
 ### 2.3 Finales
 
@@ -433,7 +461,7 @@ bounds.
 ### 7.7 Hard Rain Pipes
 
 On `c4m2_sugarmill`, do not jump on the pipes near the trailer by climbing on
-the ruined brick wall.
+the ruined brick wall. (Screenshot [1](assets/pipe1.jpg) [2](assets/pipe2.jpg))
 
 ### 7.8 Hard Rain elevator
 
