@@ -198,10 +198,9 @@ tournament.
 
 #### 2.2.1 Playoffs Map pool
 
-- RO16 - Suicide Blitz 2
-- RO8 - Dark Carnival
-- RO4 - Veto
-- FINALS: Veto
+- Round 1 - Suicide Blitz 2
+- Round 2 - Dark Carnival
+- All subsequent rounds: Veto
 
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
 map selection pool for the map ban process will be:
