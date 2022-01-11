@@ -229,7 +229,7 @@ pinned messages.
 
 ### 3.2 Deadline
 
-The deadline for registrations is Saturday January 8, 2022. After this date,
+The deadline for registrations is Saturday January 22, 2022. After this date,
 new entries will not be accepted, and no one will be added to any team's
 roster.
 
