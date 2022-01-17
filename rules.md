@@ -228,6 +228,15 @@ then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
 Teams may register by posting in the `#registration` channel as outlined in the
 pinned messages.
 
+When registration closes, the channel will be locked. Until then, any team
+captain may edit their registration post at will and without approval from
+staff.
+
+Although you may be provided with advance warnings about problems with your
+registration as a courtesy, it is your responsibility to check for banned
+players, players registered twice, and follow the instructions in the pinned
+messages, etc.
+
 ### 3.2 Deadline
 
 The deadline for registrations is Saturday January 22, 2022. After this date,
