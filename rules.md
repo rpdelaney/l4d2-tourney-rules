@@ -109,8 +109,8 @@ The tournament will consist of two sections.
 
 ### 2.1 Swiss section
 
-The first section will be a Swiss System tournament of \[TBD\] rounds. A match
-win will score 1 point; a tie scores a half point; a loss or forfeit scores 0
+The first section will be a Swiss System tournament of 7 rounds. A match win
+will score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
 After the registration deadline, the registered participants will be seeded
