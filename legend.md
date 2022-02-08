@@ -12,6 +12,7 @@
     - [Pts](#pts)
     - [1...2](#12)
     - [Tiebreakers](#tiebreakers)
+  - [Pairings](#pairings)
 
 <!-- mdformat-toc end -->
 
@@ -83,3 +84,14 @@ the differences between them, is complicated. What you need to know is:
 I get that these charts aren't super user friendly. There's a lot of info and
 not all of it is relevant. If you have questions, let me know and I'll update
 this post if necessary.
+
+## Pairings
+
+This one is a lot simpler, because you can ignore pretty much everything on it
+except the team names. If there is the name of another team across from yours,
+you're playing vs them in that round.
+
+If it says "(bye)" or "(not paired)" or anything else of such, you're not
+playing this round. Usually, "(not paired)" is for teams that have been
+withdrawn from the tournament. "(bye)" is the free win you get if you're the
+lucky one because we have an uneven number of teams being paired in that round.
