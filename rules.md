@@ -109,8 +109,8 @@ The tournament will consist of two sections.
 
 ### 2.1 Swiss section
 
-The first section will be a Swiss System tournament of \[TBD\] rounds. A match
-win will score 1 point; a tie scores a half point; a loss or forfeit scores 0
+The first section will be a Swiss System tournament of 7 rounds. A match win
+will score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
 After the registration deadline, the registered participants will be seeded
@@ -226,6 +226,15 @@ then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
 
 Teams may register by posting in the `#registration` channel as outlined in the
 pinned messages.
+
+When registration closes, the channel will be locked. Until then, any team
+captain may edit their registration post at will and without approval from
+staff.
+
+Although you may be provided with advance warnings about problems with your
+registration as a courtesy, it is your responsibility to check for banned
+players, players registered twice, and follow the instructions in the pinned
+messages, etc.
 
 ### 3.2 Deadline
 
