@@ -22,12 +22,4 @@ repos:
       - id: mdspell
       - id: spelling-sort
 
-  - repo: local
-    hooks:
-      - id: markdownlint
-        name: markdownlint
-        language: system
-        entry: markdownlint
-        types: [markdown]
-
 # EOF
