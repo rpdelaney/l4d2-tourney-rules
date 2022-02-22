@@ -79,7 +79,6 @@ The Tournament Directors will be:
 The Assistant Tournament Director(s) will be:
 
 - loudmb
-- vanille
 
 ### 1.2 Disputes
 
