@@ -139,9 +139,11 @@ group. A bye scores a full point.
 
 Ties will be broken by the following criteria, descending :
 
-1. \[TBD\]
-2. \[TBD\]
-3. \[TBD\]
+1. [Median Bucholz][7]
+2. [Cumulative][8]
+3. Direct Encounter: if two teams played against each other directly then the
+   winner of that encounter is given the higher placement.
+4. [Sonnenborn-Berger][9]
 
 #### 2.1.4 No-shows
 
@@ -658,3 +660,6 @@ trademarks are property of their respective owners.
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [6]: https://github.com/SirPlease/IPTables
+[7]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
+[8]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
+[9]: https://senseis.xmp.net/?SonnebornBerger
