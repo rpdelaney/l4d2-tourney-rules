@@ -29,6 +29,7 @@
     - [5.4 Reporting results](#54-reporting-results)
     - [5.5 How to schedule a match](#55-how-to-schedule-a-match)
     - [5.6 Requests for Oversight](#56-requests-for-oversight)
+    - [5.7 Roster players may play in the match](#57-roster-players-may-play-in-the-match)
   - [Section 6: Match Play](#section-6-match-play)
     - [6.1 Spectators](#61-spectators)
     - [6.2 Tardiness](#62-tardiness)
@@ -345,6 +346,13 @@ Any team may request that a staff member be present at their match. The staff
 will honor reasonable requests where they can, weighing conflicting personal
 obligations, the significance of the match to the tournament results, and the
 seriousness of concerns about improper behavior that may take place.
+
+### 5.7 Roster players may play in the match
+
+Each opposing team may field players from their roster as they please. Any
+agreements between opponents that a roster player will not play in a match are
+unenforceable, whether that agreement was a condition on the match schedule,
+server choice, or otherwise.
 
 ## Section 6: Match Play
 
