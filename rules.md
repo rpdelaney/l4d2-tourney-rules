@@ -259,8 +259,7 @@ participate in the tournament with their banned account, nor with any alternate
 account. Any match played with a banned player will be overturned to a forfeit
 loss and their team may be suspended from the tournament.
 
-You may review the public ban list
-[here](http://sirpleaseny.site.nfoservers.com/index.php?p=banlist&advSearch=e,0&advType=length).
+You may review the public ban list at [SirPlease.gg][10].
 
 ### 3.5 Roster size
 
@@ -662,3 +661,4 @@ trademarks are property of their respective owners.
 [7]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [8]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [9]: https://senseis.xmp.net/?SonnebornBerger
+[10]: https://sirplease.gg/index.php?p=banlist
