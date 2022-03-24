@@ -115,7 +115,8 @@ A match may consist of:
 - two games with each opposing team choosing the server for one of the two
   games, decided by the sum of the scores of both games, (a.k.a. "Home/Away"),
   OR
-- a single game on a neutral server.
+- a single game on a neutral server chosen by mutual agreement during match
+  scheduling.
 
 In the event that opposing teams cannot agree on a neutral server according to
 these rules, the Home/Away system will be used.
