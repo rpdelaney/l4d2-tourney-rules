@@ -312,6 +312,10 @@ apply:
 Each team's home server will be a server that satisfies the above criteria and
 provides the best average ping for the members of their team.
 
+Due to restrictions placed on internet traffic at the internet backbone level,
+home servers will not be located inside mainland China, or otherwise behind
+"[The Great Firewall][greatfirewall-en]".
+
 #### 4.1.2 Gamesmanship is not tolerated
 
 It is not acceptable to choose a home server on the basis that it would provide
@@ -685,3 +689,4 @@ trademarks are property of their respective owners.
 [8]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [9]: https://senseis.xmp.net/?SonnebornBerger
 [10]: https://sirplease.gg/index.php?p=banlist
+[greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
