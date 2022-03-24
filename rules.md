@@ -110,13 +110,15 @@ This is an International tournament consisting of two sections.
 
 ### 2.1 International format
 
-There is no general preference that matches will be played on servers in any
-specific geographical region.
+A match may consist of:
 
-A match may consist of two games decided by the sum of the scores of both games
-(a.k.a. "Home/Away"), or a single game on a neutral server. Neither option is
-the default: opposing teams will decide which option is most reasonable and
-fair according to the circumstances during match scheduling.
+- two games with each opposing team choosing the server for one of the two
+  games, decided by the sum of the scores of both games, (a.k.a. "Home/Away"),
+  OR
+- a single game on a neutral server.
+
+In the event that opposing teams cannot agree on a neutral server according to
+these rules, the Home/Away system will be used.
 
 See [Section 4: Servers](#section-4-servers) and
 [Section 5: Match schedule](#section-5-match-schedule) for more guidance on
