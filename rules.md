@@ -670,7 +670,7 @@ their rosters.
 
 ## Section 11: Legal
 
-Copyright (C) 2014-2021 by Ryan Delaney.
+Copyright (C) 2014-2022 by Ryan Delaney.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
