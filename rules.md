@@ -10,8 +10,9 @@
     - [1.4 Conflicts of interest](#14-conflicts-of-interest)
     - [1.5 Official communication](#15-official-communication)
   - [Section 2: Tournament Format](#section-2-tournament-format)
-    - [2.1 Swiss section](#21-swiss-section)
-    - [2.2 Playoffs](#22-playoffs)
+    - [2.1 International format](#21-international-format)
+    - [2.2 Swiss section](#22-swiss-section)
+    - [2.3 Playoffs](#23-playoffs)
     - [2.3 Finales](#23-finales)
   - [Section 3: Registration process](#section-3-registration-process)
     - [3.1 Registration](#31-registration)
@@ -105,9 +106,26 @@ Official communication will take place via the
 
 ## Section 2: Tournament Format
 
-The tournament will consist of two sections.
+This is an International tournament consisting of two sections.
 
-### 2.1 Swiss section
+### 2.1 International format
+
+A match may consist of:
+
+- two games with each opposing team choosing the server for one of the two
+  games, decided by the sum of the scores of both games, (a.k.a. "Home/Away"),
+  OR
+- a single game on a neutral server chosen by mutual agreement during match
+  scheduling.
+
+In the event that opposing teams cannot agree on a neutral server according to
+these rules, the Home/Away system will be used.
+
+See [Section 4: Servers](#section-4-servers) and
+[Section 5: Match schedule](#section-5-match-schedule) for more guidance on
+server selection and the scheduling process.
+
+### 2.2 Swiss section
 
 The first section will be a Swiss System tournament of 7 rounds. A match win
 will score 1 point; a tie scores a half point; a loss or forfeit scores 0
@@ -125,18 +143,18 @@ the same record of Won : Lost games.
 There will be no eliminations from the Swiss section due to poor results or
 lost games.
 
-#### 2.1.1 Double Jeopardy
+#### 2.2.1 Double Jeopardy
 
 Under no circumstances will two competitors face each other more than once
 during the Swiss section.
 
-#### 2.1.2 Byes
+#### 2.2.2 Byes
 
 In the event that a round must be paired with an uneven number of participants,
 a bye will be awarded to the lowest ranked participant in the lowest score
 group. A bye scores a full point.
 
-#### 2.1.3 Tiebreakers
+#### 2.2.3 Tiebreakers
 
 Ties will be broken by the following criteria, descending :
 
@@ -146,7 +164,7 @@ Ties will be broken by the following criteria, descending :
    winner of that encounter is given the higher placement.
 4. [Sonnenborn-Berger][9]
 
-#### 2.1.4 No-shows
+#### 2.2.4 No-shows
 
 Forfeits distort the results by unbalancing the tiebreakers. Moreover, they
 disappoint other competitors who have joined the tournament to participate in
@@ -160,7 +178,7 @@ If your team forfeits any match, you **must** post in `#results` and clearly
 state your team name along with your request to be paired in the next round. If
 you do not, ***your team will be removed from the tournament without notice.***
 
-#### 2.1.5 References
+#### 2.2.5 References
 
 For information on the Swiss System, you can review the following links:
 
@@ -168,7 +186,7 @@ For information on the Swiss System, you can review the following links:
 - [World Chess Federation][4]
 - [Wizards of the Coast][5]
 
-#### 2.1.6 Deadlines
+#### 2.2.6 Deadlines
 
 Because Swiss pairings are based on prior round scoring, the next round cannot
 be paired until all the results of the previous round have been reported.
@@ -176,7 +194,7 @@ be paired until all the results of the previous round have been reported.
 Therefore, unplayed matches will be recorded as a double forfeit. Under no
 circumstances whatsoever will extensions be granted.
 
-#### 2.1.7 Swiss Map pool
+#### 2.2.7 Swiss Map pool
 
 1. Hard Rain\*
 2. Passifice\*
@@ -192,12 +210,12 @@ how many rounds will be scheduled for the Swiss section until registration has
 closed. These maps may be dropped from the Swiss map pool if the tournament is
 scheduled for fewer than 7 rounds.
 
-### 2.2 Playoffs
+### 2.3 Playoffs
 
 Once the first section is completed, 16 teams will move on to the playoffs. The
 playoffs section will be a double-elimination knockout tournament.
 
-#### 2.2.1 Playoffs Map pool
+#### 2.3.1 Playoffs Map pool
 
 - Round 1 - Suicide Blitz 2
 - Round 2 - Dark Carnival
@@ -257,13 +275,12 @@ A player may be registered for only one team in the tournament.
 
 ### 3.4 Banned players
 
-Any player with an indefinite ban on the SirPlease sourcebans may not
-participate in the tournament with their banned account, nor with any alternate
-account. Any match played with a banned player will be overturned to a forfeit
-loss and their team may be suspended from the tournament.
+Any player with a ban on the SirPlease sourcebans may not participate in the
+tournament with their banned account, nor with any alternate account. Any match
+played with a banned player will be overturned to a forfeit loss and their team
+may be suspended from the tournament.
 
-You may review the public ban list
-[here](http://sirpleaseny.site.nfoservers.com/index.php?p=banlist&advSearch=e,0&advType=length).
+You may review the public ban list at [SirPlease.gg][10].
 
 ### 3.5 Roster size
 
@@ -292,13 +309,17 @@ Game servers will be selected according to the following criteria:
 
 ### 4.1 Home servers
 
-The tournament is international (a.k.a. "Home/Away"). Therefore, the following
-rules apply:
+The tournament is an international format. Therefore, the following rules
+apply:
 
 #### 4.1.1 Home server selection
 
 Each team's home server will be a server that satisfies the above criteria and
 provides the best average ping for the members of their team.
+
+Due to restrictions placed on internet traffic at the internet backbone level,
+home servers will not be located inside mainland China, or otherwise behind
+"[The Great Firewall][greatfirewall-en]".
 
 #### 4.1.2 Gamesmanship is not tolerated
 
@@ -651,7 +672,7 @@ their rosters.
 
 ## Section 11: Legal
 
-Copyright (C) 2014-2021 by Ryan Delaney.
+Copyright (C) 2014-2022 by Ryan Delaney.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
@@ -672,3 +693,5 @@ trademarks are property of their respective owners.
 [7]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [8]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [9]: https://senseis.xmp.net/?SonnebornBerger
+[10]: https://sirplease.gg/index.php?p=banlist
+[greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
