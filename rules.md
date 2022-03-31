@@ -204,7 +204,9 @@ playoffs section will be a double-elimination knockout tournament.
 - All subsequent rounds: Veto
 
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
-map selection pool for the map ban process will be:
+lower playoff seed chooses a map to ban first.
+
+The map selection pool for the map ban process will be:
 
 - Dark Carnival
 - Dark Carnival: Remix
