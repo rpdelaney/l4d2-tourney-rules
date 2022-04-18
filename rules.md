@@ -224,12 +224,16 @@ playoffs section will be a double-elimination knockout tournament.
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
 map selection pool for the map ban process will be:
 
+- Carried Off
 - Dark Carnival
 - Dark Carnival: Remix
+- Dead Before Dawn
 - Death Toll
+- Detour Ahead
 - Diescraper Redeux
 - Hard Rain
 - Hard Rain: Downpour
+- Open Road
 - Passifice
 - Suicide Blitz 2
 - The Parish
