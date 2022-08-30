@@ -1,8 +1,8 @@
-# Really Big Tournament 6 Rules
+# Left 4 Dead 2 Tournament Standard Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Really Big Tournament 6 Rules](#really-big-tournament-6-rules)
+- [Left 4 Dead 2 Tournament Standard Rules](#left-4-dead-2-tournament-standard-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
@@ -74,9 +74,7 @@
 
 The Tournament Directors will be:
 
-- alexi21
-- an entire sleeve of fig newtons
-- Rails Barlow
+- \[TBD\]
 
 ### 1.2 Disputes
 
@@ -97,8 +95,7 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via the
-[Official RBT6 Discord](https://discord.gg/WasGYCTNM2).
+Official communication will take place via \[TBD\].
 
 ## Section 2: Tournament Format
 
@@ -154,11 +151,11 @@ group. A bye scores a full point.
 
 Ties will be broken by the following criteria, descending :
 
-1. \[Median Bucholz\]\[7\]
-1. \[Cumulative\]\[8\]
+1. [Median Bucholz][7]
+1. [Cumulative][8]
 1. Direct Encounter: if two teams played against each other directly then the
    winner of that encounter is given the higher placement.
-1. \[Sonnenborn-Berger\]\[9\]
+1. [Sonnenborn-Berger][9]
 
 #### 2.2.4 No-shows
 
@@ -660,5 +657,8 @@ trademarks are property of their respective owners.
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [6]: https://github.com/SirPlease/IPTables
+[7]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
+[8]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
+[9]: https://senseis.xmp.net/?SonnebornBerger
 [10]: https://sirplease.gg/index.php?p=banlist
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
