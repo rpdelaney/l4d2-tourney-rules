@@ -151,11 +151,11 @@ group. A bye scores a full point.
 
 Ties will be broken by the following criteria, descending :
 
-1. [Median Bucholz][7]
-1. [Cumulative][8]
+1. [Median Bucholz][tiebreak-mbucholz]
+1. [Cumulative][tiebreak-cumulative]
 1. Direct Encounter: if two teams played against each other directly then the
    winner of that encounter is given the higher placement.
-1. [Sonnenborn-Berger][9]
+1. [Sonnenborn-Berger][tiebreak-sb]
 
 #### 2.2.4 No-shows
 
@@ -254,7 +254,7 @@ participate in the tournament with their banned account, nor with any alternate
 account. Any match played with a banned player will be overturned to a forfeit
 loss and their team may be suspended from the tournament.
 
-You may review the public ban list [here][10].
+You may review the public ban list [here][banlist-sirplease].
 
 ### 3.5 Roster size
 
@@ -279,7 +279,7 @@ Game servers will be selected according to the following criteria:
   administrator.
 - Servers with tickrate greater than or equal to 100 will be preferred, unless
   both teams agree to another tickrate.
-- Servers with [DoS Protection][6] are preferred.
+- Servers with [DoS Protection][iptables] are preferred.
 
 ### 4.1 Home servers
 
@@ -656,9 +656,9 @@ trademarks are property of their respective owners.
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
-[6]: https://github.com/SirPlease/IPTables
-[7]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
-[8]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
-[9]: https://senseis.xmp.net/?SonnebornBerger
-[10]: https://sirplease.gg/index.php?p=banlist
+[banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
+[iptables]: https://github.com/SirPlease/IPTables
+[tiebreak-cumulative]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
+[tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
+[tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger
