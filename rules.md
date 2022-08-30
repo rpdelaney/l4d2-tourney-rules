@@ -13,10 +13,9 @@
     - [2.1 International format](#21-international-format)
     - [2.2 Swiss section](#22-swiss-section)
     - [2.3 Playoffs](#23-playoffs)
-    - [2.3 Finales](#23-finales)
+    - [2.4 Finales](#24-finales)
   - [Section 3: Registration process](#section-3-registration-process)
     - [3.1 Registration](#31-registration)
-    - [2.3 Finales](#23-finales-1)
     - [3.2 Deadline](#32-deadline)
     - [3.3 Double registration](#33-double-registration)
     - [3.4 Banned players](#34-banned-players)
@@ -216,7 +215,7 @@ lower playoff seed chooses a map to ban first.
 
 #### 2.3.1 Playoffs Map pool
 
-### 2.3 Finales
+### 2.4 Finales
 
 On 4-chapter campaigns (such as Dead Center or Swamp Fever), Chapter 4 will
 always be played.
@@ -231,7 +230,7 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-### 2.3 Finales
+You may register to participate in the tournament by \[TBD\].
 
 ### 3.2 Deadline
 
