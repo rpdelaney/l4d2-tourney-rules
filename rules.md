@@ -16,6 +16,7 @@
     - [2.3 Finales](#23-finales)
   - [Section 3: Registration process](#section-3-registration-process)
     - [3.1 Registration](#31-registration)
+    - [2.3 Finales](#23-finales-1)
     - [3.2 Deadline](#32-deadline)
     - [3.3 Double registration](#33-double-registration)
     - [3.4 Banned players](#34-banned-players)
@@ -71,9 +72,11 @@
 
 ### 1.1 Staff
 
-The Tournament Director will be: \[TBD\]
+The Tournament Directors will be:
 
-The Assistant Tournament Director(s) will be: \[TBD\]
+- alexi21
+- an entire sleeve of fig newtons
+- Rails Barlow
 
 ### 1.2 Disputes
 
@@ -94,7 +97,8 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via \[TBD\].
+Official communication will take place via the
+[Official RBT6 Discord](https://discord.gg/WasGYCTNM2).
 
 ## Section 2: Tournament Format
 
@@ -150,9 +154,11 @@ group. A bye scores a full point.
 
 Ties will be broken by the following criteria, descending :
 
-1. \[TBD\]
-1. \[TBD\]
-1. \[TBD\]
+1. \[Median Bucholz\]\[7\]
+1. \[Cumulative\]\[8\]
+1. Direct Encounter: if two teams played against each other directly then the
+   winner of that encounter is given the higher placement.
+1. \[Sonnenborn-Berger\]\[9\]
 
 #### 2.2.4 No-shows
 
@@ -189,7 +195,13 @@ teams participating in the tournament. Therefore, the organizers cannot predict
 how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
-1. \[TBD\]
+1. Hard Rain\*
+1. Passifice\*
+1. Dark Carnival: Remix
+1. Death Toll
+1. Hard Rain: Downpour
+1. Diescraper Redeux
+1. The Parish
 
 ### 2.3 Playoffs
 
@@ -205,7 +217,7 @@ tournament.
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
 lower playoff seed chooses a map to ban first.
 
-1. \[TBD\]
+#### 2.3.1 Playoffs Map pool
 
 ### 2.3 Finales
 
@@ -222,7 +234,7 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-Teams may register by \[TBD\].
+### 2.3 Finales
 
 ### 3.2 Deadline
 
@@ -235,7 +247,10 @@ A player may be registered for only one team in the tournament.
 
 ### 3.4 Banned players
 
-3.4 Banned players
+Any player with a ban on the SirPlease sourcebans may not participate in the
+tournament with their banned account, nor with any alternate account. Any match
+played with a banned player will be overturned to a forfeit loss and their team
+may be suspended from the tournament.
 
 Any player with an indefinite ban on the SirPlease sourcebans may not
 participate in the tournament with their banned account, nor with any alternate
@@ -311,8 +326,9 @@ midnight (PST / UTC-8). Failure to report weekly round results before the
 deadline will result in a double forfeit. Under no circumstances whatsoever
 will extensions be granted.
 
-To report match results, \[TBD\]. Include a screenshot of the final scores.
-Results will not be accepted via _any_ other means.
+To report match results, post in the `#results` channel as outlined in the
+pinned messages. Include a screenshot of the final scores. Results will not be
+accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
 
@@ -640,9 +656,9 @@ trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
 
-[10]: https://sirplease.gg/index.php?p=banlist
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [6]: https://github.com/SirPlease/IPTables
+[10]: https://sirplease.gg/index.php?p=banlist
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
