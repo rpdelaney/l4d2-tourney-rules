@@ -1,8 +1,8 @@
-# Really Big Tournament 6 Rules
+# Left 4 Dead 2 Tournament Standard Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Really Big Tournament 6 Rules](#really-big-tournament-6-rules)
+- [Left 4 Dead 2 Tournament Standard Rules](#left-4-dead-2-tournament-standard-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
@@ -10,9 +10,10 @@
     - [1.4 Conflicts of interest](#14-conflicts-of-interest)
     - [1.5 Official communication](#15-official-communication)
   - [Section 2: Tournament Format](#section-2-tournament-format)
-    - [2.1 Swiss section](#21-swiss-section)
-    - [2.2 Playoffs](#22-playoffs)
-    - [2.3 Finales](#23-finales)
+    - [2.1 International format](#21-international-format)
+    - [2.2 Swiss section](#22-swiss-section)
+    - [2.3 Playoffs](#23-playoffs)
+    - [2.4 Finales](#24-finales)
   - [Section 3: Registration process](#section-3-registration-process)
     - [3.1 Registration](#31-registration)
     - [3.2 Deadline](#32-deadline)
@@ -35,6 +36,7 @@
     - [6.3 Ringers](#63-ringers)
     - [6.4 Demos and screenshots](#64-demos-and-screenshots)
     - [6.5 Casting](#65-casting)
+    - [6.6 Substitutions](#66-substitutions)
   - [Section 7: Exploits](#section-7-exploits)
     - [7.1 AI pathing exploits](#71-ai-pathing-exploits)
     - [7.2 Tank pathing](#72-tank-pathing)
@@ -69,9 +71,9 @@
 
 ### 1.1 Staff
 
-The Tournament Director will be: \[TBD\]
+The Tournament Directors will be:
 
-The Assistant Tournament Director(s) will be: \[TBD\]
+- \[TBD\]
 
 ### 1.2 Disputes
 
@@ -96,12 +98,29 @@ Official communication will take place via \[TBD\].
 
 ## Section 2: Tournament Format
 
-The tournament will consist of two sections.
+This is an International tournament consisting of two sections.
 
-### 2.1 Swiss section
+### 2.1 International format
 
-The first section will be a Swiss System tournament of \[TBD\] rounds. A match
-win will score 1 point; a tie scores a half point; a loss or forfeit scores 0
+A match may consist of:
+
+- two games with each opposing team choosing the server for one of the two
+  games, decided by the sum of the scores of both games, (a.k.a. "Home/Away"),
+  OR
+- a single game on a neutral server chosen by mutual agreement during match
+  scheduling.
+
+In the event that opposing teams cannot agree on a neutral server according to
+these rules, the Home/Away system will be used.
+
+See [Section 4: Servers](#section-4-servers) and
+[Section 5: Match schedule](#section-5-match-schedule) for more guidance on
+server selection and the scheduling process.
+
+### 2.2 Swiss section
+
+The first section will be a Swiss System tournament of 7 rounds. A match win
+will score 1 point; a tie scores a half point; a loss or forfeit scores 0
 points.
 
 After the registration deadline, the registered participants will be seeded
@@ -116,26 +135,28 @@ the same record of Won : Lost games.
 There will be no eliminations from the Swiss section due to poor results or
 lost games.
 
-#### 2.1.1 Double Jeopardy
+#### 2.2.1 Double Jeopardy
 
 Under no circumstances will two competitors face each other more than once
 during the Swiss section.
 
-#### 2.1.2 Byes
+#### 2.2.2 Byes
 
 In the event that a round must be paired with an uneven number of participants,
 a bye will be awarded to the lowest ranked participant in the lowest score
 group. A bye scores a full point.
 
-#### 2.1.3 Tiebreakers
+#### 2.2.3 Tiebreakers
 
 Ties will be broken by the following criteria, descending :
 
-1. \[TBD\]
-1. \[TBD\]
-1. \[TBD\]
+1. [Median Bucholz][tiebreak-mbucholz]
+1. [Cumulative][tiebreak-cumulative]
+1. Direct Encounter: if two teams played against each other directly then the
+   winner of that encounter is given the higher placement.
+1. [Sonnenborn-Berger][tiebreak-sb]
 
-#### 2.1.4 No-shows
+#### 2.2.4 No-shows
 
 Forfeits distort the results by unbalancing the tiebreakers. Moreover, they
 disappoint other competitors who have joined the tournament to participate in
@@ -147,7 +168,7 @@ Tournament Directors by \[TBD\].
 If your team forfeits any match, you **must** \[TBD\] or **you will be removed
 from the tournament without notice.**
 
-#### 2.1.5 References
+#### 2.2.5 References
 
 For information on the Swiss System, you can review the following links:
 
@@ -155,7 +176,7 @@ For information on the Swiss System, you can review the following links:
 - [World Chess Federation][4]
 - [Wizards of the Coast][5]
 
-#### 2.1.6 Deadlines
+#### 2.2.6 Deadlines
 
 Because Swiss pairings are based on prior round scoring, the next round cannot
 be paired until all the results of the previous round have been reported.
@@ -163,30 +184,53 @@ be paired until all the results of the previous round have been reported.
 Therefore, unplayed matches will be recorded as a double forfeit. Under no
 circumstances whatsoever will extensions be granted.
 
-#### 2.1.7 Swiss Map Pool
+#### 2.2.7 Swiss Map pool
 
-1. \[TBD\]
+The number of Swiss rounds is determined mathematically using the number of
+teams participating in the tournament. Therefore, the organizers cannot predict
+how many rounds will be scheduled for the Swiss section until registration has
+closed.
 
-### 2.2 Playoffs
+1. Hard Rain\*
+1. Passifice\*
+1. Dark Carnival: Remix
+1. Death Toll
+1. Hard Rain: Downpour
+1. Diescraper Redeux
+1. The Parish
+
+### 2.3 Playoffs
+
+Once the first section is completed, 16 teams will move on to the playoffs. The
+playoffs section will be a double-elimination knockout tournament.
+
+#### 2.3.1 Playoffs Map pool
 
 Once the first section is completed, \[TBD\] teams will move on to the
 playoffs. The playoffs section will be a single-elimination knockout
 tournament.
 
-#### 2.2.1 Playoffs Map pool
+"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
+lower playoff seed chooses a map to ban first.
 
-1. \[TBD\]
+#### 2.3.1 Playoffs Map pool
 
-### 2.3 Finales
+### 2.4 Finales
 
-Unless there is clear, documented consensus between both teams to skip finales,
-then all finales will be played, excluding The Parish finale (`c5m5_bridge`).
+On 4-chapter campaigns (such as Dead Center or Swamp Fever), Chapter 4 will
+always be played.
+
+On 5-chapter campaigns, unless there is clear, documented agreement between
+both teams on whether to play Chapter 5, then:
+
+- In a neutral server match, Chapter 5 _will_ be played.
+- In a Home/Away match, Chapter 5 _will not_ be played.
 
 ## Section 3: Registration process
 
 ### 3.1 Registration
 
-Teams may register by \[TBD\].
+You may register to participate in the tournament by \[TBD\].
 
 ### 3.2 Deadline
 
@@ -199,15 +243,17 @@ A player may be registered for only one team in the tournament.
 
 ### 3.4 Banned players
 
-3.4 Banned players
+Any player with a ban on the SirPlease sourcebans may not participate in the
+tournament with their banned account, nor with any alternate account. Any match
+played with a banned player will be overturned to a forfeit loss and their team
+may be suspended from the tournament.
 
 Any player with an indefinite ban on the SirPlease sourcebans may not
 participate in the tournament with their banned account, nor with any alternate
 account. Any match played with a banned player will be overturned to a forfeit
 loss and their team may be suspended from the tournament.
 
-You may review the public ban list
-[here](http://sirpleaseny.site.nfoservers.com/index.php?p=banlist&advSearch=e,0&advType=length).
+You may review the public ban list [here][banlist-sirplease].
 
 ### 3.5 Roster size
 
@@ -232,17 +278,21 @@ Game servers will be selected according to the following criteria:
   administrator.
 - Servers with tickrate greater than or equal to 100 will be preferred, unless
   both teams agree to another tickrate.
-- Servers with [DoS Protection][6] are preferred.
+- Servers with [DoS Protection][iptables] are preferred.
 
 ### 4.1 Home servers
 
-If the tournament is international (a.k.a. "Home/Away"), the following rules
+The tournament is an international format. Therefore, the following rules
 apply:
 
 #### 4.1.1 Home server selection
 
 Each team's home server will be a server that satisfies the above criteria and
 provides the best average ping for the members of their team.
+
+Due to restrictions placed on internet traffic at the internet backbone level,
+home servers will not be located inside mainland China, or otherwise behind
+"[The Great Firewall][greatfirewall-en]".
 
 #### 4.1.2 Gamesmanship is not tolerated
 
@@ -272,8 +322,9 @@ midnight (PST / UTC-8). Failure to report weekly round results before the
 deadline will result in a double forfeit. Under no circumstances whatsoever
 will extensions be granted.
 
-To report match results, \[TBD\]. Include a screenshot of the final scores.
-Results will not be accepted via _any_ other means.
+To report match results, post in the `#results` channel as outlined in the
+pinned messages. Include a screenshot of the final scores. Results will not be
+accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
 
@@ -367,6 +418,10 @@ at minimum, in a zero score for any round for which they were not submitted.
 The participants agree that the matches may be casted according to the usual
 process.
 
+### 6.6 Substitutions
+
+In a Home / Away match, you must use the same 4 players in both games.
+
 ## Section 7: Exploits
 
 ### 7.1 AI pathing exploits
@@ -415,7 +470,7 @@ bounds.
 ### 7.7 Hard Rain Pipes
 
 On `c4m2_sugarmill`, do not jump on the pipes near the trailer by climbing on
-the ruined brick wall.
+the ruined brick wall. (Screenshot [1](assets/pipe1.jpg) [2](assets/pipe2.jpg))
 
 ### 7.8 Hard Rain elevator
 
@@ -583,7 +638,7 @@ their rosters.
 
 ## Section 11: Legal
 
-Copyright (C) 2014-2021 by Ryan Delaney.
+Copyright (C) 2014-2022 by Ryan Delaney.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
@@ -597,11 +652,12 @@ trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
 
-<!--
-vim: filetype=markdown spelllang=en_US
--->
-
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
-[6]: https://github.com/SirPlease/IPTables
+[banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
+[greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
+[iptables]: https://github.com/SirPlease/IPTables
+[tiebreak-cumulative]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
+[tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
+[tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger

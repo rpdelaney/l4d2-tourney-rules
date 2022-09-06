@@ -1,5 +1,0 @@
----
-default: true
-
-# No inline html
-MD033: false
