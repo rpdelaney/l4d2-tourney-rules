@@ -71,9 +71,9 @@
 
 ### 1.1 Staff
 
-The Tournament Directors will be:
+Tournament Director: \[TBD\]
 
-- \[TBD\]
+Assistant Tournament Directors: \[TBD\]
 
 ### 1.2 Disputes
 
@@ -105,13 +105,13 @@ This is an International tournament consisting of two sections.
 A match may consist of:
 
 - two games with each opposing team choosing the server for one of the two
-  games, decided by the sum of the scores of both games, (a.k.a. "Home/Away"),
-  OR
+  games, decided by the sum of the scores of both games, (also known as
+  "Home/Away"), OR
 - a single game on a neutral server chosen by mutual agreement during match
   scheduling.
 
-In the event that opposing teams cannot agree on a neutral server according to
-these rules, the Home/Away system will be used.
+If opposing teams cannot agree on a neutral server according to these rules,
+use the Home/Away system.
 
 See [Section 4: Servers](#section-4-servers) and
 [Section 5: Match schedule](#section-5-match-schedule) for more guidance on
@@ -119,18 +119,17 @@ server selection and the scheduling process.
 
 ### 2.2 Swiss section
 
-The first section will be a Swiss System tournament of 7 rounds. A match win
-will score 1 point; a tie scores a half point; a loss or forfeit scores 0
-points.
+The first section will be a Swiss System tournament of \[TBD\] rounds. A match
+win will score 1 point, a tie scores a half point, and a loss or forfeit scores
+0 points.
 
-After the registration deadline, the registered participants will be seeded
-according to the judgment of the Tournament Directors. The first round will
-then be paired by a "top half vs bottom half" method. For example, if there are
-10 participants, then the #1 seed will be paired against the #6 seed, the #2
-seed against the #7 seed, and so on.
+After the registration deadline, the staff will seed registered teams, and then
+pair them by a "top half vs bottom half" method. For example, if there are 10
+participants, then the #1 seed will play against the #6 seed, the #2 seed
+against the #7 seed, and so on.
 
-In subsequent rounds, participants will be paired at random against others with
-the same record of Won : Lost games.
+In later rounds, participants will be paired at random against others with the
+same record of Won : Lost games.
 
 There will be no eliminations from the Swiss section due to poor results or
 lost games.
@@ -142,13 +141,13 @@ during the Swiss section.
 
 #### 2.2.2 Byes
 
-In the event that a round must be paired with an uneven number of participants,
-a bye will be awarded to the lowest ranked participant in the lowest score
-group. A bye scores a full point.
+If an uneven number of participants are paired in a round, a bye is awarded to
+the lowest ranked participant in the lowest score group. A bye scores a full
+point.
 
 #### 2.2.3 Tiebreakers
 
-Ties will be broken by the following criteria, descending :
+The following criteria break ties, descending:
 
 1. [Median Bucholz][tiebreak-mbucholz]
 1. [Cumulative][tiebreak-cumulative]
@@ -162,8 +161,8 @@ Forfeits distort the results by unbalancing the tiebreakers. Moreover, they
 disappoint other competitors who have joined the tournament to participate in
 the competition.
 
-If you wish to withdraw from the tournament, please notify one of the
-Tournament Directors by \[TBD\].
+If you wish to withdraw from the tournament, please tell one of the Tournament
+Directors by \[TBD\].
 
 If your team forfeits any match, you **must** \[TBD\] or **you will be removed
 from the tournament without notice.**
@@ -178,11 +177,12 @@ For information on the Swiss System, you can review the following links:
 
 #### 2.2.6 Deadlines
 
-Because Swiss pairings are based on prior round scoring, the next round cannot
-be paired until all the results of the previous round have been reported.
+Because the scores from the previous round determine Swiss pairings, the next
+round cannot be paired until all the results of the previous round have been
+reported.
 
-Therefore, unplayed matches will be recorded as a double forfeit. Under no
-circumstances whatsoever will extensions be granted.
+Therefore, unplayed matches are a double forfeit. Under no circumstances
+whatsoever will extensions be granted.
 
 #### 2.2.7 Swiss Map pool
 
@@ -207,7 +207,7 @@ tournament.
 
 #### 2.3.1 Playoffs Map pool
 
-Once the first section is completed, \[TBD\] teams will move on to the
+Once the first section has concluded, \[TBD\] teams will move on to the
 playoffs. The playoffs section will be a single-elimination knockout
 tournament.
 
@@ -235,12 +235,12 @@ You may register to participate in the tournament by \[TBD\].
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries will
-not be accepted, and no one will be added to any team's roster.
+The deadline for registrations is \[TBD\]. After this date, new entries and
+requests for roster changes are invalid.
 
 ### 3.3 Double registration
 
-A player may be registered for only one team in the tournament.
+A player may register for only one team in the tournament.
 
 ### 3.4 Banned players
 
@@ -251,8 +251,8 @@ may be suspended from the tournament.
 
 Any player with an indefinite ban on the SirPlease sourcebans may not
 participate in the tournament with their banned account, nor with any alternate
-account. Any match played with a banned player will be overturned to a forfeit
-loss and their team may be suspended from the tournament.
+account. Any match played with a banned player is a forfeit loss, and their
+team may be suspended from the tournament.
 
 You may review the public ban list [here][banlist-sirplease].
 
@@ -275,8 +275,8 @@ Game servers will be selected according to the following criteria:
 - The server will be dedicated and hosted by a reputable hosting company.
 - The server will have an up to date and working installation of the
   configuration and plugins.
-- Servers will have enough slots for up to two casters, two cameramen, and an
-  administrator.
+- Servers will have enough slots for up to two casters, two camera operators,
+  and an administrator.
 - Servers with tickrate greater than or equal to 100 will be preferred, unless
   both teams agree to another tickrate.
 - Servers with [DoS Protection][iptables] are preferred.
@@ -288,7 +288,7 @@ apply:
 
 #### 4.1.1 Home server selection
 
-Each team's home server will be a server that satisfies the above criteria and
+Each team's home server will be a server that satisfies these criteria and
 provides the best average ping for the members of their team.
 
 Due to restrictions placed on internet traffic at the internet backbone level,
@@ -298,8 +298,8 @@ home servers will not be located inside mainland China, or otherwise behind
 #### 4.1.2 Gamesmanship is not tolerated
 
 It is not acceptable to choose a home server on the basis that it would provide
-poor latency for the opposing team. Attempts at gamesmanship in server choice
-will be dealt with by the staff.
+poor latency for the opposing team. The staff will deal with attempts at
+gamesmanship in server choice.
 
 ## Section 5: Match schedule
 
@@ -309,7 +309,7 @@ Pairings and brackets for each round will be posted weekly on Monday.
 
 ### 5.2 Scheduling deadline
 
-Matches must be scheduled promptly. Begin negotiating the schedule early;
+Schedule your matches promptly. Begin negotiating the schedule early;
 delinquent scheduling will result in a double forfeit.
 
 ### 5.3 Scheduling duties
@@ -318,10 +318,10 @@ Any player on the roster may perform scheduling duties.
 
 ### 5.4 Reporting results
 
-Results must be submitted, with a screenshot, by the following Sunday at
-midnight (PST / UTC-8). Failure to report weekly round results before the
-deadline will result in a double forfeit. Under no circumstances whatsoever
-will extensions be granted.
+Submit results, with a screenshot, by the following Sunday at midnight (PT /
+UTC-8). Failure to report weekly round results before the deadline will result
+in a double forfeit. Under no circumstances whatsoever will extensions be
+granted.
 
 To report match results, post in the `#results` channel as outlined in the
 pinned messages. Include a screenshot of the final scores. Results will not be
@@ -374,8 +374,8 @@ from the tournament or that player has been removed from the roster.
 Each team must field at least three (3) rostered players in each match,
 regardless of consent from the opponent.
 
-No ringers will be allowed in the playoff phase of the tournament, regardless
-of consent from either team.
+Ringers are not allowed in the playoff phase of the tournament, regardless of
+consent from either team.
 
 ### 6.4 Demos and screenshots
 
@@ -384,10 +384,9 @@ that each participant record their match play.
 
 #### 6.4.1 Demos are mandatory
 
-Each participant is required to record and save demos of their match play. All
-demos must be stored until the end of the tournament, and must be submitted
-promptly to a Tournament Director on request. A live stream is not a substitute
-for a demo.
+Players must record and save demos of their match play. Store demos until the
+end of the tournament, and submit them to a Tournament Director on request. A
+live stream is not a substitute for a demo.
 
 To record a demo, open the console and type `record <demoname>`. It is not
 necessary to re-record after a map change, but it is necessary to re-record
@@ -395,21 +394,20 @@ after disconnecting from the server for any reason.
 
 #### 6.4.2 Screenshots are mandatory
 
-Each team is allowed up to one pause per round to request screenshots. Each
-player must take a screenshot whenever asked by anyone in the server.
+Each team may pause once per round to request screenshots. Players must take a
+screenshot whenever asked by anyone in the server.
 
 #### 6.4.3 Privacy
 
-Players are never required to provide demos to anyone except the staff.
-Although there is no basis for an expectation of privacy, they will be shared
-only for asking second opinions of skilled players who are trusted to keep what
-they find in confidence, or to expose wrongdoing to the community if, and only
-if, it is discovered.
+Players are never required to give demos to anyone except the staff. Although
+there is no basis for an expectation of privacy, they will be shared only for
+asking second opinions of skilled and trusted players, or to expose wrongdoing
+to the community.
 
 #### 6.4.4 Responsibility is with you
 
-It is each player’s individual responsibility to ensure that demos and
-screenshots are recorded, un-corrupted, and submitted in a timely manner.
+It is each player's individual responsibility to record demos and screenshots,
+un-corrupted, and submitted timely.
 
 Failure to submit demos or screenshots on the request of the staff will result,
 at minimum, in a zero score for any round for which they were not submitted.
@@ -448,10 +446,10 @@ Historically, accepted uses of the spectate command have been:
 - A player is out of bounds or has become stuck in an object and cannot move or
   attack the survivors.
 - A player-controlled SI is not being killed by the survivors in a reasonable
-  time (e.g. instead of killing a spitter, the survivors are m2ing it
+  time (for example, instead of killing a spitter, the survivors are m2ing it
   repeatedly).
-- The server has crashed previously and spectating is necessary to ensure a
-  proper tank rotation.
+- The server crashed and spectating is necessary to guarantee a proper tank
+  rotation.
 
 ### 7.4 "Stuck spots"
 
