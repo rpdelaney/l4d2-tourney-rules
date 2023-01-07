@@ -201,8 +201,9 @@ closed.
 
 ### 2.3 Playoffs
 
-Once the first section is completed, 16 teams will move on to the playoffs. The
-playoffs section will be a double-elimination knockout tournament.
+Once the first section is completed, \[TBD\] teams will move on to the
+playoffs. The playoffs section will be a double-elimination knockout
+tournament.
 
 #### 2.3.1 Playoffs Map pool
 
