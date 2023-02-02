@@ -99,7 +99,8 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via \[TBD\].
+Official communication will take place via the
+[Discord server](https://discord.com/invite/Bd7RBZkm3B).
 
 ## Section 2: Tournament Format
 
