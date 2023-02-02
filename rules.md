@@ -199,8 +199,8 @@ how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
 1. Hard Rain\*
-1. Passifice\*
-1. Dark Carnival: Remix
+1. Dark Carnival
+1. Passifice
 1. Death Toll
 1. Hard Rain: Downpour
 1. Diescraper Redeux
@@ -222,6 +222,14 @@ tournament.
 lower playoff seed chooses a map to ban first.
 
 #### 2.3.1 Playoffs Map pool
+
+The map pool for veto rounds will include all the maps from the Swiss section,
+plus:
+
+- Open Road
+- Carried Off
+- Detour Ahead
+- Dead Before Dawn
 
 ### 2.4 Finales
 
