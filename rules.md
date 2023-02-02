@@ -244,11 +244,6 @@ A player may register for only one team in the tournament.
 
 ### 3.4 Banned players
 
-Any player with a ban on the SirPlease sourcebans may not participate in the
-tournament with their banned account, nor with any alternate account. Any match
-played with a banned player will be overturned to a forfeit loss and their team
-may be suspended from the tournament.
-
 Any player with an indefinite ban on the SirPlease sourcebans may not
 participate in the tournament with their banned account, nor with any alternate
 account. Any match played with a banned player is a forfeit loss, and their
