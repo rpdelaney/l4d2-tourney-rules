@@ -71,9 +71,14 @@
 
 ### 1.1 Staff
 
-Tournament Director: \[TBD\]
+Tournament Director:
 
-Assistant Tournament Directors: \[TBD\]
+- an entire sleeve of fig newtons
+
+Assistant Tournament Directors:
+
+- SirPlease
+- loudmb
 
 ### 1.2 Disputes
 
