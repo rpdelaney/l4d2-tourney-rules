@@ -168,7 +168,8 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by \[TBD\].
+Directors by posting in `#discussion`, `#results`, or opening a ticket in
+`#issues`.
 
 If your team forfeits any match, you MUST ask to be paired in the next round,
 or **you will be removed from the tournament without notice.**
