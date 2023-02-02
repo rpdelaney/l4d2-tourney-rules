@@ -170,8 +170,8 @@ the competition.
 If you wish to withdraw from the tournament, please tell one of the Tournament
 Directors by \[TBD\].
 
-If your team forfeits any match, you **must** \[TBD\] or **you will be removed
-from the tournament without notice.**
+If your team forfeits any match, you MUST ask to be paired in the next round,
+or **you will be removed from the tournament without notice.**
 
 #### 2.2.5 References
 
