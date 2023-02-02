@@ -237,7 +237,8 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-You may register to participate in the tournament by \[TBD\].
+You may register to participate in the tournament by posting in
+`#registration`. Follow the instructions in the pinned messages.
 
 ### 3.2 Deadline
 
