@@ -19,8 +19,9 @@
 The Swiss system is very popular in chess tournaments. That means there's some
 sophisticated software out there for managing Swiss system tournaments... for
 chess. I use chess software from VegaChess.com to manage the Swiss section of
-RBT 6 pairings. It's very convenient because it has several features that are
-useful for me that aren't present on other apps like Challonge or BinaryBeast.
+tournament pairings. It's very convenient because it has several features that
+are useful for me that aren't present on other apps like Challonge or
+BinaryBeast.
 
 However, since the software is designed with chess tournaments in mind only,
 some of the output may seem confusing if you're not familiar already.
@@ -30,8 +31,8 @@ some of the output may seem confusing if you're not familiar already.
 For example, each week I post a standings table showing the relative rank of
 each team's performance after the previous round. Here's a breakdown.
 
-An asterisk means you can ignore this column: it is not relevant to anything
-important in RBT 6.
+An asterisk means you can ignore this column: it is not relevant to anything in
+the tournament.
 
 ### Pos
 
@@ -43,8 +44,8 @@ This is the name of the team being ranked.
 
 ### \*Rtg
 
-Elo rating. This is the chess equivalent of MMR. Since teams in RBT 6 aren't
-rated, it's not used.
+Elo rating. This is the chess equivalent of MMR. Since teams in aren't rated,
+it's not used.
 
 ### \*T
 
@@ -78,7 +79,7 @@ the differences between them, is complicated. What you need to know is:
 
 1. Ties are broken from left to right. The first tie breaker that is different
    between two teams breaks the tie.
-2. The Pts column is the first tiebreaker. If there is a tie on points, the
+1. The Pts column is the first tiebreaker. If there is a tie on points, the
    next tiebreaker (BucM) is used. And so on.
 
 I get that these charts aren't super user friendly. There's a lot of info and
