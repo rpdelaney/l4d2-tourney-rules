@@ -199,9 +199,9 @@ how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
 1. Hard Rain\*
+1. Dead Center
 1. Dark Carnival
 1. Passifice
-1. Death Toll
 1. Hard Rain: Downpour
 1. Diescraper Redeux
 1. The Parish
@@ -228,6 +228,7 @@ plus:
 
 - Open Road
 - Carried Off
+- Suicide Blitz
 - Detour Ahead
 - Dead Before Dawn
 
