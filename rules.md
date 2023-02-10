@@ -198,13 +198,13 @@ teams participating in the tournament. Therefore, the organizers cannot predict
 how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
-1. Hard Rain\*
+1. Dark Carnival\*
+1. Suicide Blitz 2
 1. Dead Center
-1. Dark Carnival
 1. Passifice
-1. Hard Rain: Downpour
-1. Diescraper Redeux
 1. The Parish
+1. Diescraper Redeux
+1. Hard Rain: Downpour
 
 ### 2.3 Playoffs
 
@@ -228,9 +228,9 @@ plus:
 
 - Open Road
 - Carried Off
-- Suicide Blitz
 - Detour Ahead
 - Dead Before Dawn
+- I Hate Mountains
 
 ### 2.4 Finales
 
