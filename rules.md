@@ -227,6 +227,7 @@ plus:
 - Detour Ahead
 - Dead Before Dawn
 - I Hate Mountains
+- Swamp Fever
 
 ### 2.4 Finales
 
