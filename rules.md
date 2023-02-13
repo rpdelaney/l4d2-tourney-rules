@@ -249,8 +249,8 @@ You may register to participate in the tournament by posting in
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries and
-requests for roster changes are invalid.
+The deadline for registrations is Friday, March 17th, 2023 at 12:59 PM UTC.
+After this date, new entries and requests for roster changes are invalid.
 
 ### 3.3 Double registration
 
