@@ -214,10 +214,6 @@ tournament.
 
 #### 2.3.1 Playoffs Map pool
 
-Once the first section has concluded, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a single-elimination knockout
-tournament.
-
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
 lower playoff seed chooses a map to ban first.
 
