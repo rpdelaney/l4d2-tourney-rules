@@ -4,14 +4,14 @@
 
 - [Another Swiss Tournament 3 Rules](#another-swiss-tournament-3-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
-  - [Section 2: Tournament Format](#section-2-tournament-format)
+  - [Section 2: Tournament format](#section-2-tournament-format)
   - [Section 3: Registration process](#section-3-registration-process)
   - [Section 4: Servers](#section-4-servers)
   - [Section 5: Match schedule](#section-5-match-schedule)
   - [Section 6: Match Play](#section-6-match-play)
   - [Section 7: Exploits](#section-7-exploits)
   - [Section 8: Glitches](#section-8-glitches)
-  - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
+  - [Section 9: Competitive integrity](#section-9-competitive-integrity)
   - [Section 10: Unsportsmanlike conduct](#section-10-unsportsmanlike-conduct)
   - [Section 11: Legal](#section-11-legal)
 
@@ -52,7 +52,7 @@ possible.
 Official communication will take place via the
 [Discord server](https://discord.com/invite/Bd7RBZkm3B).
 
-## Section 2: Tournament Format
+## Section 2: Tournament format
 
 This is an International tournament consisting of two sections.
 
@@ -459,7 +459,7 @@ also possible on Dark Carnival and Hard Rain) the half will be replayed
 following a restart round. If necessary the final scores will be calculated
 manually.
 
-## Section 9: Competitive Integrity
+## Section 9: Competitive integrity
 
 Participants have a duty to conform to the generally accepted standards of fair
 play. Deviation from those standards is cheating, and threatens the legitimacy
