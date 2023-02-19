@@ -1,8 +1,8 @@
-# Left 4 Dead 2 Tournament Standard Rules
+# Another Swiss Tournament 3 Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Left 4 Dead 2 Tournament Standard Rules](#left-4-dead-2-tournament-standard-rules)
+- [Another Swiss Tournament 3 Rules](#another-swiss-tournament-3-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
