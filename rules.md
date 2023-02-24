@@ -425,24 +425,19 @@ passing through it in "ghost mode".
 As infected, do not attack the survivors in any way from out of the normal map
 bounds.
 
-### 7.7 Hard Rain Pipes
-
-On `c4m2_sugarmill`, do not jump on the pipes near the trailer by climbing on
-the ruined brick wall. (Screenshot [1](assets/pipe1.jpg) [2](assets/pipe2.jpg))
-
-### 7.8 Hard Rain elevator
+### 7.7 Hard Rain elevator
 
 Do not skip the elevator holdout event on `c4m2_sugarmill` by any means that
 allow the player to safely enter the sugar cane field without riding the
 elevator or being incapacitated or killed by fall damage.
 
-### 7.9 Death Toll 1 ladder
+### 7.8 Death Toll 1 ladder
 
 You many not cross the ruined bridge on `c11_m1` without climbing a ladder. If
 you find yourself on the far side of the bridge and you did not climb a ladder,
 you must go back and climb a ladder before progressing.
 
-### 7.10 Atrium gas cans
+### 7.9 Atrium gas cans
 
 As infected, you may not move gas cans on `c1m4_atrium` by punching or
 scratching them.
