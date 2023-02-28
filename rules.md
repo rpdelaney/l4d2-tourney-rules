@@ -79,13 +79,8 @@ The first section will be a Swiss System tournament of \[TBD\] rounds. A match
 win will score 1 point, a tie scores a half point, and a loss or forfeit scores
 0 points.
 
-After the registration deadline, the staff will seed registered teams, and then
-pair them by a "top half vs bottom half" method. For example, if there are 10
-participants, then the #1 seed will play against the #6 seed, the #2 seed
-against the #7 seed, and so on.
-
-In later rounds, participants will be paired at random against others with the
-same record of Won : Lost games.
+At the beginning of a Swiss round, each team will be paired at random against
+others with the same record of Won : Lost games.
 
 There will be no eliminations from the Swiss section due to poor results or
 lost games.
