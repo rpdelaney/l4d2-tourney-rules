@@ -255,6 +255,11 @@ It is not acceptable to choose a home server on the basis that it would provide
 poor latency for the opposing team. The staff will deal with attempts at
 gamesmanship in server choice.
 
+#### 4.1.3 fakelag
+
+The use of server-side "fakelag" is permitted with mutual agreement of both
+teams.
+
 ## Section 5: Match schedule
 
 ### 5.1 Rounds and scheduling
