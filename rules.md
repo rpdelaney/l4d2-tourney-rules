@@ -169,7 +169,6 @@ plus:
 
 - Open Road
 - Carried Off
-- Detour Ahead
 - Dead Before Dawn
 - I Hate Mountains
 
