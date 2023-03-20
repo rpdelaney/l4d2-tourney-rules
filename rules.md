@@ -143,7 +143,6 @@ teams participating in the tournament. Therefore, the organizers cannot predict
 how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
-1. Dark Carnival\*
 1. Suicide Blitz 2
 1. Dead Center
 1. Passifice
