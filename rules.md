@@ -322,8 +322,7 @@ agree to allow ringers, or ringers will not be allowed.
 
 #### 6.3.1 Double agents
 
-No registered player may ring for another team unless their team has withdrawn
-from the tournament or that player has been removed from the roster.
+No registered player may ring for another team.
 
 #### 6.3.2 Limits on ringers
 
