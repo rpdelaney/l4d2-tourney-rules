@@ -75,9 +75,9 @@ server selection and the scheduling process.
 
 ### 2.2 Swiss section
 
-The first section will be a Swiss System tournament of \[TBD\] rounds. A match
-win will score 1 point, a tie scores a half point, and a loss or forfeit scores
-0 points.
+The first section will be a Swiss System tournament of 6 rounds. A match win
+will score 1 point, a tie scores a half point, and a loss or forfeit scores 0
+points.
 
 At the beginning of a Swiss round, each team will be paired at random against
 others with the same record of Won : Lost games.
@@ -152,9 +152,8 @@ closed.
 
 ### 2.3 Playoffs
 
-Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a double-elimination knockout
-tournament.
+Once the first section is completed, 8 teams will move on to the playoffs. The
+playoffs section will be a double-elimination knockout tournament.
 
 #### 2.3.1 Playoffs Map pool
 
