@@ -8,7 +8,7 @@
   - [Section 3: Registration process](#section-3-registration-process)
   - [Section 4: Servers](#section-4-servers)
   - [Section 5: Match schedule](#section-5-match-schedule)
-  - [Section 6: Match Play](#section-6-match-play)
+  - [Section 6: Match play](#section-6-match-play)
   - [Section 7: Exploits](#section-7-exploits)
   - [Section 8: Glitches](#section-8-glitches)
   - [Section 9: Competitive integrity](#section-9-competitive-integrity)
@@ -155,7 +155,7 @@ closed.
 Once the first section is completed, 8 teams will move on to the playoffs. The
 playoffs section will be a double-elimination knockout tournament.
 
-#### 2.3.1 Playoffs Map pool
+#### 2.3.1 Mapban process
 
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map.
 
@@ -296,14 +296,14 @@ Competitors are strongly urged to post their complete match schedules to avoid
 any possibility of miscommunication or dispute about these details at match
 time.
 
-### 5.6 Requests for Oversight
+### 5.6 Requests for oversight
 
 Any team may request that a staff member be present at their match. The staff
 will honor reasonable requests where they can, weighing conflicting personal
 obligations, the significance of the match to the tournament results, and the
 seriousness of concerns about improper behavior that may take place.
 
-## Section 6: Match Play
+## Section 6: Match play
 
 ### 6.1 Spectators
 
