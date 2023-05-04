@@ -157,8 +157,11 @@ playoffs section will be a double-elimination knockout tournament.
 
 #### 2.3.1 Playoffs Map pool
 
-"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
-lower playoff seed chooses a map to ban first.
+"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map.
+
+The lower (better) playoff seed chooses who bans first. Each team takes turns
+banning maps until two maps are left. Then, mapban.gg will decide the map
+randomly. (Use the option "Ban until 1 maps left").
 
 #### 2.3.1 Playoffs Map pool
 
