@@ -210,8 +210,6 @@ tournament.
 "Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
 lower playoff seed chooses a map to ban first.
 
-#### 2.3.1 Playoffs Map pool
-
 ### 2.4 Finales
 
 On 4-chapter campaigns (such as Dead Center or Swamp Fever), Chapter 4 will
