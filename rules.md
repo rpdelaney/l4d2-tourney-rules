@@ -1,68 +1,18 @@
-# Left 4 Dead 2 Tournament Standard Rules
+# Another Swiss Tournament 3 Rules
 
-<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=2 --minlevel=1 -->
 
-- [Left 4 Dead 2 Tournament Standard Rules](#left-4-dead-2-tournament-standard-rules)
+- [Another Swiss Tournament 3 Rules](#another-swiss-tournament-3-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
-    - [1.1 Staff](#11-staff)
-    - [1.2 Disputes](#12-disputes)
-    - [1.3 Sanctions](#13-sanctions)
-    - [1.4 Conflicts of interest](#14-conflicts-of-interest)
-    - [1.5 Official communication](#15-official-communication)
-  - [Section 2: Tournament Format](#section-2-tournament-format)
-    - [2.1 International format](#21-international-format)
-    - [2.2 Swiss section](#22-swiss-section)
-    - [2.3 Playoffs](#23-playoffs)
-    - [2.4 Finales](#24-finales)
+  - [Section 2: Tournament format](#section-2-tournament-format)
   - [Section 3: Registration process](#section-3-registration-process)
-    - [3.1 Registration](#31-registration)
-    - [3.2 Deadline](#32-deadline)
-    - [3.3 Double registration](#33-double-registration)
-    - [3.4 Banned players](#34-banned-players)
-    - [3.5 Roster size](#35-roster-size)
-    - [3.6 Other limits](#36-other-limits)
   - [Section 4: Servers](#section-4-servers)
-    - [4.1 Home servers](#41-home-servers)
   - [Section 5: Match schedule](#section-5-match-schedule)
-    - [5.1 Rounds and scheduling](#51-rounds-and-scheduling)
-    - [5.2 Scheduling deadline](#52-scheduling-deadline)
-    - [5.3 Scheduling duties](#53-scheduling-duties)
-    - [5.4 Reporting results](#54-reporting-results)
-    - [5.5 How to schedule a match](#55-how-to-schedule-a-match)
-    - [5.6 Requests for Oversight](#56-requests-for-oversight)
-  - [Section 6: Match Play](#section-6-match-play)
-    - [6.1 Spectators](#61-spectators)
-    - [6.2 Tardiness](#62-tardiness)
-    - [6.3 Ringers](#63-ringers)
-    - [6.4 Demos and screenshots](#64-demos-and-screenshots)
-    - [6.5 Casting](#65-casting)
-    - [6.6 Substitutions](#66-substitutions)
+  - [Section 6: Match play](#section-6-match-play)
   - [Section 7: Exploits](#section-7-exploits)
-    - [7.1 AI pathing exploits](#71-ai-pathing-exploits)
-    - [7.2 Tank pathing](#72-tank-pathing)
-    - [7.3 Spectate command](#73-spectate-command)
-    - [7.4 "Stuck spots"](#74-stuck-spots)
-    - [7.5 Spawn glitches](#75-spawn-glitches)
-    - [7.6 Attacking from out of bounds](#76-attacking-from-out-of-bounds)
-    - [7.7 Hard Rain Pipes](#77-hard-rain-pipes)
-    - [7.8 Hard Rain elevator](#78-hard-rain-elevator)
-    - [7.9 Death Toll 1 ladder](#79-death-toll-1-ladder)
-    - [7.10 Atrium gas cans](#710-atrium-gas-cans)
   - [Section 8: Glitches](#section-8-glitches)
-    - [8.1 Rescue vehicles](#81-rescue-vehicles)
-  - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
-    - [9.1 Penalties](#91-penalties)
-    - [9.2 Stream sniping](#92-stream-sniping)
-    - [9.3 Permitted modifications](#93-permitted-modifications)
-    - [9.4 Forbidden modifications](#94-forbidden-modifications)
+  - [Section 9: Competitive integrity](#section-9-competitive-integrity)
   - [Section 10: Unsportsmanlike conduct](#section-10-unsportsmanlike-conduct)
-    - [10.1 Insufficient effort to win](#101-insufficient-effort-to-win)
-    - [10.2 Excessive pausing](#102-excessive-pausing)
-    - [10.3 Excessive alltalk](#103-excessive-alltalk)
-    - [10.4 Sound effects](#104-sound-effects)
-    - [10.5 Sprays and steam avatars](#105-sprays-and-steam-avatars)
-    - [10.6 Respect the server hosts](#106-respect-the-server-hosts)
-    - [10.7 Guilt by association](#107-guilt-by-association)
   - [Section 11: Legal](#section-11-legal)
 
 <!-- mdformat-toc end -->
@@ -71,9 +21,14 @@
 
 ### 1.1 Staff
 
-Tournament Director: \[TBD\]
+Tournament Director:
 
-Assistant Tournament Directors: \[TBD\]
+- an entire sleeve of fig newtons
+
+Assistant Tournament Directors:
+
+- SirPlease
+- loudmb
 
 ### 1.2 Disputes
 
@@ -94,9 +49,10 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via \[TBD\].
+Official communication will take place via the
+[Discord server](https://discord.com/invite/Bd7RBZkm3B).
 
-## Section 2: Tournament Format
+## Section 2: Tournament format
 
 This is an International tournament consisting of two sections.
 
@@ -119,17 +75,12 @@ server selection and the scheduling process.
 
 ### 2.2 Swiss section
 
-The first section will be a Swiss System tournament of \[TBD\] rounds. A match
-win will score 1 point, a tie scores a half point, and a loss or forfeit scores
-0 points.
+The first section will be a Swiss System tournament of 6 rounds. A match win
+will score 1 point, a tie scores a half point, and a loss or forfeit scores 0
+points.
 
-After the registration deadline, the staff will seed registered teams, and then
-pair them by a "top half vs bottom half" method. For example, if there are 10
-participants, then the #1 seed will play against the #6 seed, the #2 seed
-against the #7 seed, and so on.
-
-In later rounds, participants will be paired at random against others with the
-same record of Won : Lost games.
+At the beginning of a Swiss round, each team will be paired at random against
+others with the same record of Won : Lost games.
 
 There will be no eliminations from the Swiss section due to poor results or
 lost games.
@@ -162,7 +113,8 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by \[TBD\].
+Directors by posting in `#discussion`, `#results`, or opening a ticket in
+`#issues`.
 
 If your team forfeits any match, you MUST ask to be paired in the next round,
 or **you will be removed from the tournament without notice.**
@@ -191,19 +143,25 @@ teams participating in the tournament. Therefore, the organizers cannot predict
 how many rounds will be scheduled for the Swiss section until registration has
 closed.
 
-1. Hard Rain\*
-1. Passifice\*
-1. Dark Carnival: Remix
-1. Death Toll
-1. Hard Rain: Downpour
-1. Diescraper Redeux
+1. Suicide Blitz 2
+1. Dead Center
+1. Passifice
 1. The Parish
+1. Diescraper Redeux
+1. Hard Rain: Downpour
 
 ### 2.3 Playoffs
 
-Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a double-elimination knockout
-tournament.
+Once the first section is completed, 8 teams will move on to the playoffs. The
+playoffs section will be a double-elimination knockout tournament.
+
+#### 2.3.1 Mapban process
+
+"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map.
+
+The higher (better) playoff seed chooses who bans first. Each team takes turns
+banning maps until two maps are left. Then, mapban.gg will decide the map
+randomly. (Use the option "Ban until 1 maps left").
 
 #### 2.3.1 Playoffs Map pool
 
@@ -225,12 +183,13 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-You may register to participate in the tournament by \[TBD\].
+You may register to participate in the tournament by posting in
+`#registration`. Follow the instructions in the pinned messages.
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries and
-requests for roster changes are invalid.
+The deadline for registrations is Friday, March 17th, 2023 at 12:59 PM UTC.
+After this date, new entries and requests for roster changes are invalid.
 
 ### 3.3 Double registration
 
@@ -290,6 +249,11 @@ It is not acceptable to choose a home server on the basis that it would provide
 poor latency for the opposing team. The staff will deal with attempts at
 gamesmanship in server choice.
 
+#### 4.1.3 fakelag
+
+The use of server-side "fakelag" is permitted with mutual agreement of both
+teams.
+
 ## Section 5: Match schedule
 
 ### 5.1 Rounds and scheduling
@@ -327,14 +291,14 @@ Competitors are strongly urged to post their complete match schedules to avoid
 any possibility of miscommunication or dispute about these details at match
 time.
 
-### 5.6 Requests for Oversight
+### 5.6 Requests for oversight
 
 Any team may request that a staff member be present at their match. The staff
 will honor reasonable requests where they can, weighing conflicting personal
 obligations, the significance of the match to the tournament results, and the
 seriousness of concerns about improper behavior that may take place.
 
-## Section 6: Match Play
+## Section 6: Match play
 
 ### 6.1 Spectators
 
@@ -355,8 +319,7 @@ agree to allow ringers, or ringers will not be allowed.
 
 #### 6.3.1 Double agents
 
-No registered player may ring for another team unless their team has withdrawn
-from the tournament or that player has been removed from the roster.
+No registered player may ring for another team.
 
 #### 6.3.2 Limits on ringers
 
@@ -455,24 +418,19 @@ passing through it in "ghost mode".
 As infected, do not attack the survivors in any way from out of the normal map
 bounds.
 
-### 7.7 Hard Rain Pipes
-
-On `c4m2_sugarmill`, do not jump on the pipes near the trailer by climbing on
-the ruined brick wall. (Screenshot [1](assets/pipe1.jpg) [2](assets/pipe2.jpg))
-
-### 7.8 Hard Rain elevator
+### 7.7 Hard Rain elevator
 
 Do not skip the elevator holdout event on `c4m2_sugarmill` by any means that
 allow the player to safely enter the sugar cane field without riding the
 elevator or being incapacitated or killed by fall damage.
 
-### 7.9 Death Toll 1 ladder
+### 7.8 Death Toll 1 ladder
 
 You many not cross the ruined bridge on `c11_m1` without climbing a ladder. If
 you find yourself on the far side of the bridge and you did not climb a ladder,
 you must go back and climb a ladder before progressing.
 
-### 7.10 Atrium gas cans
+### 7.9 Atrium gas cans
 
 As infected, you may not move gas cans on `c1m4_atrium` by punching or
 scratching them.
@@ -489,7 +447,7 @@ also possible on Dark Carnival and Hard Rain) the half will be replayed
 following a restart round. If necessary the final scores will be calculated
 manually.
 
-## Section 9: Competitive Integrity
+## Section 9: Competitive integrity
 
 Participants have a duty to conform to the generally accepted standards of fair
 play. Deviation from those standards is cheating, and threatens the legitimacy
