@@ -583,17 +583,13 @@ their rosters.
 
 ## Section 11: Legal
 
-Copyright (C) 2014-2022 by Ryan Delaney.
+Copyright (C) 2014-2023 by Ryan Delaney.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
 
 You should have received a copy of the license along with this work. If not,
 see <http://creativecommons.org/licenses/by-sa/4.0/>.
-
-Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam logo
-are trademarks and/or registered trademarks of Valve Corporation. All other
-trademarks are property of their respective owners.
 
 <!-- EXLINKS -->
 
