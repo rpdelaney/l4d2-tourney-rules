@@ -1,8 +1,8 @@
-# Another Swiss Tournament 3 Rules
+# \[TBD\] Tournament Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=2 --minlevel=1 -->
 
-- [Another Swiss Tournament 3 Rules](#another-swiss-tournament-3-rules)
+- [[TBD] Tournament Rules](#tbd-tournament-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
   - [Section 2: Tournament format](#section-2-tournament-format)
   - [Section 3: Registration process](#section-3-registration-process)
@@ -23,12 +23,12 @@
 
 Tournament Director:
 
-- an entire sleeve of fig newtons
+- \[TBD\]
 
 Assistant Tournament Directors:
 
-- SirPlease
-- loudmb
+- \[TBD\]
+- \[TBD\]
 
 ### 1.2 Disputes
 
@@ -49,8 +49,7 @@ possible.
 
 ### 1.5 Official communication
 
-Official communication will take place via the
-[Discord server](https://discord.com/invite/Bd7RBZkm3B).
+Official communication will take place via the [Discord server](TBD).
 
 ## Section 2: Tournament format
 
@@ -188,8 +187,8 @@ You may register to participate in the tournament by posting in
 
 ### 3.2 Deadline
 
-The deadline for registrations is Friday, March 17th, 2023 at 12:59 PM UTC.
-After this date, new entries and requests for roster changes are invalid.
+The deadline for registrations is \[TBD\]. After this date, new entries and
+requests for roster changes are invalid.
 
 ### 3.3 Double registration
 
@@ -271,10 +270,10 @@ Any player on the roster may perform scheduling duties.
 
 ### 5.4 Reporting results
 
-Submit results, with a screenshot, by the following Sunday at midnight (PT /
-UTC-8). Failure to report weekly round results before the deadline will result
-in a double forfeit. Under no circumstances whatsoever will extensions be
-granted.
+Submit results, with a screenshot, by the following Sunday at midnight
+(timezone \[TBD\]). Failure to report weekly round results before the deadline
+will result in a double forfeit. Under no circumstances whatsoever will
+extensions be granted.
 
 To report match results, post in the `#results` channel as outlined in the
 pinned messages. Include a screenshot of the final scores. Results will not be
