@@ -74,9 +74,9 @@ server selection and the scheduling process.
 
 ### 2.2 Swiss section
 
-The first section will be a Swiss System tournament of 6 rounds. A match win
-will score 1 point, a tie scores a half point, and a loss or forfeit scores 0
-points.
+The first section will be a Swiss System tournament of \[TBD\] rounds. A match
+win will score 1 point, a tie scores a half point, and a loss or forfeit scores
+0 points.
 
 At the beginning of a Swiss round, each team will be paired at random against
 others with the same record of Won : Lost games.
@@ -112,8 +112,7 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by posting in `#discussion`, `#results`, or opening a ticket in
-`#issues`.
+Directors by \[TBD\].
 
 If your team forfeits any match, you MUST ask to be paired in the next round,
 or **you will be removed from the tournament without notice.**
@@ -151,8 +150,9 @@ closed.
 
 ### 2.3 Playoffs
 
-Once the first section is completed, 8 teams will move on to the playoffs. The
-playoffs section will be a double-elimination knockout tournament.
+Once the first section is completed, \[TBD\] teams will move on to the
+playoffs. The playoffs section will be a double-elimination knockout
+tournament.
 
 #### 2.3.1 Mapban process
 
@@ -182,8 +182,8 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-You may register to participate in the tournament by posting in
-`#registration`. Follow the instructions in the pinned messages.
+You may register to participate in the tournament by \[TBD\]. Follow the
+instructions in the pinned messages.
 
 ### 3.2 Deadline
 
