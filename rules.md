@@ -180,8 +180,9 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-You may register to participate in the tournament by \[TBD\]. Follow the
-instructions in the pinned messages.
+You may register to participate in the tournament by posting in
+[`#registration`][discord-#registration]. Follow the instructions in the pinned
+messages.
 
 ### 3.2 Deadline
 
@@ -595,6 +596,7 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
+[discord-#registration]: https://discord.com/channels/1238233663163076729/1238233663548952662
 [discord-invite]: https://discord.com/channels/1238233663163076729/1238668563288686662/1238668584595750912
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables
