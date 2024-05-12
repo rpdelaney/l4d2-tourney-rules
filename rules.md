@@ -261,7 +261,7 @@ Pairings and brackets for each round will be posted weekly on Monday.
 ### 5.2 Scheduling deadline
 
 Schedule your matches promptly. Begin negotiating the schedule early;
-delinquent scheduling will result in a double forfeit.
+delinquent scheduling will result in a forfeit.
 
 ### 5.3 Scheduling duties
 
