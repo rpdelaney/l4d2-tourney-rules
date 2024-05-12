@@ -23,12 +23,12 @@
 
 Tournament Director:
 
-- \[TBD\]
+- an entire sleeve of fig newtons
 
 Assistant Tournament Directors:
 
-- \[TBD\]
-- \[TBD\]
+- Stabbath
+- MK
 
 ### 1.2 Disputes
 
