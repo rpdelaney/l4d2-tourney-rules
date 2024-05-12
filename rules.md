@@ -129,10 +129,7 @@ For information on the Swiss System, you can review the following links:
 
 Because the scores from the previous round determine Swiss pairings, the next
 round cannot be paired until all the results of the previous round have been
-reported.
-
-Therefore, unplayed matches are a double forfeit. Under no circumstances
-whatsoever will extensions be granted.
+reported. Under no circumstances whatsoever will extensions be granted.
 
 #### 2.2.7 Swiss Map pool
 
