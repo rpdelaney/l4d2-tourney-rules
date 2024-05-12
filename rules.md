@@ -59,14 +59,14 @@ This is an International tournament consisting of two sections.
 
 A match may consist of:
 
-- two games with each opposing team choosing the server for one of the two
-  games, decided by the sum of the scores of both games, (also known as
+- Two games where each team chooses the server for one game. The winner is
+  determined by the total score from both games (this is referred to as
   "Home/Away"), OR
-- a single game on a neutral server chosen by mutual agreement during match
+- One game on a neutral server chosen by mutual agreement during match
   scheduling.
 
-If opposing teams cannot agree on a neutral server according to these rules,
-use the Home/Away system.
+If the teams cannot agree on a neutral server, they will use the Home/Away
+system.
 
 See [Section 4: Servers](#section-4-servers) and
 [Section 5: Match schedule](#section-5-match-schedule) for more guidance on
