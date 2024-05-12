@@ -237,7 +237,7 @@ Each team's home server will be a server that satisfies these criteria and
 provides the best average ping for the members of their team.
 
 Due to restrictions placed on internet traffic at the internet backbone level,
-home servers will not be located inside mainland China, or otherwise behind
+home servers in international matches will not be located behind
 "[The Great Firewall][greatfirewall-en]".
 
 #### 4.1.2 Gamesmanship is not tolerated
