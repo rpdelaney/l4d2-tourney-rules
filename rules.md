@@ -161,8 +161,7 @@ randomly. (Use the option "Ban until 1 maps left").
 
 #### 2.3.1 Playoffs Map pool
 
-"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map. The
-lower playoff seed chooses a map to ban first.
+TBD
 
 ### 2.4 Finales
 
