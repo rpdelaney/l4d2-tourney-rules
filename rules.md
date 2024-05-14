@@ -115,7 +115,7 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by \[TBD\].
+Directors by filing a ticket under [`#issues`][discord-#issues].
 
 If your team forfeits any match, you MUST ask to be paired in the next round,
 or **you will be removed from the tournament without notice.**
@@ -598,6 +598,7 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
+[discord-#issues]: https://discord.com/channels/1238233663163076729/1238233663548952664
 [discord-#registration]: https://discord.com/channels/1238233663163076729/1238233663548952662
 [discord-invite]: https://discord.com/channels/1238233663163076729/1238668563288686662/1238668584595750912
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
