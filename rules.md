@@ -268,10 +268,9 @@ Any player on the roster may perform scheduling duties.
 
 ### 5.4 Reporting results
 
-Submit results, with a screenshot, by the following Sunday at midnight
-(timezone \[TBD\]). Failure to report weekly round results before the deadline
-will result in a double forfeit. Under no circumstances whatsoever will
-extensions be granted.
+Submit results, with a screenshot, by the following Sunday at midnight. Failure
+to report results before the deadline will result in a double forfeit. Under no
+circumstances whatsoever will extensions be granted.
 
 To report match results, post in the `#results` channel as outlined in the
 pinned messages. Include a screenshot of the final scores. Results will not be
