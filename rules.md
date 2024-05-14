@@ -25,10 +25,9 @@ Tournament Director:
 
 - an entire sleeve of fig newtons
 
-Assistant Tournament Directors:
+Assistant Tournament Director:
 
 - Stabbath
-- MK
 
 ### 1.2 Disputes
 
