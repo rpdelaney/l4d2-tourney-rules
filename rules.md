@@ -272,9 +272,9 @@ Submit results, with a screenshot, by the following Sunday at midnight. Failure
 to report results before the deadline will result in a double forfeit. Under no
 circumstances whatsoever will extensions be granted.
 
-To report match results, post in the `#results` channel as outlined in the
-pinned messages. Include a screenshot of the final scores. Results will not be
-accepted via _any_ other means.
+To report match results, post in the [`#results`][discord-#results] channel as
+outlined in the pinned messages. Include a screenshot of the final scores.
+Results will not be accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
 
@@ -596,6 +596,7 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
 [discord-#issues]: https://discord.com/channels/1238233663163076729/1238233663548952664
 [discord-#registration]: https://discord.com/channels/1238233663163076729/1238233663548952662
+[discord-#results]: https://discord.com/channels/1238233663163076729/1238233663548952661
 [discord-invite]: https://discord.com/channels/1238233663163076729/1238668563288686662/1238668584595750912
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables
