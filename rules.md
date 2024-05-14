@@ -29,6 +29,9 @@ Assistant Tournament Director:
 
 - Stabbath
 
+Rails Barlow, founder of the RBT series, will assist the Tournament Directors
+as an advisor.
+
 ### 1.2 Disputes
 
 The Tournament Directors are the sole arbiter and court of last resort for all
