@@ -219,8 +219,8 @@ Game servers will be selected according to the following criteria:
   configuration and plugins.
 - Servers will have enough slots for up to two casters, two camera operators,
   and an administrator.
-- Servers with tickrate greater than or equal to 100 will be preferred, unless
-  both teams agree to another tickrate.
+- Servers with tickrate greater than or equal to 100 are preferred, unless both
+  teams agree to another tickrate.
 - Servers with [DoS Protection][iptables] are preferred.
 
 ### 4.1 Home servers
