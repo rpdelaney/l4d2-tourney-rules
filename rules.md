@@ -54,6 +54,15 @@ possible.
 Official communication will take place via the
 [Discord server][discord-invite].
 
+### 1.6 Language requirements
+
+English fluency is not a requirement to participate in the event. The staff are
+sympathetic to the challenges posed by language barriers, and have made efforts
+to help.
+
+However, language barriers are not an excuse for ignorance of the rules or
+failure to follow the tournament process.
+
 ## Section 2: Tournament format
 
 This is an International tournament consisting of two sections.
