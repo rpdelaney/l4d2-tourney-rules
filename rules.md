@@ -143,18 +143,7 @@ Because the scores from the previous round determine Swiss pairings, the next
 round cannot be paired until all the results of the previous round have been
 reported. Under no circumstances whatsoever will extensions be granted.
 
-#### 2.2.7 Map pool
-
-The number of Swiss rounds is determined mathematically using the number of
-teams participating in the tournament. Therefore, the organizers cannot predict
-how many rounds will be scheduled for the Swiss section until registration has
-closed.
-
-Map pool:
-
-- TBD
-
-#### 2.2.8 Mapban process
+#### 2.2.7 Mapban process
 
 Each round will use [mapban.gg](https://mapban.gg) to select the map. The map
 pool for the round will be posted at the start of the round along with the
