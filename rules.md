@@ -367,7 +367,7 @@ process.
 
 ### 6.6 Substitutions
 
-In a Home / Away match, you must use the same 4 players in both games.
+In a Home / Away match, you must use the same four players in both games.
 
 ## Section 7: Exploits
 
