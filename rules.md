@@ -65,7 +65,14 @@ failure to follow the tournament process.
 
 ## Section 2: Tournament format
 
-This is an International tournament consisting of two sections.
+This is an International tournament consisting of two sections:
+
+- a Swiss system tournament
+- a knockout playoffs
+
+Once the first section is completed, \[TBD\] teams will move on to the
+playoffs. The playoffs section will be a double-elimination knockout
+tournament.
 
 ### 2.1 International format
 
@@ -154,13 +161,7 @@ banning maps until two maps are left. Then, mapban.gg will decide the map
 randomly. (Use the option "Ban until 1 maps left"
     <!-- leave the quote in English -->).
 
-### 2.3 Playoffs
-
-Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a double-elimination knockout
-tournament.
-
-### 2.4 Finales
+### 2.3 Finales
 
 On 4-chapter campaigns (such as Dead Center or Swamp Fever), Chapter 4 will
 always be played.
