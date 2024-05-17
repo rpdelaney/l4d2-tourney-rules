@@ -192,8 +192,8 @@ messages.
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries and
-requests for additions to the roster are invalid.
+The deadline for registrations is Friday, June 28th, 2024. After this date, new
+entries and requests for additions to the roster are invalid.
 
 ### 3.3 Double registration
 
