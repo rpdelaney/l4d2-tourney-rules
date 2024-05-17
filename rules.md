@@ -306,15 +306,19 @@ Each team has 15 minutes after the scheduled time to have 4 players in the
 server and readied up. The standard penalty for failure will be a forfeit loss
 of the match.
 
-### 6.3 Ringers
+### 6.3 Substitutions
+
+A substitute player (<!-- leave this out of translations --> also known as a
+"ringer") is a player who participates in a match for a team they are not a
+member of.
 
 A defining characteristic of a championship team is the capacity to field a
 team for a match at the agreed upon date and time. Therefore, both teams must
-agree to allow ringers, or ringers will not be allowed.
+agree to allow substitute players, or substitutes will not be allowed.
 
 #### 6.3.1 Double agents
 
-No registered player may ring for another team.
+No registered player may be a substitute for another team.
 
 #### 6.3.2 Limits on ringers
 
