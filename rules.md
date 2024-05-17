@@ -252,7 +252,8 @@ teams.
 
 ### 5.1 Rounds and scheduling
 
-Pairings and brackets for each round will be posted weekly on Monday.
+Pairings and brackets for each round will be posted weekly on Monday, along
+with the list of maps for the selection process (see Section 2.2.7).
 
 ### 5.2 Scheduling deadline
 
