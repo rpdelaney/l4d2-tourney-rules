@@ -600,6 +600,6 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables
-[tiebreak-cumulative]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
+[tiebreak-cumulative]: https://web.archive.org/web/20210518014519/https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger
