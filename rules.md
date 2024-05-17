@@ -1,8 +1,8 @@
-# \[TBD\] Tournament Rules
+# Really Big Tournament VII Tournament Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=2 --minlevel=1 -->
 
-- [[TBD] Tournament Rules](#tbd-tournament-rules)
+- [Really Big Tournament VII Tournament Rules](#really-big-tournament-vii-tournament-rules)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
   - [Section 2: Tournament format](#section-2-tournament-format)
   - [Section 3: Registration process](#section-3-registration-process)
