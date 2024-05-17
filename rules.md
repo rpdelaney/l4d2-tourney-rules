@@ -143,7 +143,7 @@ Because the scores from the previous round determine Swiss pairings, the next
 round cannot be paired until all the results of the previous round have been
 reported. Under no circumstances whatsoever will extensions be granted.
 
-#### 2.2.7 Swiss Map pool
+#### 2.2.7 Map pool
 
 The number of Swiss rounds is determined mathematically using the number of
 teams participating in the tournament. Therefore, the organizers cannot predict
@@ -154,23 +154,21 @@ Map pool:
 
 - TBD
 
-### 2.3 Playoffs
+#### 2.2.8 Mapban process
 
-Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a double-elimination knockout
-tournament.
-
-#### 2.3.1 Mapban process
-
-"Veto" rounds will use [mapban.gg](https://mapban.gg) to select the map.
+Each round will use [mapban.gg](https://mapban.gg) to select the map. The map
+pool for the round will be posted at the start of the round along with the
+pairings.
 
 The higher (better) playoff seed chooses who bans first. Each team takes turns
 banning maps until two maps are left. Then, mapban.gg will decide the map
 randomly. (Use the option "Ban until 1 maps left").
 
-#### 2.3.1 Playoffs Map pool
+### 2.3 Playoffs
 
-TBD
+Once the first section is completed, \[TBD\] teams will move on to the
+playoffs. The playoffs section will be a double-elimination knockout
+tournament.
 
 ### 2.4 Finales
 
