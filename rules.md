@@ -484,7 +484,7 @@ The following modifications are PERMITTED:
 - Modifying, removing, or adding HUDs, crosshairs (including overlay
   crosshairs), and pain pointers is allowed.
 - Modifying or removing gun models and animations is allowed.
-- Modifying or removing "tank music" including altering the volume is allowed.
+- Modifying or removing "tank music" including adjusting the volume is allowed.
 - Modifying or removing music played at the end of the round after a wipe,
   saferoom door closed, or player death is allowed.
 - Modifying or removing the blue tint while spawning special infected in "ghost
@@ -497,8 +497,8 @@ The following modifications are PERMITTED:
   competitive configuration (e.g. `mat_hdr`) are allowed.
 - All launch options that do not exploit nor allow the player to exploit
   cheat-flagged cvars are allowed.
-- Any configuration setting that can be altered using the standard in-game GUI
-  menu options is allowed.
+- Any configuration setting that can be set using the standard in-game GUI menu
+  options is allowed.
 - Modifying materials and sounds that are related to weapons or items that are
   banned in the competitive configuration (which may include: "Tier 2" weapons,
   chainsaw, M60, throwables, etc) is allowed.
