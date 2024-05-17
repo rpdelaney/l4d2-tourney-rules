@@ -162,7 +162,8 @@ pairings.
 
 The higher (better) playoff seed chooses who bans first. Each team takes turns
 banning maps until two maps are left. Then, mapban.gg will decide the map
-randomly. (Use the option "Ban until 1 maps left").
+randomly. (Use the option "Ban until 1 maps left"
+    <!-- leave the quote in English -->).
 
 ### 2.3 Playoffs
 
