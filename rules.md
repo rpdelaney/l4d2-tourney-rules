@@ -574,7 +574,7 @@ weapons, NPC or player models, props, or any other recognizable in-game entity.
 
 Do not use sprays or steam avatars that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as sexually suggestive or
-explicit content, racist logos, or “shock” images.
+explicit content, racist logos, or "shock" images.
 
 ### 10.6 Respect the server hosts
 
