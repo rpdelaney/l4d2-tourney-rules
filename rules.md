@@ -131,7 +131,7 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by filing a ticket under [`#issues`][discord-#issues].
+Directors by filing a ticket under `#issues`.
 
 If your team forfeits any match, you MUST ask to be paired in the next round,
 or **you will be removed from the tournament without notice.**
@@ -177,8 +177,7 @@ both teams on whether to play Chapter 5, then:
 ### 3.1 Registration
 
 You may register to participate in the tournament by posting in
-[`#registration`][discord-#registration]. Follow the instructions in the pinned
-messages.
+`#registration`. Follow the instructions in the pinned messages.
 
 ### 3.2 Deadline
 
@@ -270,9 +269,9 @@ Submit results, with a screenshot, by the following Sunday at midnight. Failure
 to report results before the deadline will result in a double forfeit. Under no
 circumstances whatsoever will extensions be granted.
 
-To report match results, post in the [`#results`][discord-#results] channel as
-outlined in the pinned messages. Include a screenshot of the final scores.
-Results will not be accepted via _any_ other means.
+To report match results, post in the `#results` channel as outlined in the
+pinned messages. Include a screenshot of the final scores. Results will not be
+accepted via _any_ other means.
 
 ### 5.5 How to schedule a match
 
@@ -594,9 +593,6 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
 [banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
-[discord-#issues]: https://discord.com/channels/1238233663163076729/1238233663548952664
-[discord-#registration]: https://discord.com/channels/1238233663163076729/1238233663548952662
-[discord-#results]: https://discord.com/channels/1238233663163076729/1238233663548952661
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables
