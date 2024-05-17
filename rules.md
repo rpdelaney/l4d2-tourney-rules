@@ -608,7 +608,7 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [discord-#issues]: https://discord.com/channels/1238233663163076729/1238233663548952664
 [discord-#registration]: https://discord.com/channels/1238233663163076729/1238233663548952662
 [discord-#results]: https://discord.com/channels/1238233663163076729/1238233663548952661
-[discord-invite]: https://discord.com/channels/1238233663163076729/1238668563288686662/1238668584595750912
+[discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables
 [tiebreak-cumulative]: https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
