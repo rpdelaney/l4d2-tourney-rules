@@ -200,7 +200,7 @@ You may review the public ban list [here][banlist-sirplease].
 
 ### 3.5 Roster size
 
-Each team must have 4 or more players on the roster, and no more than 6.
+Each team must have four or more players on the roster, and no more than six.
 
 ### 3.6 Other limits
 
