@@ -23,11 +23,11 @@
 
 Tournament Director:
 
-- an entire sleeve of fig newtons
+- an entire sleeve of fig newtons (languages: English)
 
 Assistant Tournament Director:
 
-- Stabbath
+- Stabbath (languages: Portuguese, Spanish, English)
 
 Rails Barlow, founder of the RBT series, will assist the Tournament Directors
 as an advisor.
