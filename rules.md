@@ -254,6 +254,9 @@ teams.
 Pairings and brackets for each round will be posted weekly on Monday, along
 with the list of maps for the selection process (see Section 2.2.7).
 
+For each match, a discord channel will be created for scheduling. You must use
+the assigned channel to schedule the match.
+
 ### 5.2 Scheduling deadline
 
 Schedule your matches promptly. Begin negotiating the schedule early;
