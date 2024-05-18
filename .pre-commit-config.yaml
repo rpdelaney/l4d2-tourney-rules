@@ -20,6 +20,8 @@ repos:
     rev: v1.1.1
     hooks:
       - id: mdspell
+        files: '^rules\.md$'
       - id: spelling-sort
+        files: '^rules\.md$'
 
 # EOF
