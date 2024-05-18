@@ -346,7 +346,7 @@ after disconnecting from the server for any reason.
 
 #### 6.4.2 Screenshots are mandatory
 
-Each team may pause once per round to request screenshots. Players must take a
+Each team may pause once per map to request screenshots. Players must take a
 screenshot whenever asked by anyone in the server.
 
 #### 6.4.3 Privacy
