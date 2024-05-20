@@ -152,15 +152,6 @@ otorgarán extensiones.
 
 #### 2.2.7 Proceso de *ban* de mapas
 
-Each round will use [mapban.gg](https://mapban.gg) to select the map. The map
-pool for the round will be posted at the start of the round along with the
-pairings.
-
-The higher (better) playoff seed chooses who bans first. Each team takes turns
-banning maps until two maps are left. Then, mapban.gg will decide the map
-randomly. (Use the option "Ban until 1 maps left"
-    <!-- leave the quote in English -->).
-
 Cada ronda utilizará [mapban.gg](https://mapban.gg) para seleccionar el mapa.
 La lista de mapas para la ronda se publicará al inicio de la misma junto con
 los emparejamientos.
@@ -168,7 +159,7 @@ los emparejamientos.
 Entre los dos equipos, el mejor clasificado elige quién prohíbe primero. Los
 equipos se turnan prohibiendo mapas hasta que queden dos mapas. Luego,
 mapban.gg decidirá el mapa aleatoriamente. (Usen la opción "Ban until 1 maps
-left") <!-- leave the quote in English -->).
+left").
 
 ### 2.3 Finales
 
