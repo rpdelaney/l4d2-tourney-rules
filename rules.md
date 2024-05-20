@@ -321,13 +321,15 @@ agree to allow substitute players, or substitutes will not be allowed.
 
 No registered player may be a substitute for another team.
 
-#### 6.3.2 Limits on ringers
+#### 6.3.2 Limits on substitutions
 
 Each team must field at least three (3) rostered players in each match,
 regardless of consent from the opponent.
 
-Ringers are not allowed in the playoff phase of the tournament, regardless of
-consent from either team.
+In a Home/Away match, you must use the same four players in both games.
+
+Substitutes are not allowed in the playoff phase of the tournament, regardless
+of consent from either team.
 
 ### 6.4 Demos and screenshots
 
@@ -368,10 +370,6 @@ at minimum, in a zero score for any round for which they were not submitted.
 
 The participants agree that the matches may be casted according to the usual
 process.
-
-### 6.6 Backup players in Home/Away matches
-
-In a Home/Away match, you must use the same four players in both games.
 
 ## Section 7: Exploits
 
