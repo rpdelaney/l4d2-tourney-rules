@@ -307,7 +307,7 @@ Each team has 15 minutes after the scheduled time to have 4 players in the
 server and readied up. The standard penalty for failure will be a forfeit loss
 of the match.
 
-### 6.3 Substitutions
+### 6.3 Substitute players
 
 A substitute player (<!-- leave this out of translations --> also known as a
 "ringer") is a player who participates in a match for a team they are not a
@@ -369,9 +369,9 @@ at minimum, in a zero score for any round for which they were not submitted.
 The participants agree that the matches may be casted according to the usual
 process.
 
-### 6.6 Substitutions
+### 6.6 Backup players in Home/Away matches
 
-In a Home / Away match, you must use the same four players in both games.
+In a Home/Away match, you must use the same four players in both games.
 
 ## Section 7: Exploits
 
