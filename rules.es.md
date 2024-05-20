@@ -410,11 +410,11 @@ No saltes el evento del ascensor en `c4m2_sugarmill` por ningún medio que permi
 
 No puedes cruzar el puente derruido en `c10_m1` sin subir por una escalera. Si te encuentras al otro lado del puente y no subiste por una escalera, debes volver y subir por una escalera antes de avanzar.
 
-### 7.9 Latas de gas en el Atrio
+### 7.9 Bidones de gasolina en el Atrio
 
-Como infectado, no puedes mover las latas de gas en `c1m4_atrium` golpeándolas o arañándolas.
+Como infectado, no puedes mover los bidones en `c1m4_atrium` golpeándolos o arañándolos.
 
-Posicionar intencionalmente a un boomer de modo que las latas se muevan cuando explote está permitido.
+Posicionar intencionalmente a un boomer de modo a que los bidones se muevan cuando explote está permitido.
 
 
 ## Sección 8: Glitches
