@@ -3,17 +3,17 @@
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=2 --minlevel=1 -->
 
 - [Reglamento del Torneo Really Big Tournament VII](#reglamento-del-torneo-really-big-tournament-vii)
-  - [Sección 1: Administración del torneo](#seccion-1-administracion-del-torneo)
-  - [Sección 2: Formato del torneo](#seccion-2-formato-del-torneo)
-  - [Sección 3: Proceso de inscripción](#seccion-3-proceso-de-inscripcion)
+  - [Sección 1: Administración del torneo](#sección-1-administración-del-torneo)
+  - [Sección 2: Formato del torneo](#sección-2-formato-del-torneo)
+  - [Sección 3: Proceso de inscripción](#sección-3-proceso-de-inscripción)
   - [Sección 4: Servidores](#sección-4-servidores)
-  - [Sección 5: Programación de los partidos](#seccion-5-programacion-de-los-partidos)
-  - [Sección 6: Durante los partidos](#seccion-6-durante-los-partidos)
-  - [Sección 7: Exploits](#seccion-7-exploits)
-  - [Sección 8: Glitches](#seccion-8-glitches)
-  - [Sección 9: Integridad competitiva](#seccion-9-integridad-competitiva)
-  - [Sección 10: Conducta antideportiva](#seccion-10-conducta-antideportiva)
-  - [Sección 11: Legal](#seccion-11-legal)
+  - [Sección 5: Programación de los partidos](#sección-5-programación-de-los-partidos)
+  - [Sección 6: Durante los partidos](#sección-6-durante-los-partidos)
+  - [Sección 7: Exploits](#sección-7-exploits)
+  - [Sección 8: Glitches](#sección-8-glitches)
+  - [Sección 9: Integridad competitiva](#sección-9-integridad-competitiva)
+  - [Sección 10: Conducta antideportiva](#sección-10-conducta-antideportiva)
+  - [Sección 11: Legal](#sección-11-legal)
 
 <!-- mdformat-toc end -->
 
