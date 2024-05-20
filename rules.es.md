@@ -6,7 +6,7 @@
   - [Sección 1: Administración del torneo](#seccion-1-administracion-del-torneo)
   - [Sección 2: Formato del torneo](#seccion-2-formato-del-torneo)
   - [Sección 3: Proceso de inscripción](#seccion-3-proceso-de-inscripcion)
-  - [Sección 4: Servidores](#seccion-4-servidores)
+  - [Sección 4: Servidores](#sección-4-servidores)
   - [Sección 5: Programación de los partidos](#seccion-5-programacion-de-los-partidos)
   - [Sección 6: Durante los partidos](#seccion-6-durante-los-partidos)
   - [Sección 7: Exploits](#seccion-7-exploits)
