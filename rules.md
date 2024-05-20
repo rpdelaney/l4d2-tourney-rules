@@ -426,7 +426,7 @@ elevator or being incapacitated or killed by fall damage.
 
 ### 7.8 Death Toll 1 ladder
 
-You many not cross the ruined bridge on `c11_m1` without climbing a ladder. If
+You many not cross the ruined bridge on `c10_m1` without climbing a ladder. If
 you find yourself on the far side of the bridge and you did not climb a ladder,
 you must go back and climb a ladder before progressing.
 
