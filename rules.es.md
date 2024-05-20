@@ -300,17 +300,10 @@ preocupaciones sobre comportamientos inapropiados que puedan ocurrir.
 Además del personal del torneo y los comentaristas autorizados, no se permitirán
 espectadores en el servidor durante el juego.
 
-### 6.2 Tardiness
-
-Each team has 15 minutes after the scheduled time to have 4 players in the
-server and readied up. The standard penalty for failure will be a forfeit loss
-of the match.
-
 ### 6.2 Tardanzas
 
 Cada equipo tiene 15 minutos después de la hora programada para tener 4 jugadores en el
-servidor y listos para jugar. La penalización estándar por no cumplir será la pérdida por forfeit
-del partido.
+servidor y listos. La penalización estándar por no cumplir este requisito será la derrota por desistencia.
 
 ### 6.3 Sustituciones
 
