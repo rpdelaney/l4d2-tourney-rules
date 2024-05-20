@@ -111,11 +111,11 @@ participante de menor rango en el grupo de menor puntuación. Una exención otor
 
 Los siguientes criterios resuelven los empates, en orden descendente:
 
-1. [Mediana de Bucholz][tiebreak-mbucholz]
-2. [Acumulativo][tiebreak-cumulative]
+1. [Mediana de Bucholz][tiebreak-mbucholz] (enlace en inglés)
+2. [Acumulativo][tiebreak-cumulative] (enlace en inglés)
 2. Enfrentamiento Directo: si dos equipos jugaron directamente el uno contra el otro, entonces el
    ganador de ese encuentro recibe la colocación más alta.
-2. [Sonnenborn-Berger][tiebreak-sb]
+2. [Sonnenborn-Berger][tiebreak-sb] (enlace en inglés)
 
 #### 2.2.4 Ausencias
 
