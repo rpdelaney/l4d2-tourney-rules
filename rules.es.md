@@ -213,7 +213,7 @@ puede participar en el torneo con su cuenta *banned*, ni con ninguna cuenta
 alternativa. Cualquier partido jugado con un jugador *banned* se considera una
 derrota por desistencia, y su equipo puede ser suspendido del torneo.
 
-Puedes revisar la lista pública de prohibidos [aquí][banlist-sirplease].
+Puedes revisar la lista pública de jugadores *banned* [aquí][banlist-sirplease].
 
 ### 3.5 Tamaño del roster
 
