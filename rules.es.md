@@ -45,7 +45,7 @@ competidor o jugador individual a su sola discreción según las circunstancias 
 ### 1.4 Conflictos de interés
 
 El personal puede participar en el torneo. En casos donde pueda haber apariencia de un
-conflicto de interés, el director relevante cederá su lugar a un homólogo cuando posible.
+conflicto de interés, el director relevante cederá su lugar a otro cuando posible.
 
 ### 1.5 Comunicación oficial
 
@@ -82,8 +82,8 @@ Un partido puede consistir en:
 Si los equipos no pueden ponerse de acuerdo en un servidor neutral, utilizarán el sistema
 Local/Visitante.
 
-Consultar a la [Sección 4: Servidores](#seccion-4-servidores) y
-[Sección 5: Programación de los partidos](#seccion-5-programacion-de-los-partidos) para más información sobre
+Consultar a la [Sección 4: Servidores](#sección-4-servidores) y
+[Sección 5: Programación de los partidos](#sección-5-programación-de-los-partidos) para más información sobre
 la selección de servidores y el proceso de programación.
 
 ### 2.2 Sección suiza
@@ -97,7 +97,7 @@ otros con el mismo registro de juegos Ganados : Perdidos.
 No habrá eliminaciones de la sección suiza debido a malos resultados o
 juegos perdidos.
 
-#### 2.2.1 Double riesgo
+#### 2.2.1 Doble riesgo
 
 Bajo ninguna circunstancia dos competidores se enfrentarán más de una vez
 durante la sección suiza.
