@@ -7,7 +7,7 @@
   - [Seção 2: Formato do torneio](#seção-2-formato-do-torneio)
   - [Seção 3: Processo de inscrição](#seção-3-processo-de-inscrição)
   - [Seção 4: Servidores](#seção-4-servidores)
-  - [Seção 5: Programação das partidas](#seção-5-programação-das-partidas)
+  - [Seção 5: Agendamento das partidas](#seção-5-agendamento-das-partidas)
   - [Seção 6: Durante as partidas](#seção-6-durante-as-partidas)
   - [Seção 7: Exploits](#seção-7-exploits)
   - [Seção 8: Glitches](#seção-8-glitches)
@@ -64,91 +64,80 @@ regras ou incapacidade de seguir o processo do torneio.
 
 ## Seção 2: Formato do torneio
 
-Este es un torneo internacional que consiste en dos secciones:
+Este é um torneio internacional que consiste em duas seções:
 
-- un torneo en sistema suizo
-- una fase final eliminatoria
+- um torneio em sistema suíço
+- uma fase final eliminatória
 
-Una vez completada la primera sección, \[TBD\] equipos avanzarán a la fase
-final. Esa fase será en formato de eliminación doble.
+Uma vez completada a primeira seção, \[TBD\] equipes avançarão para a fase
+final. Essa fase será em formato de eliminação dupla.
 
 ### 2.1 Formato internacional
 
-Un partido puede consistir en:
+Uma partida pode consistir em:
 
-- Dos juegos en los que cada equipo elige el servidor para uno de los juegos.
-  El ganador se determina por el puntaje total de ambos juegos (esto se llamará
-  como "Local/Visitante"), O
-- Un juego en un servidor neutral elegido de común acuerdo durante la
-  programación del partido.
+- Dois jogos em que cada equipe escolhe o servidor para um dos jogos.
+  O vencedor é determinado pela pontuação total de ambos os jogos (esta opção será
+  referida como "Local/Visitante"), OU
+- Um jogo em um servidor neutro escolhido de mútuo acordo durante o agendamento da partida.
 
-Si los equipos no pueden ponerse de acuerdo en un servidor neutral, utilizarán
-el sistema Local/Visitante.
+Se as equipes não conseguirem chegar a um acordo sobre um servidor neutro, utilizarão
+o sistema Local/Visitante.
 
-Consultar a la [Seção 4: Servidores](#seção-4-servidores) y
-[Seção 5: Programación de los partidos](#seção-5-programaci%C3%B3n-de-los-partidos)
-para más información sobre la selección de servidores y el proceso de
-programación.
+Consultar [Seção 4: Servidores](#seção-4-servidores) e
+[Seção 5: Agendamento das partidas](#seção-5-agendamento-das-partidas)
+para mais informações sobre a seleção de servidores e o processo de
+agendamento.
 
-### 2.2 Seção suiza
+### 2.2 Seção suíça
 
-La primera sección será un torneo en sistema suizo de \[TBD\] rondas. Una
-victoria en un partido otorga 1 punto, un empate otorga medio punto, y una
-derrota otorga 0 puntos.
+A primeira seção será um torneio em sistema suíço de \[TBD\] rondas. Uma
+vitória em uma partida concede 1 ponto, um empate concede meio ponto, e uma
+derrota concede 0 pontos.
 
-Al comienzo de cada ronda suiza, cada equipo será emparejado al azar contra
-otros con el mismo registro de juegos Ganados : Perdidos.
+No início de cada ronda suíça, cada equipe será emparelhada aleatoriamente contra
+outra com a mesma contagem de jogos Ganhos : Perdidos.
 
-No habrá eliminaciones de la sección suiza debido a malos resultados o juegos
+Não haverá eliminações da seção suíça devido a maus resultados ou jogos
 perdidos.
 
-#### 2.2.1 Doble riesgo
+#### 2.2.1 Dupla condenação
 
-Bajo ninguna circunstancia dos competidores se enfrentarán más de una vez
-durante la sección suiza.
+Sob nenhuma circunstância dois competidores se enfrentarão mais de uma vez
+durante a seção suíça.
 
-#### 2.2.2 Exenciones
+#### 2.2.2 Isenções
 
-Si en una ronda hay un número impar de participantes a emparejar, se otorga una
-exención al participante de menor rango en el grupo de menor puntuación. Una
-exención otorga un punto completo.
+Se em uma ronda houver um número ímpar de participantes a emparelhar, é concedida uma
+isenção ("*bye*") ao participante de menor classificação no grupo de menor pontuação. Uma
+isenção concede um ponto completo.
 
 #### 2.2.3 Desempates
 
-Los siguientes criterios resuelven los empates, en orden descendente:
+Os seguintes critérios resolvem os empates, em ordem decrescente:
 
-1. [Mediana de Bucholz][tiebreak-mbucholz] (enlace en inglés)
-1. [Acumulativo][tiebreak-cumulative] (enlace en inglés)
-1. Enfrentamiento Directo: si dos equipos jugaron directamente el uno contra el
-   otro, entonces el ganador de ese encuentro recibe la colocación más alta.
-1. [Sonnenborn-Berger][tiebreak-sb] (enlace en inglés)
+1. [Mediana de Bucholz][tiebreak-mbucholz] (link em inglês)
+1. [Acumulativo][tiebreak-cumulative] (link em inglês)
+1. Confronto Direto: se duas equipes jogaram diretamente uma contra a
+   outra, então o vencedor desse encontro receberá a colocação mais alta.
+1. [Sonnenborn-Berger][tiebreak-sb] (link em inglês)
 
 #### 2.2.4 Ausências
 
 As desistências distorcem os resultados ao desequilibrar os desempates.
-Além disso, desapontam aos outros competidores, que se inscreveram no torneio para
+Além disso, desapontam os restantes competidores, que se inscreveram no torneio para
 participar na competição.
 
 Se desejar se retirar do torneio, informe a um dos Diretores do Torneio
 enviando um ticket em `#issues`.
 
-Se sua equipe não se apresentar para uma partida, DEVE solicitar ser
+Se sua equipe não se apresentar para qualquer partida, TEM DE solicitar ser
 emparelhada na próxima rodada, ou **será eliminada do torneio sem aviso
 prévio.**
-Las desistencias distorsionan los resultados al desequilibrar los desempates.
-Además, decepcionan a otros competidores que se han unido al torneo para
-participar en la competencia.
-
-Si deseas retirarte del torneo, informa a uno de los Directores del Torneo
-enviando un ticket bajo `#issues`.
-
-Si tu equipo no se presenta a cualquier partido, TIENE que solicitar ser
-emparejado en la siguiente ronda, o **serán eliminados del torneo sin previo
-aviso.**
 
 #### 2.2.5 Referência
 
-Para informação sobre o sistema suíço, veja os seguintes links:
+Para informações sobre o sistema suíço, revise os seguintes links:
 
 - [Wikipedia][3]
 
@@ -181,174 +170,185 @@ entre ambas as equipes sobre se jogar o Capítulo 5, então:
 - Em uma partida em servidor neutro, o Capítulo 5 _será_ jogado.
 - Em uma partida Local/Visitante, o Capítulo 5 _**não** será_ jogado.
 
-## Seção 3: Proceso de inscripción
+## Seção 3: Processo de inscrição
 
-### 3.1 Inscripción
+### 3.1 Inscrição
 
-Puedes registrarte para participar en el torneo publicando en `#registration`.
-Sigue las instrucciones en los mensajes anclados.
+Você pode se registrar para participar no torneio publicando em `#registration`.
+Siga as instruções nas mensagens fixadas.
 
-### 3.2 Plazo
+### 3.2 Prazo
 
-El plazo para la inscripción es Viernes, 28 de Junio de 2024. Después de esta
-fecha, nuevas entradas y solicitudes para adiciones al roster son inválidas.
+O prazo para a inscrição é Sexta-feira, 28 de Junho de 2024. Após essa
+data, novas entradas e solicitações para adições ao roster são inválidas.
 
-### 3.3 Doble registro
+### 3.3 Duplo registro
 
-Un jugador puede registrarse en solo un equipo en el torneo.
+Um jogador pode se registrar em apenas uma equipe no torneio.
 
-### 3.4 Jugadores *banned*
+### 3.4 Jogadores banidos
 
-Cualquier jugador con una *ban* indefinido en los sourcebans de SirPlease no
-puede participar en el torneo con su cuenta *banned*, ni con ninguna cuenta
-alternativa. Cualquier partido jugado con un jugador *banned* se considera una
-derrota por desistencia, y su equipo puede ser suspendido del torneo.
+Qualquer jogador com um *ban* indefinido nos sourcebans de SirPlease não
+pode participar no torneio com sua conta banida, nem com qualquer conta
+alternativa. Qualquer partida jogada com um jogador banido é considerada uma
+derrota por desistência, e sua equipe pode ser suspensa do torneio.
 
-Puedes revisar la lista pública de jugadores *banned* [aquí][banlist-sirplease].
+Você pode revisar a lista pública de jogadores banidos [aqui][banlist-sirplease].
 
-### 3.5 Tamaño del roster
+### 3.5 Tamanho do roster
 
-Cada equipo tendrá cuatro o más jugadores en el roster, y no más de seis.
+Cada equipe terá quatro ou mais jogadores no roster, e não mais de seis.
 
-### 3.6 Otros límites
+### 3.6 Outros limites
 
-No es necesario que ningún participante cumpla con un mínimo de horas jugadas
-en Left 4 Dead 2.
+Não é necessário que nenhum participante cumpra com um mínimo de horas jogadas
+em Left 4 Dead 2.
 
-No hay límite en el número de equipos que pueden registrarse y participar en la
-primera sección del torneo.
+Não há limite no número de equipes que podem se registrar e participar na
+primeira fase do torneio.
 
 ## Seção 4: Servidores
 
-Los servidores de juego se seleccionarán de acuerdo con los siguientes
-criterios:
+Os servidores de jogo serão selecionados de acordo com os seguintes
+critérios:
 
-- El servidor será dedicado y alojado por una empresa de hospedaje respectable.
-- El servidor tendrá una instalación actualizada y funcional de la
-  configuración y plugins.
-- Los servidores contarán con suficientes *slots* para hasta dos comentaristas,
-  dos operadores de cámara, y un administrador.
-- Se prefieren los servidores con un tickrate de 100 o superior, a menos que
-  ambos equipos acuerden otro tickrate.
-- Se prefieren los servidores con [Protección DoS][iptables].
+- O servidor será dedicado e hospedado por uma empresa de hospedagem respeitável.
+- O servidor terá uma instalação atualizada e funcional da
+  configuração e plugins.
+- Os servidores terão slots suficientes para até dois comentaristas,
+  dois operadores de câmera, e um administrador.
+- São preferidos os servidores com um tickrate de 100 ou superior, a menos que
+  ambas as equipes concordem com outro tickrate.
+- São preferidos os servidores com [Proteção DoS][iptables].
 
-### 4.1 Servidores locales
+### 4.1 Servidores locais
 
-El torneo tiene un formato internacional. Por lo tanto, se aplican las
-siguientes reglas:
+O torneio tem um formato internacional. Portanto, aplicam-se as
+seguintes regras:
 
-#### 4.1.1 Selección del servidor local
+#### 4.1.1 Seleção do servidor local
 
-El servidor local de cada equipo será un servidor que cumpla con estos
-criterios y proporcione el mejor ping promedio para los miembros de su equipo.
+O servidor local de cada equipe será um servidor que cumpra com esses
+critérios e forneça o melhor ping médio para os membros da equipe.
 
-Debido a restricciones impuestas al tráfico de internet en el nivel de las
-troncales de internet, los servidores locales en partidos internacionales no
-estarán detrás de "[El Gran Cortafuegos][greatfirewall]".
+Devido a restrições impostas ao tráfego de internet no nível das
+backbones de internet, os servidores locais em partidas internacionais não
+estarão atrás do "[Grande Firewall][greatfirewall]".
 
-#### 4.1.2 Gamesmanship is not tolerated
+#### 4.1.2 Conduta antidesportiva não é tolerada
 
-No es aceptable elegir un servidor local con la idea de que proporcione mala
-latencia para el equipo oponente. Los administradores del torneo se encargarán
-de los intentos de juego sucio en la elección de servidor.
+Não é aceitável escolher um servidor local com a intenção de fornecer uma má
+latência para a equipe oponente. Os administradores do torneio lidarão com
+tentativas de jogo sujo na escolha do servidor.
 
 #### 4.1.3 fakelag
 
-El uso de "fakelag" del lado del servidor está permitido con el acuerdo mutuo
-de ambos equipos.
+O uso de "fakelag" do lado do servidor é permitido pendente acordo mútuo
+de ambas as equipes.
 
-## Seção 5: Programación de los partidos
+## Seção 5: Agendamento das partidas
 
-### 5.1 Rondas y programación
+### 5.1 Rondas e agendamentos
 
-Los emparejamientos y brackets para cada ronda se publicarán semanalmente los
-lunes, junto con la lista de mapas para el proceso de selección (ver la Seção
+Os emparelhamentos e brackets para cada ronda serão publicados semanalmente às
+segundas-feiras, junto com a lista de mapas para o processo de seleção (ver a Seção
 2.2.7).
 
-Para cada partido, se creará un canal de discord para la programación. Deben
-usar el canal asignado para programar el partido.
+Para cada partida, será criado um canal no Discord para os agendamentos. Devem
+usar o canal assinalado para agendar a partida.
 
-### 5.2 Plazo para la programación
+### 5.2 Prazo para o agendamento
 
-Programa tus partidos con prontitud. Comienza a negociar el horario
-tempranamente; la programación tardía resultará en una derrota por desistencia.
+Agende suas partidas com prontidão. Comece a negociar o horário
+cedo; o agendamento tardio resultará em uma derrota por desistência.
 
-### 5.3 Responsabilidad de programación
+### 5.3 Dever de agendamento
 
-Cualquier jugador del roster puede cumplir el deber de programación.
+Qualquer jogador do roster pode cumprir o dever de agendamento.
 
-### 5.4 Reporte de resultados
+### 5.4 Relatório de resultados
 
-Envía los resultados, con una captura de pantalla, antes de la medianoche del
-domingo siguiente. El no reportar resultados antes de la fecha límite resultará
-en una derrota por desistencia para los dos equipos. Bajo ninguna circunstancia
-se otorgarán extensiones.
+Envie os resultados, com uma captura de tela, antes da meia-noite do
+domingo seguinte. Não reportar os resultados antes do prazo resultará
+em uma derrota por desistência para as duas equipes. Sob nenhuma
+circunstância serão concedidas extensões.
 
-Para reportar los resultados de un partido, publica en el canal `#results` como
-se indica en los mensajes anclados. Incluye una captura de pantalla de los
-puntajes finales. Los resultados no serán aceptados por _ningún_ otro medio.
+Para reportar os resultados de uma partida, publique no canal `#results` como
+indicado nas mensagens fixadas. Inclua uma captura de tela dos
+pontuações finais. Os resultados não serão aceitos por _nenhum_ outro meio.
 
-### 5.5 Cómo programar un partido
+### 5.5 Como agendar uma partida
 
-Un horario de partido consiste en dos elementos:
+Um agendamento de partida consiste em dois elementos:
 
-- La fecha y hora, _con las zonas horarias_, cuando comenzará el partido.
-- El número de juegos que se jugarán en el partido.
+- A data e hora, _com os fusos horários_, em que começará a partida.
+- O número de jogos que serão jogados na partida.
 
-Se urge fuertemente a los competidores que publiquen sus horarios de partidos
-completos para evitar cualquier posibilidad de malentendido o disputa sobre
-estos detalles en el momento del partido.
+Incentiva-se fortemente os competidores a publicarem seus horários de partidas
+completos para evitar qualquer possibilidade de mal-entendido ou disputa sobre
+esses detalhes no momento da partida.
 
-### 5.6 Solicitudes de supervisión
+### 5.6 Solicitações de supervisão
 
-Cualquier equipo puede solicitar que un miembro del personal esté presente en
-su partido. El personal honrará las solicitudes razonables en la medida de lo
-posible, ponderando obligaciones personales conflictivas, la importancia del
-partido para los resultados del torneo y la seriedad de las preocupaciones
-sobre comportamientos inapropiados que puedan ocurrir.
+Qualquer equipe pode solicitar que um membro do staff esteja presente em
+sua partida. O staff honrará as solicitações razoáveis na medida do
+possível, ponderando obrigações pessoais conflitantes, a importância da
+partida para os resultados do torneio e a seriedade das preocupações
+sobre comportamentos inadequados que possam ocorrer.
 
-## Seção 6: Durante los partidos
+## Seção 6: Durante as partidas
 
 ### 6.1 Espectadores
 
-Además del personal del torneo y los comentaristas autorizados, no se
-permitirán espectadores en el servidor durante el juego.
+Além do staff do torneio e dos comentaristas autorizados, não serão
+permitidos espectadores no servidor durante o jogo.
 
-### 6.2 Tardanzas
+### 6.2 Atrasos
 
-Cada equipo tiene 15 minutos después de la hora programada para tener 4
-jugadores en el servidor y listos. La penalización estándar por no cumplir este
-requisito será la derrota por desistencia.
+Cada equipe tem 15 minutos após a hora programada para ter 4
+jogadores no servidor e prontos. A penalidade padrão por não cumprir esse
+requisito será a derrota por desistência.
 
-### 6.3 Sustituciones
+### 6.3 Substituições
 
-Un jugador sustituto es un jugador que participa en un partido por un equipo
-del que no es miembro.
+Um jogador substituto é um jogador que participa em uma partida por uma equipe
+da qual não é membro.
 
-Una característica distintiva de un equipo competitivo es la capacidad de
-presentar un equipo para un partido en la fecha y hora acordadas. Por lo tanto,
-ambos equipos deben acordar permitir jugadores sustitutos, o no se permitirán
-sustitutos.
+Uma característica distintiva de uma equipe competitiva é a capacidade de
+apresentar um time para uma partida na data e hora acordadas. Portanto,
+ambas as equipes devem concordar em permitir jogadores substitutos, caso contrário, não serão permitidos
+substitutos.
 
-#### 6.3.1 Agentes dobles
+#### 6.3.1 Agentes duplos
 
-Ningún jugador registrado puede ser un sustituto para otro equipo.
+Nenhum jogador registrado pode ser um substituto para outra equipe.
 
-#### 6.3.2 Límites para los sustitutos
+#### 6.3.2 Limites para os substitutos
 
-Cada equipo debe presentar al menos tres (3) jugadores de su roster en cada
-partido, independientemente del consentimiento del oponente.
+Cada equipe deve apresentar pelo menos três (3) jogadores do seu roster em cada
+partida, independentemente do consentimento do oponente.
 
-En un partido Local/Visitante, deben presentarse los mismos cuatro jugadores en
-ambos juegos.
+Em uma partida Local/Visitante, devem se apresentar os mesmos quatro jogadores em
+ambos os jogos.
 
-Los sustitutos no están permitidos en la fase final del torneo,
-independientemente del consentimiento de ambos equipos.
+Os substitutos não são permitidos na fase final do torneio,
+independentemente do consentimento de ambas as equipes.
 
-### 6.4 Demos y capturas de pantalla
+### 6.4 Demos e capturas de tela
 
-Para mantener la confianza pública en la legitimidad de la competencia, se
-requiere que cada participante grabe su juego durante el partido.
+Para manter a confiança pública na legitimidade da competição, é
+necessário que cada participante grave seu jogo durante a partida.
+
+#### 6.4.1 As demos são obrigatórias
+
+Os jogadores devem gravar e guardar demos do seu jogo em cada partida, e
+armazenar as demos até ao final do torneio. Terão de enviá-las a um
+Diretor do Torneio sempre que forem solicitadas. Uma transmissão ao vivo não
+substitui uma demo.
+
+Para gravar uma demo, abra a consola e digite `record <nome_da_demo>`. Não
+é necessário regravar após uma troca de mapa, mas é necessário
+regravar após desconectar do servidor por qualquer motivo.
 
 #### 6.4.1 Las demos son obligatorias
 
@@ -361,32 +361,39 @@ Para grabar una demo, abre la consola y escribe `record <nombre_de_demo>`. No
 es necesario volver a grabar después de un cambio de mapa, pero es necesario
 volver a grabar después de desconectarse del servidor por cualquier motivo.
 
-#### 6.4.2 Las capturas de pantalla son obligatorias
+#### 6.4.2 As capturas de tela são obrigatórias
 
-Cada equipo puede pausar una vez por mapa para solicitar capturas de pantalla.
-Los jugadores deben tomar una captura de pantalla cuando se lo pidan cualquier
-persona en el servidor.
+Cada equipe pode pausar uma vez por mapa para solicitar capturas de tela.
+Os jogadores devem tirar uma captura de tela quando solicitado por qualquer
+pessoa no servidor.
 
-#### 6.4.3 Privacidad
+#### 6.4.3 Privacidade
 
-Nunca se requiere que los jugadores entreguen demos a nadie excepto a los
-administradores del torneo. Aunque no hay base para una expectativa de
-privacidad, se compartirán solo para pedir segundas opiniones de jugadores
-hábiles y confiables, o para exponer actos indebidos a la comunidad.
+Nunca é necessário que os jogadores entreguem demos a ninguém exceto aos
+administradores do torneio. Embora não haja base para uma expectativa de
+privacidade, elas serão compartilhadas apenas para pedir segundas opiniões de jogadores
+habilidosos e confiáveis, ou para expor atos indevidos à comunidade.
 
-#### 6.4.4 La responsabilidad es tuya
+#### 6.4.4 A responsabilidade é sua
 
-Es responsabilidad individual de cada jugador grabar demos y capturas de
-pantalla, sin corrupción de datos y enviadas a tiempo.
+É responsabilidade individual de cada jogador gravar demos e capturas de
+tela, sem corrupção de dados e enviadas a tempo.
 
-La falta de envío de demos o capturas de pantalla a solicitud del personal
-resultará, como mínimo, en un puntaje de cero para cualquier ronda para la cual
-no hayan sido enviadas.
+A falta de envio de demos ou capturas de tela a pedido do staff
+resultará, no mínimo, em uma pontuação zero para qualquer ronda para a qual
+não tenham sido enviadas.
 
-### 6.5 Transmisión del partido
+### 6.5 Transmissão da partida
 
-Los participantes acuerdan que los partidos pueden ser transmitidos según el
-proceso habitual.
+Os participantes concordam que as partidas podem ser transmitidas de acordo com o
+processo habitual.
+
+
+
+
+<!-- done before here -->
+
+
 
 ## Seção 7: Exploits
 
@@ -609,20 +616,25 @@ Se puede responsabilizar a todo un equipo por la conducta antideportiva de
 cualquier miembro del equipo. Se aconseja a los capitanes de equipo considerar
 este hecho al componer sus rosters.
 
+
+<!-- done after here -->
+
+
+
 ## Seção 11: Legal
 
-Esta obra está licenciada bajo una Licencia Internacional Creative Commons
+Esta obra está licenciada sob una Licença Internacional Creative Commons
 Attribution-ShareAlike 4.0.
 
-Deberías haber recibido una copia de la licencia junto con esta obra. Si no es
-así, consulta <http://creativecommons.org/licenses/by-sa/4.0/>.
+Deverá ter recebido uma cópia da licença junto com esta obra. Se não, 
+consulte <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 <!-- EXLINKS -->
 
-[3]: https://es.wikipedia.org/wiki/Sistema_suizo
+[3]: https://pt.wikipedia.org/wiki/Sistema_su%C3%AD%C3%A7o
 [banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
-[greatfirewall]: https://es.wikipedia.org/wiki/Gran_Cortafuegos
+[greatfirewall]: https://pt.wikipedia.org/wiki/Grande_Firewall_Chinesa
 [iptables]: https://github.com/SirPlease/IPTables
 [tiebreak-cumulative]: https://web.archive.org/web/20210518014519/https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
