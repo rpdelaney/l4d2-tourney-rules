@@ -4,6 +4,7 @@ Disclaimer by the translator: This document is an unofficial translation of the
 original English version of the RBT7 Tournament rules. In the event of any
 discrepancies between the English and translated versions, the English version
 shall prevail.
+
 免责声明：本文是对RBT7赛事规则英文原文的非官方翻译。如有任何翻译错误或冲突，以英文原文为准。如需详细解释或协助与工作人员沟通，请联系翻译者。
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=2 --minlevel=1 -->
