@@ -34,7 +34,7 @@ como asesor.
 
 ### 1.2 Disputas
 
-Los Directores del Torneo son los únicos árbitros y la última instancia de
+Los Directores del Torneo son los únicos árbitros y tribunal de última instancia de
 todos los conflictos. Sus decisiones son definitivas y no pueden ser apeladas.
 
 ### 1.3 Sanciones
