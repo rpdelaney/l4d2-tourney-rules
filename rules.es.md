@@ -237,7 +237,7 @@ Debido a restricciones impuestas al tráfico de internet en el nivel de las
 troncales de internet, los servidores locales en partidos internacionales no
 estarán detrás de "[El Gran Cortafuegos][greatfirewall]".
 
-#### 4.1.2 Gamesmanship is not tolerated
+#### 4.1.2 No es tolerada conduta antideportiva
 
 No es aceptable elegir un servidor local con la idea de que proporcione mala
 latencia para el equipo oponente. Los administradores del torneo se encargarán
