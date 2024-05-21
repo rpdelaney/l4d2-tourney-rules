@@ -45,9 +45,9 @@ circunstancias lo requieran.
 
 ### 1.4 Conflictos de interés
 
-El personal puede participar en el torneo. En casos donde pueda haber
-un conflicto de interés, el director relevante cederá su lugar a
-otro siempre que posible.
+El personal puede participar en el torneo. En casos donde pueda haber un
+conflicto de interés, el director relevante cederá su lugar a otro siempre que
+posible.
 
 ### 1.5 Comunicación oficial
 
@@ -156,10 +156,9 @@ Cada ronda utilizará [mapban.gg](https://mapban.gg) para seleccionar el mapa.
 La lista de mapas para la ronda se publicará al inicio de la misma junto con
 los emparejamientos.
 
-Entre los dos equipos, el mejor clasificado elige quién empieza con los *bans*. Los
-equipos se turnan hasta que sólo queden dos mapas. 
-mapban.gg decidirá entonces el mapa aleatoriamente. (Usen la opción "Ban until 1 maps
-left").
+Entre los dos equipos, el mejor clasificado elige quién empieza con los *bans*.
+Los equipos se turnan hasta que sólo queden dos mapas. mapban.gg decidirá
+entonces el mapa aleatoriamente. (Usen la opción "Ban until 1 maps left").
 
 ### 2.3 Finales
 
@@ -226,7 +225,8 @@ criterios:
 ### 4.1 Servidores locales
 
 El torneo tiene un formato internacional. Por lo tanto, se aplican las
-siguientes reglas a la elección de los servidores locales en partidos Local/Visitante:
+siguientes reglas a la elección de los servidores locales en partidos
+Local/Visitante:
 
 #### 4.1.1 Selección del servidor local
 
@@ -266,7 +266,8 @@ tempranamente; la programación tardía resultará en una derrota por desistenci
 
 ### 5.3 Responsabilidad de programación
 
-Cualquier jugador del roster de un equipo puede cumplir el deber de programación.
+Cualquier jugador del roster de un equipo puede cumplir el deber de
+programación.
 
 ### 5.4 Reporte de resultados
 
@@ -362,9 +363,9 @@ persona en el servidor.
 
 Nunca se requiere que los jugadores entreguen demos a nadie excepto a los
 administradores del torneo. No hay base para tener una expectativa de
-privacidad, pero se compartirán demos solo cuando los administradores consideren
-necesário pedir segundas opiniones de jugadores
-hábiles y confiables, o para exponer actos indebidos a la comunidad.
+privacidad, pero se compartirán demos solo cuando los administradores
+consideren necesário pedir segundas opiniones de jugadores hábiles y
+confiables, o para exponer actos indebidos a la comunidad.
 
 #### 6.4.4 La responsabilidad es tuya
 
