@@ -170,7 +170,7 @@ En campañas de 5 capítulos, a menos que haya un acuerdo claro y documentado
 entre ambos equipos sobre si jugar el Capítulo 5, entonces:
 
 - En un partido en servidor neutral, _se jugará_ el Capítulo 5.
-- En un partido Local/Visitante, _no se jugará_ el Capítulo 5.
+- En un partido Local/Visitante, _**no** se jugará_ el Capítulo 5.
 
 ## Sección 3: Proceso de inscripción
 
