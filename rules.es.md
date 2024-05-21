@@ -163,15 +163,6 @@ left").
 
 ### 2.3 Finales
 
-On 4-chapter campaigns (such as Dead Center or Swamp Fever), Chapter 4 will
-always be played.
-
-On 5-chapter campaigns, unless there is clear, documented agreement between
-both teams on whether to play Chapter 5, then:
-
-- In a neutral server match, Chapter 5 _will_ be played.
-- In a Home/Away match, Chapter 5 _will not_ be played.
-
 En campañas de 4 capítulos (como Dead Center o Swamp Fever), se jugará el
 Capítulo 4 siempre.
 
