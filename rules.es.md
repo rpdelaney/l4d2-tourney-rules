@@ -111,7 +111,7 @@ durante la sección suiza.
 #### 2.2.2 Exenciones
 
 Si en una ronda hay un número impar de participantes a emparejar, se otorga una
-exención al participante de menor rango en el grupo de menor puntuación. Una
+exención ("*bye*") al participante de menor rango en el grupo de menor puntuación. Una
 exención otorga un punto completo.
 
 #### 2.2.3 Desempates
