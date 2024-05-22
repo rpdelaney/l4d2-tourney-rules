@@ -350,17 +350,6 @@ Para gravar uma demo, abra a consola e digite `record <nome_da_demo>`. Não
 é necessário regravar após uma troca de mapa, mas é necessário
 regravar após desconectar do servidor por qualquer motivo.
 
-#### 6.4.1 Las demos son obligatorias
-
-Los jugadores deben grabar y guardar demos de su juego en el partido, y
-almacenar las demos hasta el final del torneo. Tendrán que enviarlas a un
-Director del Torneo siempre que se soliciten. Una transmisión en vivo no
-sustituye una demo.
-
-Para grabar una demo, abre la consola y escribe `record <nombre_de_demo>`. No
-es necesario volver a grabar después de un cambio de mapa, pero es necesario
-volver a grabar después de desconectarse del servidor por cualquier motivo.
-
 #### 6.4.2 As capturas de tela são obrigatórias
 
 Cada equipe pode pausar uma vez por mapa para solicitar capturas de tela.
