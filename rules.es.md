@@ -34,7 +34,7 @@ como asesor.
 
 ### 1.2 Disputas
 
-Los Directores del Torneo son los únicos árbitros y la última instancia de
+Los Directores del Torneo son los únicos árbitros y tribunal de última instancia de
 todos los conflictos. Sus decisiones son definitivas y no pueden ser apeladas.
 
 ### 1.3 Sanciones
@@ -111,7 +111,7 @@ durante la sección suiza.
 #### 2.2.2 Exenciones
 
 Si en una ronda hay un número impar de participantes a emparejar, se otorga una
-exención al participante de menor rango en el grupo de menor puntuación. Una
+exención ("*bye*") al participante de menor rango en el grupo de menor puntuación. Una
 exención otorga un punto completo.
 
 #### 2.2.3 Desempates
@@ -194,7 +194,7 @@ puede participar en el torneo con su cuenta *banned*, ni con ninguna cuenta
 alternativa. Cualquier partido jugado con un jugador *banned* se considera una
 derrota por desistencia, y su equipo puede ser suspendido del torneo.
 
-Puedes revisar la lista pública de prohibidos [aquí][banlist-sirplease].
+Puedes revisar la lista pública de jugadores *banned* [aquí][banlist-sirplease].
 
 ### 3.5 Tamaño del roster
 
@@ -237,7 +237,7 @@ Debido a restricciones impuestas al tráfico de internet en el nivel de las
 troncales de internet, los servidores locales en partidos internacionales no
 estarán detrás de "[El Gran Cortafuegos][greatfirewall]".
 
-#### 4.1.2 Gamesmanship is not tolerated
+#### 4.1.2 No es tolerada conduta antideportiva
 
 No es aceptable elegir un servidor local con la idea de que proporcione mala
 latencia para el equipo oponente. Los administradores del torneo se encargarán
