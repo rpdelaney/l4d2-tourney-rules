@@ -34,8 +34,9 @@ como asesor.
 
 ### 1.2 Disputas
 
-Los Directores del Torneo son los únicos árbitros y tribunal de última instancia de
-todos los conflictos. Sus decisiones son definitivas y no pueden ser apeladas.
+Los Directores del Torneo son los únicos árbitros y tribunal de última
+instancia de todos los conflictos. Sus decisiones son definitivas y no pueden
+ser apeladas.
 
 ### 1.3 Sanciones
 
@@ -111,8 +112,8 @@ durante la sección suiza.
 #### 2.2.2 Exenciones
 
 Si en una ronda hay un número impar de participantes a emparejar, se otorga una
-exención ("*bye*") al participante de menor rango en el grupo de menor puntuación. Una
-exención otorga un punto completo.
+exención ("*bye*") al participante de menor rango en el grupo de menor
+puntuación. Una exención otorga un punto completo.
 
 #### 2.2.3 Desempates
 
@@ -194,7 +195,8 @@ puede participar en el torneo con su cuenta *banned*, ni con ninguna cuenta
 alternativa. Cualquier partido jugado con un jugador *banned* se considera una
 derrota por desistencia, y su equipo puede ser suspendido del torneo.
 
-Puedes revisar la lista pública de jugadores *banned* [aquí][banlist-sirplease].
+Puedes revisar la lista pública de jugadores *banned*
+[aquí][banlist-sirplease].
 
 ### 3.5 Tamaño del roster
 
