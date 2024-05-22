@@ -390,235 +390,229 @@ processo habitual.
 
 
 
-
-<!-- done before here -->
-
-
-
 ## Seção 7: Exploits
 
-### 7.1 Explotación de la IA de navegación, o *pathing*
+### 7.1 Abuso da IA de navegação, ou *pathing*
 
-No explotes intencionadamente la navegación de la IA moviéndote a un área que
-cause que los infectados controlados por la computadora (como los infectados
-comunes o la bruja) dejen de atacar. Sin embargo, está permitido explotar la
-navegación de la IA de manera que cause que los infectados tengan que trepar
+Não abuse intencionalmente a navegação da IA movendo-se para uma área que
+cause que os infectados controlados pelo computador (como os infectados
+comuns ou a bruxa) parem de atacar. Em contrapartida, é permitido usar a
+navegação da IA de maneira a que os infectados tenham que escalar
 obstáculos repetidamente.
 
-### 7.2 Navegación del Tanque
+### 7.2 Navegação do Tank
 
-Si un tanque controlado por la IA se detiene por cualquier motivo, los
-supervivientes deben ser notificados en un tiempo razonable. No posiciones
-intencionadamente un tanque de manera que no pueda avanzar bajo control de la
-IA.
+Se um tank controlado pela IA parar por qualquer motivo, os sobreviventes devem ser
+notificados em um tempo razoável. Não posicione intencionalmente um tank de
+maneira a que este não possa avançar sob controle da IA.
 
 ### 7.3 Comando *spectate*
 
-No uses el comando `!spectate` excesivamente ni de manera que obtengas una
-ventaja injusta.
+Não use o comando `!spectate` excessivamente ou de maneira a obter uma
+vantagem injusta.
 
-Históricamente, los usos aceptados del comando de espectador han sido:
+Historicamente, os usos aceites do comando de espectador têm sido:
 
-- Un jugador está fuera de los límites o ha quedado atrapado en un objeto y no
-  puede moverse ni atacar a los supervivientes.
-- Un SI controlado por un jugador no está siendo eliminado por los
-  supervivientes en un tiempo razonable (por ejemplo, en lugar de matar a una
-  *spitter*, los supervivientes la están golpeando repetidamente).
-- El servidor se colapsó y es necesario espectar para garantizar una rotación
-  de tanque adecuada.
+- Um jogador está fora dos limites ou ficou preso em um objeto e não
+  pode se mover ou atacar os sobreviventes.
+- Um SI controlado por um jogador não está sendo eliminado pelos
+  sobreviventes em um tempo razoável (por exemplo, em vez de matar uma
+  *spitter*, os sobreviventes estão empurrando ela repetidamente).
+- O servidor crashou e é necessário espectar para garantir uma rotação
+  de tank adequada.
 
-### 7.4 "Puntos de atasco"
+### 7.4 "Pontos *stuck*"
 
-No explotes los "puntos de atasco" quedándote intencionadamente atascado en o
+Não abuse os pontos onde é possível ficar preso, ficando intencionalmente emperrado dentro de ou
 entre entidades.
 
 ### 7.5 *Glitches* de *spawn*
 
-Como infectado, no atravieses una pared ni cualquier otra obstrucción haciendo
-el *spawn* mientras pasas a través de ella en modo "fantasma".
+Como infectado, não atravesse uma parede ou qualquer outra obstrução fazendo
+o *spawn* enquanto passa através dela no modo "fantasma".
 
-### 7.6 Atacar desde fuera de límites
+### 7.6 Atacar de fora dos limites
 
-Como infectado, no ataques a los supervivientes en ningún modo desde fuera de
-los límites normales del mapa.
+Como infectado, não ataque os sobreviventes de nenhuma maneira de fora dos
+limites normais do mapa.
 
-### 7.7 Ascensor de Hard Rain
+### 7.7 Elevador de Hard Rain
 
-No saltes el evento del ascensor en `c4m2_sugarmill` por ningún medio que
-permita al jugador entrar de manera segura al campo de caña de azúcar sin usar
-el ascensor o sin ser incapacitado o muerto por daño de caída.
+Não salte o evento do elevador em `c4m2_sugarmill` por qualquer meio que
+permita ao jogador entrar de maneira segura no campo de cana-de-açúcar sem usar
+o elevador ou sem ser incapacitado ou morto por dano de queda.
 
-### 7.8 Escalera de Death Toll 1
+### 7.8 Escada de Death Toll 1
 
-No puedes cruzar el puente derruido en `c10_m1` sin subir por una escalera. Si
-te encuentras al otro lado del puente y no subiste por una escalera, debes
-volver y subir por una escalera antes de avanzar.
+Você não pode atravessar a ponte destruída em `c10_m1` sem subir por uma
+escada. Se você se encontrar do outro lado da ponte e não subiu por uma escada,
+deve voltar atrás e subir por uma escada antes de avançar.
 
-### 7.9 Bidones de gasolina en el Atrio
+### 7.9 Bidões de gasolina no Átrio
 
-Como infectado, no puedes mover los bidones en `c1m4_atrium` golpeándolos o
-arañándolos.
+Como infectado, você não pode mover os bidões de gasolina em `c1m4_atrium` batendo nelets ou
+arranhando-os.
 
-Posicionar intencionalmente a un boomer de modo a que los bidones se muevan
-cuando explote está permitido.
+Posicionar intencionalmente um boomer de modo que os bidões se movam
+quando ele explodir é permitido.
+
 
 ## Seção 8: Glitches
 
-### 8.1 Vehículos de rescate
+### 8.1 Veículos de resgate
 
-En caso de un fallo técnico con el vehículo de rescate durante un finale (más
-común en Swamp Fever, pero también posible en Dark Carnival y Hard Rain), la
-mitad de ronda será repetida después de un reinicio. Si necesario, los puntajes
-finales serán calculados manualmente.
+Em caso de uma falha técnica com o veículo de resgate durante um finale (mais
+comum em Swamp Fever, mas também possível em Dark Carnival e Hard Rain), a
+metade da ronda será repetida após um reinício. Se necessário, as pontuações
+finais serão calculadas manualmente.
 
-## Seção 9: Integridad competitiva
 
-Los participantes tienen el deber de ajustarse a los estándares generalmente
-aceptados de juego limpio. Desviarse de estos estándares es hacer trampa y
-amenaza la legitimidad de la competencia en su conjunto. Por lo tanto, todos
-serán sometidos a un estricto estándar de integridad competitiva.
+
+## Seção 9: Integridade competitiva
+
+Os participantes têm o dever de se ajustar aos padrões geralmente aceitos de
+jogo limpo. Desviar-se desses padrões é trapacear e ameaça a legitimidade da
+competição como um todo. Portanto, todos serão submetidos a um rigoroso padrão
+de integridade competitiva.
 
 ### 9.1 Penas
 
-La pena mínima por una violación de la integridad competitiva es la pérdida del
-partido por desistencia. No hay una pena máxima, que puede incluir la expulsión
-del equipo del torneo, la pérdida de partidos ya jugados y la pérdida de la
-elegibilidad del equipo para cualquier premio.
+A pena mínima por uma violação da integridade competitiva é a perda da
+partida por desistência. Não há uma pena máxima, que pode incluir a expulsão
+da equipe do torneio, a perda de partidas já jogadas e a perda da
+elegibilidade da equipe para qualquer prêmio.
 
 ### 9.2 *Stream sniping*
 
-Después de que comience el partido, los jugadores no obtendrán información de
-ninguna transmisión web, streams, etc., que muestren el juego del partido,
-hasta que el partido haya concluido.
+Depois do começo da partida, os jogadores não obterão informações de
+nenhuma transmissão web, streams, etc., que mostrem o jogo da partida,
+até que a partida tenha concluído.
 
-### 9.3 Modificaciones permitidas
+### 9.3 Modificações permitidas
 
-Las siguientes modificaciones están PERMITIDAS:
+As seguintes modificações estão PERMITIDAS:
 
-- Todas las modificaciones en la interfaz de usuario de Left 4 Dead 2 que no
-  alteren, ni interactúen con la experiencia de usuario en el juego ni
-  proporcionen información adicional sobre el estado del juego (por ejemplo,
-  ZoneMenu, música del menú, fuentes del menú, atajos del menú, fuentes de la
-  consola, etc.) están permitidas.
-- Modificar, eliminar o agregar HUDs, miras (incluyendo miras superpuestas), y
-  punteros de dolor está permitido.
-- Modificar o eliminar modelos de armas y animaciones está permitido.
-- Modificar o eliminar la "música del tanque" incluyendo ajustar el volumen
+- Todas as modificações na interface de usuário de Left 4 Dead 2 que não
+  alterem, nem interajam com a experiência de usuário no jogo nem
+  forneçam informações adicionais sobre o estado do jogo (por exemplo,
+  ZoneMenu, música do menu, fontes do menu, atalhos do menu, fontes da
+  console, etc.) estão permitidas.
+- Modificar, eliminar ou adicionar HUDs, miras (incluindo miras superpostas), e
+  indicadores de dano está permitido.
+- Modificar ou eliminar modelos de armas e animações está permitido.
+- Modificar ou eliminar a "música do tank" incluindo ajustar o volume
   está permitido.
-- Modificar o eliminar música reproducida al final de la ronda después de un
-  *wipe*, puerta del *saferoom* cerrada, o muerte del jugador está permitido.
-- Modificar o eliminar el tinte azul durante el *spawn* de infectados
-  especiales en "modo fantasma" vía
+- Modificar ou eliminar música reproduzida ao final da ronda após um
+  *wipe*, fecho da porta da *saferoom*, ou morte do jogador está permitido.
+- Modificar ou eliminar o tom azul durante o *spawn* de infectados
+  especiais no "modo fantasma" via
   `left4dead2\materials\correction\ghost(.pwl)` está permitido.
-- Modificar o eliminar el tinte rojo que aparece cuando se hace el *spawn* como
-  infectado especial o tanque vía
+- Modificar ou eliminar o tom vermelho que aparece quando se faz o *spawn* como
+  infectado especial ou tank via
   `left4dead2\materials\correction\infected(.pwl)` está permitido.
-- Archivos de configuración del motor Source y scripts de consola que no
-  exploten cvars marcadas como trampas y que no eludan bloqueos en cvars
-  bloqueadas por la configuración competitiva (por ejemplo, `mat_hdr`) están
+- Arquivos de configuração do motor Source e scripts de console que não
+  explorem cvars marcadas como trapaça e que não contornem bloqueios em cvars
+  bloqueadas pela configuração competitiva (por exemplo, `mat_hdr`) estão
   permitidos.
-- Todas las opciones de lanzamiento que no exploten ni permitan al jugador
-  explotar cvars marcadas como trampas están permitidas.
-- Cualquier configuración que se pueda establecer usando las opciones del menú
-  GUI estándar en el juego está permitida.
-- Modificar materiales y sonidos relacionados con armas o ítems que están
-  prohibidos en la configuración competitiva (que pueden incluir: armas "Nivel
-  2", motosierra, M60, arrojables, etc) está permitido.
+- Todas as opções de lançamento que não abusem nem permitam ao jogador
+  abusar cvars marcadas como trapaça estão permitidas.
+- Qualquer configuração que possa ser estabelecida usando as opções do menu
+  GUI padrão no jogo está permitida.
+- Modificar materiais e sons relacionados com armas ou itens que estão
+  proibidos na configuração competitiva (que podem incluir: armas "Nível
+  2", motosserra, M60, arremessáveis, etc) está permitido.
 
-### 9.4 Modificaciones prohibidas
+### 9.4 Modificações proibidas
 
-Aparte de lo anterior, no se permitirán modificaciones a los archivos del juego
-o materiales, ni el uso de software de terceros y aplicaciones que afecten el
-juego, sin la autorización pública, previa y por escrito del(os) Director(es)
-del Torneo. Esto incluye, pero NO SE LIMITA a:
+À parte o anterior, não serão permitidas modificações nos arquivos do jogo
+ou materiais, nem o uso de software de terceiros e aplicativos que afetem o
+jogo, sem a autorização pública, prévia e por escrito do(s) Diretor(es)
+do Torneio. Isso inclui, mas NÃO SE LIMITA a:
 
-- Cualquier cambio a los modelos de supervivientes o infectados de serie,
-  texturas del mapa, cielos, props u otros materiales y archivos usados para
-  renderizar el entorno del juego está prohibido.
-- Cualquier cambio a los sonidos del juego está prohibido.
-- Cualquier aplicación, programa o macro de terceros, que lea o modifique la
-  memoria para afectar el juego, o para proporcionar información sobre el
-  estado del juego al jugador mientras el juego está en funcionamiento, están
-  prohibidos.
+- Qualquer mudança nos modelos de sobreviventes ou infectados de série,
+  texturas do mapa, céus, props ou outros materiais e arquivos usados para
+  renderizar o ambiente do jogo está proibido.
+- Qualquer mudança nos sons do jogo está proibida.
+- Qualquer aplicativo, programa ou macro de terceiros, que leia ou modifique a
+  memória para afetar o jogo, ou para fornecer informações sobre o
+  estado do jogo ao jogador enquanto o jogo está em funcionamento, estão
+  proibidos.
 
-#### 9.4.1 *Toggling* del netcode
+#### 9.4.1 *Toggling* do netcode
 
-Después del listo para la primera mitad de cada mapa, cambiar los siguientes
-cvars está prohibido hasta que se completen ambas mitades de la ronda:
+Depois do ready-up na primeira metade de cada mapa, mudar os seguintes
+cvars está proibido até que ambas as metades da ronda estejam completas:
 
 - `cl_interp`
 - `cl_interp_ratio`
 - `cl_lagcompensation`
 
-## Seção 10: Conducta antideportiva
 
-Se espera que cada participante se conduzca de manera respetuosa hacia los
-demás en todo momento. No se tolerará la conducta abusiva, acosadora,
-irrespetuosa o de cualquier otra manera antideportiva, ni durante un partido
-del torneo, ni en ningún otro contexto.
+## Seção 10: Conduta antidesportiva
 
-### 10.1 Esfuerzo insuficiente para ganar
+Espera-se que cada participante se conduza de maneira respeitosa com os
+demais em todos os momentos. Não será tolerada conduta abusiva, assediadora,
+desrespeitosa ou de qualquer outra maneira antidesportiva, nem durante uma
+partida do torneio, nem em nenhum outro contexto.
 
-Cualquier competidor que, según el criterio de un miembro del personal, no se
-haya comprometido a ganar el partido es culpable de conducta antideportiva.
+### 10.1 Esforço insuficiente para ganhar
 
-### 10.2 Pausas excesivas
+Qualquer competidor que, a critério de um membro do staff, não se
+esforçou para ganhar a partida é culpado de conduta antidesportiva.
 
-El uso repetido o prolongado de la función de pausa interrumpe el flujo normal
-del partido y frustra las expectativas de los espectadores y otros jugadores.
-Por lo tanto, las pausas extensas son conducta antideportiva si el personal las
-considera excesivas, independientemente de la razón.
+### 10.2 Pausas excessivas
+
+O uso repetido ou prolongado da função de pausa interrompe o fluxo normal
+da partida e frustra as expectativas dos espectadores e outros jogadores.
+Portanto, pausas extensas são conduta antidesportiva se o staff as
+considerar excessivas, independentemente da razão.
 
 ### 10.3 Uso excessivo de alltalk
 
-El uso de all-talk (`messagemode1` en consola, también conocido como "mm1")
-será sujeto al estándar más estricto de conducta deportiva durante el juego.
+O uso de all-talk (`messagemode1` no console, também conhecido como "mm1")
+será sujeito ao padrão mais rigoroso de conduta desportiva durante o jogo.
 
-### 10.4 Efectos de sonido
+### 10.4 Efeitos sonoros
 
-El motor de juego frecuentemente hace que las entidades de los jugadores
-reproduzcan vocalizaciones en ciertas circunstancias de manera automática e
-involuntaria. Las vocalizaciones activadas voluntariamente pueden burlar,
-acosar, molestar o confundir a otros jugadores. Por lo tanto, se desaconseja
-fuertemente las vocalizaciones que son activadas por el jugador de cualquier
-manera (menús radiales, comandos de consola, botones de medios en algunos
-teclados, etc.). Esto incluye, pero NO SE LIMITA a:
+O motor de jogo frequentemente faz com que as entidades dos jogadores
+reproduzam vocalizações em certas circunstâncias de maneira automática e
+involuntária. As vocalizações ativadas voluntariamente podem enganar,
+assediar, perturbar ou confundir outros jogadores. Portanto, são fortemente
+desencorajadas as vocalizações ativadas pelo jogador de qualquer
+maneira (menus radiais, comandos do console, botões de mídia em alguns
+teclados, etc.). Isso inclui, mas NÃO SE LIMITA a:
 
-- Risa o vocalizaciones de tos de los supervivientes
-- Sonidos de muerte de los supervivientes, u otras vocalizaciones asociadas con
-  el estado del jugador o la salud (como la incapacitación o estar “negro y
-  blanco”)
-- Vocalizaciones activadas o efectos de sonido asociados con eventos del
-  director (como la llegada del vehículo de rescate, etc.)
-- Vocalizaciones de infectados especiales
+- Risada ou vocalizações de tosse dos sobreviventes
+- Sons de morte dos sobreviventes, ou outras vocalizações associadas com
+  o estado do jogador ou a saúde (como incapacitação ou estar “preto e
+  branco”)
+- Vocalizações ativadas ou efeitos sonoros associados com eventos do
+  diretor (como a chegada do veículo de resgate, etc.)
+- Vocalizações de infectados especiais
 
-### 10.5 Sprays y avatares de Steam
+### 10.5 Sprays e avatares do Steam
 
-No uses sprays que imiten o se parezcan a objetos del entorno, tales como:
-armas, modelos de NPC o jugadores, accesorios, o cualquier otra entidad
-reconocible del juego.
+Não use sprays que imitem ou se assemelhem a objetos do ambiente, tais como:
+armas, modelos de NPC ou jogadores, acessórios, ou qualquer outra entidade
+reconhecível do jogo.
 
-No uses sprays o avatares de Steam que sean grotescos, violentos, obscenos o
-que representen imágenes perturbadoras u ofensivas como contenido sexualmente
-sugerente o explícito, logotipos racistas o imágenes de "shock".
+Não use sprays ou avatares da Steam que sejam grotescos, violentos, obscenos ou
+que representem imagens perturbadoras ou ofensivas como conteúdo sexualmente
+sugestivo ou explícito, logotipos racistas ou imagens de "choque".
 
-### 10.6 Respecta a los hosts de los servidores
+### 10.6 Respeite os hosts dos servidores
 
-Los anfitriones de servidores invierten tiempo y dinero para proporcionar y
-mantener los servidores sin cobrar a nadie que los use. Esta competencia, y el
-juego competitivo en general, dependen de su generosidad continua. Por lo
-tanto, no infrinjas las reglas del servidor en ningún momento cuando uses el
-servidor de otra persona.
+Os anfitriões de servidores investem tempo e dinheiro para fornecer e
+manter os servidores sem cobrar de ninguém que os use. Esta competição, e o
+jogo competitivo em geral, dependem de sua generosidade contínua. Portanto,
+não infrinja as regras do servidor em nenhum momento quando usar o
+servidor de outra pessoa.
 
-### 10.7 Culpa por asociación
+### 10.7 Culpa por associação
 
-Se puede responsabilizar a todo un equipo por la conducta antideportiva de
-cualquier miembro del equipo. Se aconseja a los capitanes de equipo considerar
-este hecho al componer sus rosters.
-
-
-<!-- done after here -->
-
+Pode-se responsabilizar toda a equipe pela conduta antidesportiva de
+qualquer membro da equipe. Aconselha-se aos capitães que considerem
+este fato ao compor seus rosters.
 
 
 ## Seção 11: Legal
