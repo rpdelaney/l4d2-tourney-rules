@@ -45,9 +45,9 @@ circunstancias lo requieran.
 
 ### 1.4 Conflictos de interés
 
-El personal puede participar en el torneo. En casos donde pueda haber
-apariencia de un conflicto de interés, el director relevante cederá su lugar a
-otro cuando posible.
+El personal puede participar en el torneo. En casos donde pueda haber un
+conflicto de interés, el director relevante cederá su lugar a otro siempre que
+posible.
 
 ### 1.5 Comunicación oficial
 
@@ -156,10 +156,9 @@ Cada ronda utilizará [mapban.gg](https://mapban.gg) para seleccionar el mapa.
 La lista de mapas para la ronda se publicará al inicio de la misma junto con
 los emparejamientos.
 
-Entre los dos equipos, el mejor clasificado elige quién prohíbe primero. Los
-equipos se turnan prohibiendo mapas hasta que queden dos mapas. Luego,
-mapban.gg decidirá el mapa aleatoriamente. (Usen la opción "Ban until 1 maps
-left").
+Entre los dos equipos, el mejor clasificado elige quién empieza con los *bans*.
+Los equipos se turnan hasta que sólo queden dos mapas. mapban.gg decidirá
+entonces el mapa aleatoriamente. (Usen la opción "Ban until 1 maps left").
 
 ### 2.3 Finales
 
@@ -226,7 +225,8 @@ criterios:
 ### 4.1 Servidores locales
 
 El torneo tiene un formato internacional. Por lo tanto, se aplican las
-siguientes reglas:
+siguientes reglas a la elección de los servidores locales en partidos
+Local/Visitante:
 
 #### 4.1.1 Selección del servidor local
 
@@ -266,7 +266,8 @@ tempranamente; la programación tardía resultará en una derrota por desistenci
 
 ### 5.3 Responsabilidad de programación
 
-Cualquier jugador del roster puede cumplir el deber de programación.
+Cualquier jugador del roster de un equipo puede cumplir el deber de
+programación.
 
 ### 5.4 Reporte de resultados
 
@@ -323,7 +324,7 @@ sustitutos.
 
 #### 6.3.1 Agentes dobles
 
-Ningún jugador registrado puede ser un sustituto para otro equipo.
+Ningún jugador registrado puede jugar como sustituto para otro equipo.
 
 #### 6.3.2 Límites para los sustitutos
 
@@ -361,9 +362,10 @@ persona en el servidor.
 #### 6.4.3 Privacidad
 
 Nunca se requiere que los jugadores entreguen demos a nadie excepto a los
-administradores del torneo. Aunque no hay base para una expectativa de
-privacidad, se compartirán solo para pedir segundas opiniones de jugadores
-hábiles y confiables, o para exponer actos indebidos a la comunidad.
+administradores del torneo. No hay base para tener una expectativa de
+privacidad, pero se compartirán demos solo cuando los administradores
+consideren necesário pedir segundas opiniones de jugadores hábiles y
+confiables, o para exponer actos indebidos a la comunidad.
 
 #### 6.4.4 La responsabilidad es tuya
 
@@ -393,7 +395,7 @@ obstáculos repetidamente.
 
 Si un tanque controlado por la IA se detiene por cualquier motivo, los
 supervivientes deben ser notificados en un tiempo razonable. No posiciones
-intencionadamente un tanque de manera que no pueda avanzar bajo control de la
+intencionadamente un tanque de manera a que no pueda avanzar bajo control de la
 IA.
 
 ### 7.3 Comando *spectate*
@@ -605,7 +607,7 @@ este hecho al componer sus rosters.
 Esta obra está licenciada bajo una Licencia Internacional Creative Commons
 Attribution-ShareAlike 4.0.
 
-Deberías haber recibido una copia de la licencia junto con esta obra. Si no es
+Debes haber recibido una copia de la licencia junto con esta obra. Si no es
 así, consulta <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 <!-- EXLINKS -->
