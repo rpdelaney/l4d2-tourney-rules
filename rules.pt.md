@@ -608,7 +608,7 @@ Deverá ter recebido uma cópia da licença junto com esta obra. Se não, consul
 <!-- EXLINKS -->
 
 [3]: https://pt.wikipedia.org/wiki/Sistema_su%C3%AD%C3%A7o
-[banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
+[banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall]: https://pt.wikipedia.org/wiki/Grande_Firewall_Chinesa
 [iptables]: https://github.com/SirPlease/IPTables

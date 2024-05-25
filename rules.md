@@ -593,7 +593,7 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
-[banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
+[banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables

@@ -615,7 +615,7 @@ así, consulta <http://creativecommons.org/licenses/by-sa/4.0/>.
 <!-- EXLINKS -->
 
 [3]: https://es.wikipedia.org/wiki/Sistema_suizo
-[banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
+[banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall]: https://es.wikipedia.org/wiki/Gran_Cortafuegos
 [iptables]: https://github.com/SirPlease/IPTables
