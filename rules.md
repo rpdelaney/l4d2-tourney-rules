@@ -200,14 +200,14 @@ minimum penalty will be to overturn the match result to a forfeit loss.
 
 You can review the public ban lists at these external links:
 
-- [SirPlease][banlist-sirplease].
-- [l4d2Center][banlist-l4d2center].
+- [SirPlease][banlist-sirplease]
+- [l4d2Center][banlist-l4d2center]
 
 ### 3.4.1 Registration is not an exception
 
-It is your responsibility to verifying your own eligibility and that of your
-team. The presence of an ineligible player on any registration list or page
-does not grant an exception to this rule.
+It is your responsibility to verify your own eligibility and that of your team.
+The presence of an ineligible player on any registration list or page does not
+grant an exception to this rule.
 
 ### 3.5 Roster size
 
