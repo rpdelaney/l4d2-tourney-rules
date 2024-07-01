@@ -190,12 +190,24 @@ A player may register for only one team in the tournament.
 
 ### 3.4 Banned players
 
-Any player with an indefinite ban on the SirPlease sourcebans may not
-participate in the tournament with their banned account, nor with any alternate
-account. Any match played with a banned player is a forfeit loss, and their
-team may be suspended from the tournament.
+A player with a permanent ban on SirPlease, or a ban on l4d2center with
+duration greater than or equal to five (5) years, is ineligible for
+participation in the tournament with their banned account or any alternate
+account.
 
-You may review the public ban list [here][banlist-sirplease].
+If a match is played with any player who is ineligible under this rule, the
+minimum penalty will be to overturn the match result to a forfeit loss.
+
+You can review the public ban lists at these external links:
+
+- [SirPlease][banlist-sirplease].
+- [l4d2Center][banlist-l4d2center].
+
+### 3.4.1 Registration is not an exception
+
+It is your responsibility to verifying your own eligibility and that of your
+team. The presence of an ineligible player on any registration list or page
+does not grant an exception to this rule.
 
 ### 3.5 Roster size
 
@@ -593,6 +605,7 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
+[banlist-l4d2center]: https://l4d2center.com/bans/
 [banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
