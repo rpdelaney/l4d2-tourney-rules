@@ -94,9 +94,9 @@ programación.
 
 ### 2.2 Sección suiza
 
-La primera sección será un torneo en sistema suizo de \[TBD\] rondas. Una
-victoria en un partido otorga 1 punto, un empate otorga medio punto, y una
-derrota otorga 0 puntos.
+La primera sección será un torneo en sistema suizo de 7 rondas. Una victoria en
+un partido otorga 1 punto, un empate otorga medio punto, y una derrota otorga 0
+puntos.
 
 Al comienzo de cada ronda suiza, cada equipo será emparejado al azar contra
 otros con el mismo registro de juegos Ganados : Perdidos.

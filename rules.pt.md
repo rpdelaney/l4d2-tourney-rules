@@ -93,9 +93,9 @@ agendamento.
 
 ### 2.2 Seção suíça
 
-A primeira seção será um torneio em sistema suíço de \[TBD\] rondas. Uma
-vitória em uma partida concede 1 ponto, um empate concede meio ponto, e uma
-derrota concede 0 pontos.
+A primeira seção será um torneio em sistema suíço de 7 rondas. Uma vitória em
+uma partida concede 1 ponto, um empate concede meio ponto, e uma derrota
+concede 0 pontos.
 
 No início de cada ronda suíça, cada equipe será emparelhada aleatoriamente
 contra outra com a mesma contagem de jogos Ganhos : Perdidos.
