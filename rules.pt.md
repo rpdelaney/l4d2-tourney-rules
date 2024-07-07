@@ -190,13 +190,24 @@ Um jogador pode se registrar em apenas uma equipe no torneio.
 
 ### 3.4 Jogadores banidos
 
-Qualquer jogador com um *ban* indefinido nos sourcebans de SirPlease não pode
-participar no torneio com sua conta banida, nem com qualquer conta alternativa.
-Qualquer partida jogada com um jogador banido é considerada uma derrota por
-desistência, e sua equipe pode ser suspensa do torneio.
+Um jogador com um ban permanente no SirPlease, ou um ban no l4d2center com uma
+duração superior ou igual a 5 anos, está proibido de participar no torneio,
+seja com a sua conta banida, seja com qualquer conta alternativa.
 
-Você pode revisar a lista pública de jogadores banidos
-[aqui][banlist-sirplease].
+Se é jogada uma partida com um jogador inelegível por esta regra, a penalidade
+mínima é uma derrota por desistência.
+
+A lista pública de jogadores banidos pode ser revista nos seguintes links
+externos:
+
+- [SirPlease][banlist-sirplease]
+- [l4d2Center][banlist-l4d2center]
+
+### 3.4.1 Inscrição não é excepção
+
+É a responsabilidade de cada jogador verificar a sua elegibilidade e a do seu
+time. A presença de um jogador inelegível numa lista inscrita não concede uma
+excepção a esta regra.
 
 ### 3.5 Tamanho do roster
 
@@ -608,6 +619,7 @@ Deverá ter recebido uma cópia da licença junto com esta obra. Se não, consul
 <!-- EXLINKS -->
 
 [3]: https://pt.wikipedia.org/wiki/Sistema_su%C3%AD%C3%A7o
+[banlist-l4d2center]: https://l4d2center.com/bans/
 [banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall]: https://pt.wikipedia.org/wiki/Grande_Firewall_Chinesa
