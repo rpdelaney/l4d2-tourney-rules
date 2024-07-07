@@ -188,15 +188,26 @@ fecha, nuevas entradas y solicitudes para adiciones al roster son inválidas.
 
 Un jugador puede registrarse en solo un equipo en el torneo.
 
-### 3.4 Jugadores *banned*
+### 3.4 Jugadores baneados
 
-Cualquier jugador con una *ban* indefinido en los sourcebans de SirPlease no
-puede participar en el torneo con su cuenta *banned*, ni con ninguna cuenta
-alternativa. Cualquier partido jugado con un jugador *banned* se considera una
-derrota por desistencia, y su equipo puede ser suspendido del torneo.
+Un jugador con un ban permanente en SirPlease, o un ban en l4d2center con una
+duración superior o igual a 5 años, tiene prohibido de participar en el torneo
+sea con su cuenta baneada, sea con una cuenta alternativa.
 
-Puedes revisar la lista pública de jugadores *banned*
-[aquí][banlist-sirplease].
+Si se juega un partido con un jugador inelegible bajo esta regla, la penalidad
+mínima será una derrota por desistencia.
+
+La lista pública de jugadores baneados puede ser revista en estos enlaces
+externos:
+
+- [SirPlease][banlist-sirplease]
+- [l4d2Center][banlist-l4d2center]
+
+### 3.4.1 Inscripción no es excepción
+
+Es la responsabilidad de cada jugador verificar su elegibilidad y la de su
+equipo. La presencia de un jugador inelegible en una lista inscrita no concede
+una excepción a esta regla.
 
 ### 3.5 Tamaño del roster
 
@@ -615,6 +626,7 @@ así, consulta <http://creativecommons.org/licenses/by-sa/4.0/>.
 <!-- EXLINKS -->
 
 [3]: https://es.wikipedia.org/wiki/Sistema_suizo
+[banlist-l4d2center]: https://l4d2center.com/bans/
 [banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall]: https://es.wikipedia.org/wiki/Gran_Cortafuegos
