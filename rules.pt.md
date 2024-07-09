@@ -295,7 +295,8 @@ finais. Os resultados não serão aceitos por _nenhum_ outro meio.
 
 Um agendamento de partida consiste em dois elementos:
 
-- A data e hora, _com os fusos horários_, em que começará a partida.
+- A data e hora, _com os [fusos horários][tz-resolver]_, em que começará a
+  partida.
 - O número de jogos que serão jogados na partida.
 
 Incentiva-se fortemente os competidores a publicarem seus horários de partidas
@@ -627,3 +628,4 @@ Deverá ter recebido uma cópia da licença junto com esta obra. Se não, consul
 [tiebreak-cumulative]: https://web.archive.org/web/20210518014519/https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger
+[tz-resolver]: https://sesh.fyi/timestamp/

@@ -297,7 +297,8 @@ puntajes finales. Los resultados no serán aceptados por _ningún_ otro medio.
 
 Un horario de partido consiste en dos elementos:
 
-- La fecha y hora, _con las zonas horarias_, cuando comenzará el partido.
+- La fecha y hora, _con [las zonas horarias][tz-resolver]_, cuando comenzará el
+  partido.
 - El número de juegos que se jugarán en el partido.
 
 Se urge fuertemente a los competidores que publiquen sus horarios de partidos
@@ -634,3 +635,4 @@ así, consulta <http://creativecommons.org/licenses/by-sa/4.0/>.
 [tiebreak-cumulative]: https://web.archive.org/web/20210518014519/https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger
+[tz-resolver]: https://sesh.fyi/timestamp/

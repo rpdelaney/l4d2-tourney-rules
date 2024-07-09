@@ -293,7 +293,8 @@ accepted via _any_ other means.
 
 A match schedule consists of two elements:
 
-- The date and time, _with the time zones_, when the match will begin.
+- The date and time, _with the [time zones][tz-resolver]_, when the match will
+  begin.
 - The number of games that will be played in the match.
 
 Competitors are strongly urged to post their complete match schedules to avoid
@@ -618,3 +619,4 @@ see <http://creativecommons.org/licenses/by-sa/4.0/>.
 [tiebreak-cumulative]: https://web.archive.org/web/20210518014519/https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger
+[tz-resolver]: https://sesh.fyi/timestamp/

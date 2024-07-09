@@ -297,7 +297,7 @@ mapban.gg карта будет выбрана случайным образом
 
 Расписание матчей состоит из двух элементов:
 
-- Дата и время, _ с тайм-зонами \_, когда будет сыгран матч.
+- Дата и время, _с [тайм-зонами][tz-resolver]_, когда будет сыгран матч.
 - Количество игр, которое будет сыграно в матче.
 
 Участникам настоятельно рекомендуется публиковать полное расписание своих
@@ -634,3 +634,4 @@ Attribution-ShareAlike 4.0 International License.
 [tiebreak-cumulative]: https://web.archive.org/web/20210518014519/https://magic.wizards.com/en/articles/archive/cumulative-tiebreak-2013-08-01
 [tiebreak-mbucholz]: https://gist.github.com/rpdelaney/1b88b128b76b1e1a71fec59d0b5ffb14
 [tiebreak-sb]: https://senseis.xmp.net/?SonnebornBerger
+[tz-resolver]: https://sesh.fyi/timestamp/
