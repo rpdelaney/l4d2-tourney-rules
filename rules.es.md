@@ -101,8 +101,7 @@ puntos.
 Al comienzo de cada ronda suiza, cada equipo será emparejado al azar contra
 otros con el mismo registro de juegos Ganados : Perdidos.
 
-No habrá eliminaciones de la sección suiza debido a malos resultados o juegos
-perdidos.
+No habrá eliminaciones de la sección suiza debido a malos resultados o derrotas.
 
 #### 2.2.1 Doble riesgo
 
@@ -406,10 +405,11 @@ obstáculos repetidamente.
 
 ### 7.2 Navegación del Tanque
 
-Si un tanque controlado por la IA se detiene por cualquier motivo, los
-supervivientes deben ser notificados en un tiempo razonable. No posiciones
-intencionadamente un tanque de manera a que no pueda avanzar bajo control de la
-IA.
+No coloques intencionadamente al Tank en una posición que le impida avanzar cuando esté bajo control de la IA.
+
+Si un Tank controlado por la IA se queda atascado y deja de avanzar hacia los supervivientes, estos deben ser notificados en un tiempo razonable.
+
+No está permitido hacer vote-kick al Tank por ninguna razón excepto si está atascado.
 
 ### 7.3 Comando *spectate*
 
