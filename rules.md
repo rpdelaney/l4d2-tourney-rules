@@ -395,9 +395,13 @@ obstacles repeatedly.
 
 ### 7.2 Tank pathing
 
-If an AI tank stops advancing for any reason, the survivors must be notified in
-a reasonable time. Do not intentionally position a tank so that it cannot
-advance when under AI control.
+Do not intentionally position a tank so that it cannot advance when under AI
+control.
+
+If an AI tank becomes stuck and stops advancing toward survivors, the survivors
+must be notified within a reasonable amount of time.
+
+Do not kick the tank for any reason except because it is stuck.
 
 ### 7.3 Spectate command
 
