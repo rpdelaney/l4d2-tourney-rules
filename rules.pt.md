@@ -100,8 +100,7 @@ concede 0 pontos.
 No início de cada ronda suíça, cada equipe será emparelhada aleatoriamente
 contra outra com a mesma contagem de jogos Ganhos : Perdidos.
 
-Não haverá eliminações da seção suíça devido a maus resultados ou jogos
-perdidos.
+Não haverá eliminações da seção suíça devido a maus resultados ou derrotas.
 
 #### 2.2.1 Dupla condenação
 
@@ -402,9 +401,11 @@ maneira a que os infectados tenham que escalar obstáculos repetidamente.
 
 ### 7.2 Navegação do Tank
 
-Se um tank controlado pela IA parar por qualquer motivo, os sobreviventes devem
-ser notificados em um tempo razoável. Não posicione intencionalmente um tank de
-maneira a que este não possa avançar sob controle da IA.
+Não posicione intencionalmente o Tank de forma a que não possa avançar quando estiver sendo controlado pela IA.
+
+Se um Tank controlado pela IA ficar preso e parar de avançar em direção aos sobreviventes, os sobreviventes devem ser notificados em tempo razoável.
+
+Não está permitido fazer vote-kick ao Tank por qualquer motivo, exceto se ele estiver preso.
 
 ### 7.3 Comando *spectate*
 
