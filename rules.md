@@ -130,11 +130,12 @@ Forfeits distort the results by unbalancing the tiebreakers. Moreover, they
 disappoint other competitors who have joined the tournament to participate in
 the competition.
 
+If your team forfeits any match, you MUST make a request in `#results` to
+continue in the tournament before the next round begins. Otherwise, **you will
+be removed from the tournament without notice.**
+
 If you wish to withdraw from the tournament, please tell one of the Tournament
 Directors by filing a ticket under `#issues`.
-
-If your team forfeits any match, you MUST ask to be paired in the next round,
-or **you will be removed from the tournament without notice.**
 
 #### 2.2.5 References
 
@@ -394,9 +395,13 @@ obstacles repeatedly.
 
 ### 7.2 Tank pathing
 
-If an AI tank stops advancing for any reason, the survivors must be notified in
-a reasonable time. Do not intentionally position a tank so that it cannot
-advance when under AI control.
+Do not intentionally position a tank so that it cannot advance when under AI
+control.
+
+If an AI tank becomes stuck and stops advancing toward survivors, the survivors
+must be notified within a reasonable amount of time.
+
+Do not kick the tank for any reason except because it is stuck.
 
 ### 7.3 Spectate command
 
