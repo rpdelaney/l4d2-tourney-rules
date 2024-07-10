@@ -103,7 +103,7 @@ RBT系列赛事的创始人 Rails Barlow 将作为本次赛事的顾问提供支
 平分队伍按以下标准排名，优先度从高到低按降序排列：
 
 1. [Median Bucholz][tiebreak-mbucholz]
-   译者注：每支队伍的\*\*所有对手（不论胜负）\*\*的得分，去掉一个最高分和一个最低分后的对手得分总和，即为自己的Median
+   译者注：每支队伍的\*\*所有对手\\（不论胜负\\）\*\*的得分，去掉一个最高分和一个最低分后的对手得分总和，即为自己的Median
    Bucholz分数。分数高者排名列前。
 1. [Cumulative][tiebreak-cumulative]
    译者注：每支队伍截至上一轮的Cumulative分（其实就是累计得分，第一轮从0开始）除以四再加上当前轮次的总得分，即为自己当前轮的Cumulative分。举例：第一轮胜，0/4+1
@@ -137,7 +137,7 @@ RBT系列赛事的创始人 Rails Barlow 将作为本次赛事的顾问提供支
 每轮比赛将使用 [mapban.gg](https://mapban.gg) 来选择地图。每轮比赛的地图池将在比赛开始时与对阵一起发布。
 
 种子排名更高的队伍决定哪一边先开始ban图。每支队伍轮流ban图，直到剩下两张地图。然后，mapban.gg 将随机选择一张地图。(使用 "Ban until
-1 maps left" 选项<!-- leave the quote in English -->).
+1 maps lft" 选项<!-- leave the quote in English -->).
 
 ### 2.3 救援关
 
@@ -160,16 +160,21 @@ RBT系列赛事的创始人 Rails Barlow 将作为本次赛事的顾问提供支
 
 ### 3.3 重复报名
 
-任何选手只能在一支队伍中报名参加比赛（译者注：包括被淘汰的队伍）。
+任何玩家只能在一支队伍中报名参加比赛（译者注：包括被淘汰的队伍）。
 
-### 3.4 被封禁的选手
+### 3.4 被封禁的玩家
 
 任何在SirPlease
-SourceBans上被永久封禁的选手，不得使用被封禁的账号参加比赛，也不得使用任何替代账号参加比赛。任何与被封禁选手一起参加的比赛都将被判定为弃权。
+SourceBans上被永久封禁的玩家，或者在L4D2center有时长不短于5年的封禁的玩家不得使用被封禁的账号参加比赛，也不得使用任何替代账号参加比赛。任何与被封禁玩家一起参加的比赛都将被判定为弃权。
 
-你可以在[这里][banlist-sirplease]查看公开封禁名单。
+你可以在以下链接中查看公开封禁名单：
 
-译者注：具体使用哪个封禁列表还在讨论中，目前（2024年5月19日）看可能是SirPlease的永久封禁名单与L4D2center的大于1年、被手动封禁的名单（center不设永封，自动封禁可能是使用小号，因此只取手动封禁如骂人、作弊等）取并集。
+- [Sirplease][banlist-sirplease]
+- [L4D2center][banlist-l4d2center]
+
+### 3.4.1 报名不构成例外
+
+核实你自己和你的队伍的参赛资格是你的责任。注册名单或页面上出现无资格玩家并不构成此规则的例外。
 
 ### 3.5 名单规模
 
@@ -306,11 +311,15 @@ SourceBans上被永久封禁的选手，不得使用被封禁的账号参加比�
 
 ### 7.1 利用AI寻路漏洞
 
-不得利用AI寻路漏洞使NPC感染者（例如小丧尸或witch）停止攻击（译者注：包括但不限于丢失目标）。但是，允许利用AI寻路漏洞，使感染者重复攀爬障碍物。
+不得利用AI寻路漏洞使NPC感染者（例如小丧尸或witch）停止攻击。但是，允许利用AI寻路漏洞，使感染者重复攀爬障碍物。
 
 ### 7.2 Tank路径
 
-如果AI坦克因任何原因停止前进，必须有人在合理时间内通知幸存者。不得故意将坦克定位在无法前进的位置。
+不得故意将坦克定位在无法前进的位置。
+
+如果AI坦克因任何原因停止前进，必须有人在合理时间内通知幸存者。
+
+除非tank卡住，否则不得踢出AI tank。
 
 ### 7.3 旁观指令
 
@@ -328,7 +337,7 @@ SourceBans上被永久封禁的选手，不得使用被封禁的账号参加比�
 
 ### 7.5 穿障碍复活
 
-特感不得通过“在灵魂状态下穿过障碍同时复活的方式”达成非法穿越障碍的目的（译者注：即穿门复活BUG）。
+特感不得通过“在灵魂状态下穿过障碍同时复活的方式”达成非法穿越障碍的目的。
 
 ### 7.6 从地图外攻击
 
@@ -449,7 +458,8 @@ SourceBans上被永久封禁的选手，不得使用被封禁的账号参加比�
 [3]: https://en.wikipedia.org/wiki/Swiss-system_tournament
 [4]: http://www.fide.com/component/handbook/?id=84&view=article
 [5]: http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf
-[banlist-sirplease]: https://sirplease.gg/sourcebans/index.php?p=banlist
+[banlist-l4d2center]: https://l4d2center.com/bans/
+[banlist-sirplease]: https://sirplease.gg/index.php?p=banlist
 [discord-invite]: https://discord.gg/Z8ZRuRK8ZR
 [greatfirewall-en]: https://en.wikipedia.org/wiki/Great_Firewall
 [iptables]: https://github.com/SirPlease/IPTables
