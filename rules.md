@@ -323,7 +323,7 @@ of the match.
 
 ### 6.3 Substitute players
 
-A substitute player (<!-- leave this out of translations --> also known as a
+A substitute player (<!-- leave this out of translations -->also known as a
 "ringer") is a player who participates in a match for a team they are not a
 member of.
 
