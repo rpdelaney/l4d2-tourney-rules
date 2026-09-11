@@ -1,4 +1,4 @@
-# \[TBD\] Tournament Rules
+# [TBD] Tournament Rules
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=2 --minlevel=1 -->
 
@@ -23,12 +23,12 @@
 
 Tournament Director:
 
-- \[TBD\]
+- [TBD]
 
 Assistant Tournament Directors:
 
-- \[TBD\]
-- \[TBD\]
+- [TBD]
+- [TBD]
 
 ### 1.2 Disputes
 
@@ -67,9 +67,8 @@ This is an International tournament consisting of two sections:
 - a Swiss system tournament
 - a knockout playoffs
 
-Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a double-elimination knockout
-tournament.
+Once the first section is completed, [TBD] teams will move on to the playoffs.
+The playoffs section will be a double-elimination knockout tournament.
 
 ### 2.1 International format
 
@@ -90,7 +89,7 @@ server selection and the scheduling process.
 
 ### 2.2 Swiss section
 
-The first section will be a Swiss System tournament of \[TBD\] rounds. A match
+The first section will be a Swiss System tournament of [TBD] rounds. A match
 win will score 1 point, a tie scores a half point, and a loss or forfeit scores
 0 points.
 
@@ -128,7 +127,7 @@ disappoint other competitors who have joined the tournament to participate in
 the competition.
 
 If you wish to withdraw from the tournament, please tell one of the Tournament
-Directors by \[TBD\].
+Directors by [TBD].
 
 If your team forfeits any match, you MUST ask to be paired in the next round,
 or **you will be removed from the tournament without notice.**
@@ -163,9 +162,8 @@ closed.
 
 ### 2.3 Playoffs
 
-Once the first section is completed, \[TBD\] teams will move on to the
-playoffs. The playoffs section will be a double-elimination knockout
-tournament.
+Once the first section is completed, [TBD] teams will move on to the playoffs.
+The playoffs section will be a double-elimination knockout tournament.
 
 #### 2.3.1 Mapban process
 
@@ -195,12 +193,12 @@ both teams on whether to play Chapter 5, then:
 
 ### 3.1 Registration
 
-You may register to participate in the tournament by \[TBD\]. Follow the
+You may register to participate in the tournament by [TBD]. Follow the
 instructions in the pinned messages.
 
 ### 3.2 Deadline
 
-The deadline for registrations is \[TBD\]. After this date, new entries and
+The deadline for registrations is [TBD]. After this date, new entries and
 requests for roster changes are invalid.
 
 ### 3.3 Double registration
@@ -284,7 +282,7 @@ Any player on the roster may perform scheduling duties.
 ### 5.4 Reporting results
 
 Submit results, with a screenshot, by the following Sunday at midnight
-(timezone \[TBD\]). Failure to report weekly round results before the deadline
+(timezone [TBD]). Failure to report weekly round results before the deadline
 will result in a double forfeit. Under no circumstances whatsoever will
 extensions be granted.
 
