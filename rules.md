@@ -82,7 +82,7 @@ A match may consist of:
   scheduling.
 
 If the teams cannot agree on a neutral server, they will use the Home/Away
-system.
+system. The higher (better) seed chooses which server to play first.
 
 See [Section 4: Servers](#section-4-servers) and
 [Section 5: Match schedule](#section-5-match-schedule) for more guidance on
