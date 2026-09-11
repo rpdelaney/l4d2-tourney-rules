@@ -62,7 +62,14 @@ failure to follow the tournament process.
 
 ## Section 2: Tournament format
 
-This is an International tournament consisting of two sections.
+This is an International tournament consisting of two sections:
+
+- a Swiss system tournament
+- a knockout playoffs
+
+Once the first section is completed, \[TBD\] teams will move on to the
+playoffs. The playoffs section will be a double-elimination knockout
+tournament.
 
 ### 2.1 International format
 
